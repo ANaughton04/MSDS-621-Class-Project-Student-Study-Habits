@@ -1,0 +1,1001 @@
+Timestamp,Education,Year,Field,Study_Hours,Sleep_Hours,Attendance,Revision,Exam_Prep,Social_Media,Distraction,Concentration,Assignment_Completion,Confidence,Exam_Percentage,Improvement
+14-10-2026 23:16,Postgraduate,First Year,Other Engineering,More than 5 hours,7-8 hours,76-90%,Rarely,Weekend study sessions,1-2 hours,Sometimes,5,Usually,3,60-69%,Better time management
+14-10-2026 18:44,Postgraduate,First Year,Computer Science / IT,More than 5 hours,More than 8 hours,Above 90%,Daily,Weekly revision,More than 6 hours,Never,5,Rarely,1,80-89%,Reduced social media usage
+14-10-2026 17:19,Postgraduate,Second Year,Arts / Humanities,More than 5 hours,5-6 hours,Below 50%,Once a week,No fixed routine,1-2 hours,Rarely,4,Sometimes,3,40-49%,More study time
+14-10-2026 15:49,Postgraduate,Second Year,Other Engineering,1-2 hours,6-7 hours,Below 50%,Daily,Weekly revision,4-6 hours,Rarely,1,Always,5,Below 40%,More study time
+14-10-2026 15:43,Other,Fourth Year,Computer Science / IT,More than 5 hours,7-8 hours,66-75%,Rarely,Mostly just before exams,4-6 hours,Often,1,Usually,5,60-69%,Better sleep routine
+14-10-2026 14:12,Diploma,Third Year,Computer Science / IT,Less than 1 hour,7-8 hours,76-90%,Rarely,Weekly revision,4-6 hours,Rarely,1,Sometimes,5,Below 40%,Improved concentration
+14-10-2026 12:49,Undergraduate,Second Year,Science,Less than 1 hour,5-6 hours,76-90%,Daily,Weekly revision,4-6 hours,Rarely,4,Sometimes,2,50-59%,Better time management
+14-10-2026 12:12,Other,First Year,Commerce / Management,More than 5 hours,More than 8 hours,66-75%,Several times a week,Regular daily study,Less than 1 hour,Often,3,Always,5,70-79%,Regular revision
+14-10-2026 11:54,Diploma,Fourth Year,Commerce / Management,Less than 1 hour,Less than 5 hours,Above 90%,Daily,Mostly just before exams,4-6 hours,Rarely,2,Rarely,3,60-69%,Improved concentration
+14-10-2026 11:43,Other,Other,Arts / Humanities,More than 5 hours,6-7 hours,66-75%,Rarely,Weekly revision,More than 6 hours,Never,5,Never,4,50-59%,Improved concentration
+14-10-2026 11:32,Other,Other,Science,Less than 1 hour,5-6 hours,Below 50%,Only before exams,Weekly revision,More than 6 hours,Sometimes,5,Never,1,Below 40%,Reduced social media usage
+14-10-2026 09:50,Other,Fourth Year,Other Engineering,1-2 hours,7-8 hours,Above 90%,Only before exams,Weekly revision,1-2 hours,Very often,5,Rarely,4,50-59%,Improved concentration
+14-10-2026 09:12,Undergraduate,Fourth Year,Computer Science / IT,Less than 1 hour,More than 8 hours,Above 90%,Once a week,Regular daily study,2-4 hours,Sometimes,2,Always,1,40-49%,Better time management
+14-10-2026 09:08,Diploma,Fourth Year,Commerce / Management,2-3 hours,7-8 hours,Above 90%,Once a week,Mostly just before exams,2-4 hours,Never,3,Always,3,70-79%,Better sleep routine
+14-10-2026 06:56,Postgraduate,Fourth Year,Arts / Humanities,3-5 hours,5-6 hours,Below 50%,Daily,Regular daily study,1-2 hours,Never,4,Never,5,70-79%,Improved concentration
+14-10-2026 06:39,Diploma,First Year,Computer Science / IT,2-3 hours,7-8 hours,50-65%,Once a week,No fixed routine,More than 6 hours,Rarely,2,Always,1,50-59%,Better learning resources
+14-10-2026 05:46,Postgraduate,Third Year,Other,1-2 hours,More than 8 hours,Above 90%,Only before exams,No fixed routine,1-2 hours,Sometimes,5,Usually,4,40-49%,Improved concentration
+14-10-2026 05:22,Other,First Year,Science,1-2 hours,6-7 hours,Below 50%,Once a week,Regular daily study,More than 6 hours,Often,3,Never,3,50-59%,Regular revision
+14-10-2026 00:44,Other,Other,Science,1-2 hours,Less than 5 hours,66-75%,Once a week,Mostly just before exams,More than 6 hours,Often,4,Usually,5,40-49%,More study time
+14-10-2026 00:21,Postgraduate,Second Year,Other Engineering,More than 5 hours,7-8 hours,Above 90%,Several times a week,Weekly revision,Less than 1 hour,Never,1,Never,3,60-69%,Better sleep routine
+13-10-2026 19:55,Undergraduate,Fourth Year,Science,2-3 hours,6-7 hours,66-75%,Rarely,Weekend study sessions,1-2 hours,Never,4,Always,2,60-69%,Regular revision
+13-10-2026 18:45,Undergraduate,Second Year,Other,3-5 hours,5-6 hours,Below 50%,Daily,No fixed routine,More than 6 hours,Sometimes,2,Never,3,50-59%,Improved concentration
+13-10-2026 18:42,Other,Fourth Year,Arts / Humanities,2-3 hours,More than 8 hours,Below 50%,Only before exams,Regular daily study,1-2 hours,Rarely,2,Rarely,5,40-49%,More study time
+13-10-2026 16:53,Undergraduate,First Year,Other Engineering,More than 5 hours,7-8 hours,Below 50%,Several times a week,Weekly revision,1-2 hours,Often,4,Always,1,60-69%,Reduced social media usage
+13-10-2026 14:39,Undergraduate,Other,Other,Less than 1 hour,More than 8 hours,Below 50%,Only before exams,No fixed routine,4-6 hours,Often,5,Usually,4,Below 40%,Regular revision
+13-10-2026 12:17,Postgraduate,Second Year,Other Engineering,2-3 hours,Less than 5 hours,50-65%,Once a week,No fixed routine,2-4 hours,Very often,4,Rarely,3,50-59%,Better learning resources
+13-10-2026 11:58,Other,Other,Computer Science / IT,Less than 1 hour,7-8 hours,Above 90%,Only before exams,Weekend study sessions,2-4 hours,Often,1,Never,4,Below 40%,Reduced social media usage
+13-10-2026 11:44,Undergraduate,Fourth Year,Arts / Humanities,Less than 1 hour,7-8 hours,66-75%,Several times a week,No fixed routine,More than 6 hours,Rarely,5,Always,5,40-49%,Reduced social media usage
+13-10-2026 11:07,Other,Fourth Year,Science,3-5 hours,Less than 5 hours,Above 90%,Rarely,Weekly revision,1-2 hours,Very often,3,Sometimes,2,60-69%,Better time management
+13-10-2026 10:20,Other,Other,Other Engineering,3-5 hours,More than 8 hours,Below 50%,Rarely,No fixed routine,Less than 1 hour,Sometimes,2,Always,3,40-49%,More study time
+13-10-2026 09:26,Diploma,Other,Computer Science / IT,Less than 1 hour,5-6 hours,Below 50%,Several times a week,Weekend study sessions,2-4 hours,Sometimes,4,Rarely,5,Below 40%,Improved concentration
+13-10-2026 09:11,Postgraduate,Second Year,Computer Science / IT,More than 5 hours,Less than 5 hours,50-65%,Rarely,Weekly revision,2-4 hours,Sometimes,3,Rarely,2,Below 40%,Better time management
+13-10-2026 08:43,Other,Other,Commerce / Management,1-2 hours,More than 8 hours,Below 50%,Once a week,Weekend study sessions,More than 6 hours,Sometimes,4,Never,3,40-49%,Better sleep routine
+13-10-2026 07:29,Postgraduate,Second Year,Other,2-3 hours,Less than 5 hours,50-65%,Rarely,Weekly revision,2-4 hours,Often,2,Always,1,Below 40%,Better sleep routine
+13-10-2026 05:32,Other,First Year,Arts / Humanities,3-5 hours,7-8 hours,76-90%,Several times a week,Weekly revision,1-2 hours,Often,2,Rarely,1,80-89%,Improved concentration
+13-10-2026 04:04,Other,Third Year,Science,2-3 hours,Less than 5 hours,50-65%,Only before exams,Weekly revision,Less than 1 hour,Rarely,2,Usually,5,Below 40%,Regular revision
+13-10-2026 01:10,Postgraduate,First Year,Science,Less than 1 hour,More than 8 hours,76-90%,Once a week,No fixed routine,Less than 1 hour,Never,2,Always,2,50-59%,Regular revision
+12-10-2026 19:02,Other,Other,Arts / Humanities,1-2 hours,5-6 hours,76-90%,Several times a week,No fixed routine,1-2 hours,Very often,2,Sometimes,1,60-69%,More study time
+12-10-2026 18:53,Other,First Year,Other,3-5 hours,5-6 hours,66-75%,Once a week,Regular daily study,Less than 1 hour,Often,5,Usually,3,60-69%,More study time
+12-10-2026 18:49,Postgraduate,Second Year,Commerce / Management,More than 5 hours,Less than 5 hours,Above 90%,Rarely,Regular daily study,Less than 1 hour,Rarely,1,Rarely,2,60-69%,Reduced social media usage
+12-10-2026 18:34,Postgraduate,Fourth Year,Science,2-3 hours,6-7 hours,Below 50%,Only before exams,Regular daily study,Less than 1 hour,Rarely,1,Usually,4,40-49%,Better time management
+12-10-2026 17:58,Postgraduate,Second Year,Other Engineering,Less than 1 hour,5-6 hours,50-65%,Only before exams,Weekend study sessions,Less than 1 hour,Rarely,2,Usually,3,Below 40%,Better time management
+12-10-2026 17:33,Other,Third Year,Arts / Humanities,1-2 hours,5-6 hours,66-75%,Several times a week,Mostly just before exams,More than 6 hours,Rarely,2,Rarely,3,60-69%,More study time
+12-10-2026 15:15,Postgraduate,Fourth Year,Arts / Humanities,More than 5 hours,More than 8 hours,Below 50%,Rarely,Weekly revision,2-4 hours,Very often,3,Usually,5,50-59%,Better time management
+12-10-2026 14:55,Undergraduate,Second Year,Commerce / Management,3-5 hours,More than 8 hours,Above 90%,Once a week,Weekly revision,Less than 1 hour,Never,3,Rarely,5,70-79%,Improved concentration
+12-10-2026 14:46,Diploma,Third Year,Arts / Humanities,Less than 1 hour,Less than 5 hours,Below 50%,Only before exams,Regular daily study,More than 6 hours,Never,4,Sometimes,1,Below 40%,Improved concentration
+12-10-2026 13:54,Diploma,First Year,Commerce / Management,More than 5 hours,5-6 hours,50-65%,Daily,Weekend study sessions,More than 6 hours,Very often,2,Never,4,60-69%,Better sleep routine
+12-10-2026 13:51,Diploma,First Year,Science,3-5 hours,More than 8 hours,76-90%,Only before exams,Regular daily study,Less than 1 hour,Sometimes,5,Rarely,4,70-79%,Better time management
+12-10-2026 11:35,Postgraduate,Fourth Year,Other Engineering,1-2 hours,More than 8 hours,76-90%,Only before exams,No fixed routine,Less than 1 hour,Never,1,Sometimes,1,50-59%,Regular revision
+12-10-2026 11:19,Postgraduate,Fourth Year,Computer Science / IT,1-2 hours,7-8 hours,Above 90%,Only before exams,Weekly revision,4-6 hours,Never,3,Rarely,1,40-49%,Reduced social media usage
+12-10-2026 09:05,Other,Third Year,Commerce / Management,2-3 hours,More than 8 hours,76-90%,Daily,Weekend study sessions,2-4 hours,Sometimes,3,Sometimes,3,70-79%,Reduced social media usage
+12-10-2026 07:02,Other,First Year,Science,3-5 hours,Less than 5 hours,Below 50%,Rarely,Weekend study sessions,More than 6 hours,Sometimes,4,Sometimes,5,Below 40%,Reduced social media usage
+12-10-2026 05:07,Undergraduate,First Year,Science,2-3 hours,6-7 hours,Below 50%,Rarely,Mostly just before exams,1-2 hours,Sometimes,5,Never,1,50-59%,Improved concentration
+12-10-2026 04:50,Undergraduate,Second Year,Commerce / Management,3-5 hours,7-8 hours,Below 50%,Rarely,Mostly just before exams,2-4 hours,Very often,2,Always,5,40-49%,Reduced social media usage
+12-10-2026 04:40,Diploma,First Year,Other,More than 5 hours,More than 8 hours,66-75%,Several times a week,Mostly just before exams,4-6 hours,Often,4,Never,3,80-89%,Improved concentration
+12-10-2026 03:40,Postgraduate,First Year,Science,Less than 1 hour,7-8 hours,Above 90%,Daily,Regular daily study,Less than 1 hour,Never,4,Usually,4,50-59%,Better sleep routine
+12-10-2026 03:33,Undergraduate,Other,Computer Science / IT,1-2 hours,7-8 hours,Above 90%,Once a week,Regular daily study,2-4 hours,Sometimes,5,Sometimes,2,50-59%,Regular revision
+12-10-2026 02:45,Undergraduate,Second Year,Science,1-2 hours,6-7 hours,66-75%,Once a week,Mostly just before exams,2-4 hours,Rarely,5,Never,4,50-59%,Better sleep routine
+12-10-2026 02:43,Postgraduate,Second Year,Other,2-3 hours,Less than 5 hours,Above 90%,Daily,Regular daily study,4-6 hours,Never,1,Usually,5,70-79%,More study time
+12-10-2026 02:09,Postgraduate,Fourth Year,Arts / Humanities,2-3 hours,More than 8 hours,66-75%,Daily,Mostly just before exams,4-6 hours,Often,1,Usually,5,50-59%,More study time
+12-10-2026 01:28,Undergraduate,Fourth Year,Other,More than 5 hours,More than 8 hours,66-75%,Rarely,Weekly revision,More than 6 hours,Rarely,4,Never,4,50-59%,Reduced social media usage
+11-10-2026 21:24,Undergraduate,Fourth Year,Science,2-3 hours,Less than 5 hours,Below 50%,Rarely,Weekend study sessions,More than 6 hours,Rarely,3,Always,5,40-49%,Better time management
+11-10-2026 20:11,Undergraduate,Second Year,Science,1-2 hours,6-7 hours,50-65%,Only before exams,Weekend study sessions,2-4 hours,Very often,4,Usually,4,50-59%,Better time management
+11-10-2026 17:31,Undergraduate,Third Year,Other,1-2 hours,7-8 hours,76-90%,Daily,Weekly revision,2-4 hours,Never,5,Usually,4,60-69%,Better time management
+11-10-2026 17:20,Undergraduate,Fourth Year,Other Engineering,2-3 hours,6-7 hours,Above 90%,Daily,Weekend study sessions,More than 6 hours,Never,3,Sometimes,3,60-69%,Better learning resources
+11-10-2026 14:46,Undergraduate,Second Year,Science,2-3 hours,6-7 hours,50-65%,Once a week,No fixed routine,More than 6 hours,Never,4,Sometimes,2,60-69%,Better sleep routine
+11-10-2026 11:09,Undergraduate,Fourth Year,Commerce / Management,More than 5 hours,More than 8 hours,66-75%,Several times a week,Weekend study sessions,Less than 1 hour,Never,1,Never,5,60-69%,Better time management
+11-10-2026 07:55,Undergraduate,Second Year,Other,Less than 1 hour,6-7 hours,66-75%,Only before exams,Regular daily study,More than 6 hours,Rarely,1,Usually,3,Below 40%,Better learning resources
+11-10-2026 07:26,Other,Other,Commerce / Management,1-2 hours,More than 8 hours,Below 50%,Rarely,Mostly just before exams,4-6 hours,Never,5,Sometimes,2,40-49%,More study time
+11-10-2026 06:04,Diploma,Second Year,Arts / Humanities,2-3 hours,More than 8 hours,66-75%,Once a week,No fixed routine,4-6 hours,Never,2,Always,4,50-59%,Improved concentration
+11-10-2026 05:16,Diploma,Second Year,Computer Science / IT,1-2 hours,Less than 5 hours,Above 90%,Daily,Mostly just before exams,2-4 hours,Often,5,Rarely,4,70-79%,Improved concentration
+11-10-2026 05:11,Diploma,First Year,Science,More than 5 hours,5-6 hours,50-65%,Daily,No fixed routine,4-6 hours,Often,5,Never,2,60-69%,Improved concentration
+11-10-2026 04:25,Other,Fourth Year,Commerce / Management,2-3 hours,More than 8 hours,50-65%,Several times a week,Mostly just before exams,1-2 hours,Sometimes,5,Usually,2,70-79%,Better learning resources
+11-10-2026 03:58,Other,First Year,Other Engineering,More than 5 hours,6-7 hours,66-75%,Several times a week,Regular daily study,4-6 hours,Rarely,4,Usually,3,70-79%,Improved concentration
+11-10-2026 03:32,Postgraduate,First Year,Computer Science / IT,Less than 1 hour,5-6 hours,66-75%,Daily,Weekly revision,1-2 hours,Sometimes,2,Sometimes,4,40-49%,More study time
+11-10-2026 03:09,Undergraduate,Third Year,Commerce / Management,1-2 hours,More than 8 hours,66-75%,Once a week,Weekly revision,More than 6 hours,Often,2,Always,2,40-49%,More study time
+11-10-2026 02:38,Undergraduate,Other,Other Engineering,More than 5 hours,Less than 5 hours,Above 90%,Only before exams,Weekend study sessions,More than 6 hours,Very often,5,Usually,5,70-79%,Reduced social media usage
+10-10-2026 23:31,Other,Second Year,Commerce / Management,1-2 hours,6-7 hours,76-90%,Once a week,Weekly revision,4-6 hours,Very often,3,Usually,2,60-69%,Better sleep routine
+10-10-2026 17:53,Diploma,Fourth Year,Arts / Humanities,More than 5 hours,5-6 hours,Above 90%,Daily,Weekend study sessions,1-2 hours,Very often,2,Usually,2,70-79%,More study time
+10-10-2026 15:30,Undergraduate,Second Year,Other Engineering,1-2 hours,7-8 hours,76-90%,Several times a week,Mostly just before exams,1-2 hours,Sometimes,5,Usually,3,60-69%,Better learning resources
+10-10-2026 14:54,Postgraduate,Second Year,Computer Science / IT,1-2 hours,More than 8 hours,50-65%,Daily,No fixed routine,1-2 hours,Rarely,1,Always,1,50-59%,Regular revision
+10-10-2026 13:10,Undergraduate,Third Year,Science,3-5 hours,7-8 hours,66-75%,Several times a week,Mostly just before exams,2-4 hours,Never,3,Rarely,1,50-59%,Better sleep routine
+10-10-2026 12:47,Postgraduate,First Year,Computer Science / IT,2-3 hours,7-8 hours,Below 50%,Rarely,Weekly revision,Less than 1 hour,Often,2,Always,2,Below 40%,Regular revision
+10-10-2026 11:00,Other,Fourth Year,Other,3-5 hours,More than 8 hours,76-90%,Several times a week,No fixed routine,4-6 hours,Often,4,Never,5,60-69%,Better learning resources
+10-10-2026 06:31,Diploma,First Year,Computer Science / IT,Less than 1 hour,6-7 hours,76-90%,Once a week,No fixed routine,More than 6 hours,Sometimes,5,Rarely,2,50-59%,Better time management
+10-10-2026 03:32,Diploma,Third Year,Other Engineering,1-2 hours,More than 8 hours,76-90%,Once a week,No fixed routine,4-6 hours,Often,3,Always,5,40-49%,Improved concentration
+09-10-2026 22:52,Other,Third Year,Other Engineering,Less than 1 hour,More than 8 hours,66-75%,Several times a week,Weekly revision,Less than 1 hour,Very often,2,Rarely,2,50-59%,Better learning resources
+09-10-2026 21:28,Undergraduate,Other,Other Engineering,2-3 hours,Less than 5 hours,76-90%,Once a week,Weekend study sessions,4-6 hours,Never,1,Never,3,60-69%,Better time management
+09-10-2026 21:27,Other,Second Year,Science,2-3 hours,5-6 hours,Below 50%,Once a week,Regular daily study,More than 6 hours,Rarely,2,Rarely,4,40-49%,Better time management
+09-10-2026 20:03,Diploma,Third Year,Other,1-2 hours,More than 8 hours,Above 90%,Only before exams,No fixed routine,2-4 hours,Often,2,Always,2,60-69%,More study time
+09-10-2026 19:50,Undergraduate,Second Year,Other Engineering,3-5 hours,Less than 5 hours,76-90%,Once a week,Mostly just before exams,Less than 1 hour,Often,1,Sometimes,4,50-59%,Better time management
+09-10-2026 13:06,Undergraduate,Other,Other Engineering,2-3 hours,5-6 hours,Above 90%,Rarely,Mostly just before exams,More than 6 hours,Often,2,Always,5,60-69%,More study time
+09-10-2026 12:52,Undergraduate,Fourth Year,Science,3-5 hours,7-8 hours,66-75%,Daily,Mostly just before exams,4-6 hours,Sometimes,3,Never,2,70-79%,Reduced social media usage
+09-10-2026 09:45,Other,Third Year,Computer Science / IT,More than 5 hours,More than 8 hours,76-90%,Several times a week,Weekly revision,1-2 hours,Never,1,Never,1,50-59%,Better time management
+09-10-2026 09:41,Other,Second Year,Other,Less than 1 hour,Less than 5 hours,Above 90%,Once a week,Weekend study sessions,2-4 hours,Rarely,3,Never,1,60-69%,Reduced social media usage
+09-10-2026 09:20,Other,Third Year,Other,3-5 hours,6-7 hours,76-90%,Once a week,Mostly just before exams,1-2 hours,Rarely,5,Sometimes,2,60-69%,Reduced social media usage
+09-10-2026 07:59,Diploma,Fourth Year,Other Engineering,Less than 1 hour,7-8 hours,Above 90%,Daily,No fixed routine,1-2 hours,Never,2,Never,2,70-79%,Improved concentration
+09-10-2026 07:35,Other,Third Year,Arts / Humanities,Less than 1 hour,6-7 hours,Below 50%,Several times a week,Weekly revision,Less than 1 hour,Often,5,Rarely,4,Below 40%,Regular revision
+09-10-2026 03:54,Diploma,Fourth Year,Commerce / Management,Less than 1 hour,7-8 hours,76-90%,Only before exams,No fixed routine,4-6 hours,Sometimes,3,Usually,2,Below 40%,Better sleep routine
+09-10-2026 03:00,Postgraduate,Other,Other,2-3 hours,Less than 5 hours,76-90%,Daily,No fixed routine,1-2 hours,Rarely,3,Always,5,80-89%,More study time
+09-10-2026 01:49,Postgraduate,First Year,Arts / Humanities,2-3 hours,5-6 hours,50-65%,Once a week,No fixed routine,1-2 hours,Very often,5,Usually,1,50-59%,Improved concentration
+09-10-2026 00:41,Other,Third Year,Science,2-3 hours,6-7 hours,Above 90%,Daily,Mostly just before exams,Less than 1 hour,Never,1,Always,3,50-59%,Regular revision
+08-10-2026 22:08,Undergraduate,Other,Computer Science / IT,3-5 hours,5-6 hours,Above 90%,Only before exams,No fixed routine,1-2 hours,Sometimes,4,Usually,2,60-69%,Reduced social media usage
+08-10-2026 19:55,Diploma,Third Year,Computer Science / IT,3-5 hours,More than 8 hours,66-75%,Daily,No fixed routine,4-6 hours,Very often,2,Sometimes,5,60-69%,More study time
+08-10-2026 18:53,Other,Other,Computer Science / IT,More than 5 hours,Less than 5 hours,66-75%,Only before exams,Regular daily study,2-4 hours,Never,3,Sometimes,4,50-59%,Better sleep routine
+08-10-2026 18:24,Other,Third Year,Commerce / Management,3-5 hours,6-7 hours,66-75%,Once a week,Weekly revision,2-4 hours,Sometimes,3,Always,3,80-89%,Better time management
+08-10-2026 17:25,Postgraduate,Second Year,Other Engineering,1-2 hours,More than 8 hours,66-75%,Rarely,Weekly revision,More than 6 hours,Often,5,Usually,2,50-59%,Better time management
+08-10-2026 11:13,Other,Other,Arts / Humanities,More than 5 hours,More than 8 hours,76-90%,Once a week,Mostly just before exams,Less than 1 hour,Very often,1,Always,2,70-79%,Better sleep routine
+08-10-2026 10:32,Undergraduate,First Year,Other Engineering,2-3 hours,More than 8 hours,Below 50%,Several times a week,No fixed routine,1-2 hours,Sometimes,3,Usually,5,60-69%,Regular revision
+08-10-2026 09:32,Other,Second Year,Arts / Humanities,2-3 hours,Less than 5 hours,Below 50%,Once a week,Weekend study sessions,1-2 hours,Often,2,Rarely,1,Below 40%,Better learning resources
+08-10-2026 09:16,Undergraduate,Second Year,Other,Less than 1 hour,Less than 5 hours,50-65%,Only before exams,Weekend study sessions,2-4 hours,Never,2,Always,1,Below 40%,Better sleep routine
+08-10-2026 09:03,Other,Fourth Year,Other Engineering,2-3 hours,More than 8 hours,66-75%,Rarely,No fixed routine,4-6 hours,Sometimes,1,Always,2,Below 40%,Better learning resources
+08-10-2026 03:51,Undergraduate,First Year,Computer Science / IT,Less than 1 hour,5-6 hours,76-90%,Rarely,Regular daily study,More than 6 hours,Often,5,Never,4,40-49%,Better learning resources
+08-10-2026 00:41,Postgraduate,Second Year,Other Engineering,2-3 hours,More than 8 hours,66-75%,Once a week,No fixed routine,2-4 hours,Never,2,Sometimes,3,40-49%,Better sleep routine
+07-10-2026 22:46,Postgraduate,First Year,Arts / Humanities,1-2 hours,5-6 hours,Below 50%,Rarely,Weekly revision,4-6 hours,Often,2,Never,1,Below 40%,Reduced social media usage
+07-10-2026 21:30,Other,First Year,Arts / Humanities,1-2 hours,7-8 hours,50-65%,Rarely,Regular daily study,More than 6 hours,Often,5,Rarely,2,Below 40%,Regular revision
+07-10-2026 20:48,Postgraduate,Third Year,Arts / Humanities,3-5 hours,6-7 hours,Below 50%,Once a week,No fixed routine,1-2 hours,Never,5,Usually,2,40-49%,More study time
+07-10-2026 15:14,Other,Third Year,Other,2-3 hours,7-8 hours,66-75%,Once a week,No fixed routine,2-4 hours,Very often,4,Rarely,4,70-79%,Reduced social media usage
+07-10-2026 14:08,Postgraduate,First Year,Science,More than 5 hours,6-7 hours,76-90%,Several times a week,No fixed routine,More than 6 hours,Rarely,5,Sometimes,1,90% and above,More study time
+07-10-2026 11:19,Undergraduate,Third Year,Computer Science / IT,3-5 hours,7-8 hours,76-90%,Rarely,Mostly just before exams,More than 6 hours,Never,3,Never,4,60-69%,Improved concentration
+07-10-2026 11:12,Other,Fourth Year,Other,2-3 hours,7-8 hours,50-65%,Daily,Mostly just before exams,2-4 hours,Never,4,Never,3,80-89%,Improved concentration
+07-10-2026 04:37,Other,Fourth Year,Arts / Humanities,3-5 hours,More than 8 hours,66-75%,Several times a week,No fixed routine,Less than 1 hour,Never,3,Always,2,50-59%,Better learning resources
+07-10-2026 02:44,Other,First Year,Other,2-3 hours,More than 8 hours,50-65%,Rarely,No fixed routine,1-2 hours,Often,2,Never,1,Below 40%,Better learning resources
+07-10-2026 02:33,Undergraduate,Third Year,Commerce / Management,2-3 hours,5-6 hours,66-75%,Several times a week,Weekly revision,4-6 hours,Often,4,Usually,3,50-59%,Better time management
+07-10-2026 02:28,Postgraduate,Fourth Year,Other,3-5 hours,7-8 hours,66-75%,Only before exams,Mostly just before exams,More than 6 hours,Very often,3,Never,4,40-49%,Improved concentration
+07-10-2026 02:26,Postgraduate,Second Year,Other,2-3 hours,6-7 hours,66-75%,Rarely,Regular daily study,More than 6 hours,Often,2,Always,4,Below 40%,Reduced social media usage
+07-10-2026 02:22,Undergraduate,Second Year,Arts / Humanities,2-3 hours,7-8 hours,76-90%,Only before exams,Weekend study sessions,2-4 hours,Never,5,Never,1,50-59%,Better time management
+07-10-2026 02:09,Other,Other,Commerce / Management,1-2 hours,Less than 5 hours,76-90%,Only before exams,Weekend study sessions,More than 6 hours,Sometimes,4,Always,4,40-49%,Better time management
+07-10-2026 01:18,Undergraduate,Fourth Year,Other Engineering,3-5 hours,7-8 hours,Below 50%,Only before exams,Weekend study sessions,2-4 hours,Sometimes,1,Usually,3,Below 40%,Better sleep routine
+07-10-2026 00:41,Other,Fourth Year,Other Engineering,More than 5 hours,7-8 hours,50-65%,Daily,Mostly just before exams,More than 6 hours,Very often,5,Always,2,90% and above,Better time management
+07-10-2026 00:08,Other,First Year,Other Engineering,3-5 hours,More than 8 hours,Above 90%,Daily,Regular daily study,4-6 hours,Very often,3,Never,1,80-89%,Reduced social media usage
+06-10-2026 22:48,Postgraduate,Fourth Year,Other,Less than 1 hour,5-6 hours,66-75%,Only before exams,Weekly revision,4-6 hours,Very often,2,Always,3,Below 40%,Reduced social media usage
+06-10-2026 20:28,Diploma,Second Year,Computer Science / IT,1-2 hours,Less than 5 hours,66-75%,Once a week,Mostly just before exams,4-6 hours,Rarely,1,Usually,3,50-59%,More study time
+06-10-2026 18:06,Postgraduate,Second Year,Computer Science / IT,More than 5 hours,7-8 hours,Below 50%,Once a week,Regular daily study,Less than 1 hour,Often,1,Sometimes,2,50-59%,Better learning resources
+06-10-2026 17:46,Postgraduate,Second Year,Arts / Humanities,2-3 hours,More than 8 hours,Below 50%,Several times a week,Weekend study sessions,Less than 1 hour,Very often,4,Sometimes,2,40-49%,Reduced social media usage
+06-10-2026 16:58,Postgraduate,Fourth Year,Computer Science / IT,More than 5 hours,6-7 hours,76-90%,Rarely,Weekly revision,1-2 hours,Often,3,Never,1,40-49%,Better learning resources
+06-10-2026 08:54,Postgraduate,Second Year,Computer Science / IT,3-5 hours,More than 8 hours,50-65%,Several times a week,No fixed routine,1-2 hours,Rarely,5,Rarely,3,60-69%,Better learning resources
+06-10-2026 08:52,Undergraduate,Third Year,Commerce / Management,More than 5 hours,7-8 hours,66-75%,Once a week,Weekend study sessions,1-2 hours,Often,1,Never,3,50-59%,More study time
+06-10-2026 06:03,Other,Second Year,Computer Science / IT,Less than 1 hour,More than 8 hours,Below 50%,Rarely,Weekly revision,4-6 hours,Never,3,Sometimes,2,Below 40%,Reduced social media usage
+06-10-2026 05:31,Other,First Year,Science,1-2 hours,5-6 hours,Above 90%,Daily,No fixed routine,4-6 hours,Rarely,5,Never,3,70-79%,Reduced social media usage
+06-10-2026 03:18,Postgraduate,Other,Commerce / Management,2-3 hours,6-7 hours,Above 90%,Several times a week,Weekly revision,2-4 hours,Very often,2,Rarely,2,80-89%,Improved concentration
+06-10-2026 03:16,Undergraduate,Third Year,Arts / Humanities,Less than 1 hour,More than 8 hours,76-90%,Only before exams,No fixed routine,2-4 hours,Rarely,2,Usually,3,Below 40%,Better learning resources
+06-10-2026 03:03,Other,Fourth Year,Other,More than 5 hours,More than 8 hours,66-75%,Several times a week,Regular daily study,More than 6 hours,Very often,3,Sometimes,3,60-69%,Regular revision
+06-10-2026 02:43,Undergraduate,Other,Arts / Humanities,1-2 hours,6-7 hours,Above 90%,Rarely,No fixed routine,Less than 1 hour,Sometimes,4,Always,1,Below 40%,Improved concentration
+06-10-2026 02:30,Postgraduate,Third Year,Other Engineering,1-2 hours,7-8 hours,76-90%,Only before exams,Weekly revision,1-2 hours,Rarely,4,Never,5,50-59%,Better sleep routine
+06-10-2026 02:18,Diploma,First Year,Commerce / Management,Less than 1 hour,5-6 hours,50-65%,Only before exams,Mostly just before exams,2-4 hours,Sometimes,4,Always,2,40-49%,Regular revision
+06-10-2026 01:54,Other,Third Year,Computer Science / IT,2-3 hours,7-8 hours,Above 90%,Several times a week,Weekend study sessions,4-6 hours,Never,2,Rarely,3,70-79%,Better learning resources
+05-10-2026 22:21,Diploma,Other,Computer Science / IT,Less than 1 hour,7-8 hours,Above 90%,Several times a week,Weekly revision,4-6 hours,Never,4,Rarely,4,60-69%,Better sleep routine
+05-10-2026 20:38,Diploma,Second Year,Science,1-2 hours,More than 8 hours,50-65%,Several times a week,No fixed routine,1-2 hours,Rarely,4,Always,5,40-49%,More study time
+05-10-2026 20:02,Other,Second Year,Other,Less than 1 hour,5-6 hours,50-65%,Rarely,Regular daily study,1-2 hours,Sometimes,2,Always,2,Below 40%,More study time
+05-10-2026 19:40,Other,Third Year,Science,More than 5 hours,Less than 5 hours,76-90%,Only before exams,No fixed routine,Less than 1 hour,Very often,1,Never,3,70-79%,Improved concentration
+05-10-2026 18:54,Other,Other,Arts / Humanities,1-2 hours,6-7 hours,Above 90%,Only before exams,Weekend study sessions,Less than 1 hour,Often,1,Never,5,Below 40%,Better learning resources
+05-10-2026 16:04,Diploma,Other,Other,Less than 1 hour,More than 8 hours,66-75%,Several times a week,Weekly revision,1-2 hours,Rarely,3,Never,5,50-59%,Better time management
+05-10-2026 15:04,Postgraduate,Second Year,Arts / Humanities,More than 5 hours,7-8 hours,66-75%,Several times a week,Weekend study sessions,2-4 hours,Rarely,1,Always,5,70-79%,Regular revision
+05-10-2026 15:01,Undergraduate,Fourth Year,Other Engineering,Less than 1 hour,7-8 hours,76-90%,Once a week,Weekend study sessions,More than 6 hours,Rarely,5,Usually,4,50-59%,Better sleep routine
+05-10-2026 12:14,Postgraduate,Other,Computer Science / IT,3-5 hours,7-8 hours,66-75%,Daily,Mostly just before exams,2-4 hours,Rarely,3,Usually,3,60-69%,Better sleep routine
+05-10-2026 08:50,Other,Other,Arts / Humanities,Less than 1 hour,6-7 hours,Below 50%,Daily,No fixed routine,1-2 hours,Often,4,Never,4,Below 40%,Better time management
+05-10-2026 08:45,Other,Third Year,Science,3-5 hours,6-7 hours,76-90%,Only before exams,Regular daily study,2-4 hours,Very often,2,Always,2,70-79%,Improved concentration
+05-10-2026 05:09,Diploma,Second Year,Other,More than 5 hours,5-6 hours,66-75%,Daily,Weekly revision,1-2 hours,Sometimes,2,Always,2,80-89%,Improved concentration
+05-10-2026 03:02,Diploma,Second Year,Other,More than 5 hours,6-7 hours,66-75%,Several times a week,Regular daily study,More than 6 hours,Very often,3,Rarely,4,70-79%,Reduced social media usage
+05-10-2026 01:01,Postgraduate,Second Year,Science,3-5 hours,More than 8 hours,76-90%,Several times a week,No fixed routine,1-2 hours,Never,1,Never,3,50-59%,Improved concentration
+05-10-2026 00:01,Undergraduate,First Year,Science,2-3 hours,6-7 hours,50-65%,Only before exams,Mostly just before exams,1-2 hours,Never,1,Sometimes,3,40-49%,Improved concentration
+04-10-2026 22:04,Other,Second Year,Other Engineering,1-2 hours,Less than 5 hours,Below 50%,Several times a week,Mostly just before exams,2-4 hours,Often,2,Rarely,1,Below 40%,Better time management
+04-10-2026 20:01,Diploma,First Year,Other Engineering,1-2 hours,7-8 hours,Below 50%,Daily,Weekend study sessions,Less than 1 hour,Very often,2,Usually,4,Below 40%,Reduced social media usage
+04-10-2026 16:44,Postgraduate,Second Year,Arts / Humanities,More than 5 hours,5-6 hours,Above 90%,Only before exams,Regular daily study,Less than 1 hour,Sometimes,3,Rarely,3,60-69%,More study time
+04-10-2026 16:34,Undergraduate,First Year,Science,Less than 1 hour,6-7 hours,50-65%,Once a week,Weekly revision,Less than 1 hour,Rarely,2,Usually,1,Below 40%,Better learning resources
+04-10-2026 16:18,Other,First Year,Commerce / Management,2-3 hours,7-8 hours,66-75%,Several times a week,Regular daily study,4-6 hours,Very often,1,Never,4,70-79%,Regular revision
+04-10-2026 15:11,Postgraduate,First Year,Science,1-2 hours,5-6 hours,Above 90%,Only before exams,Regular daily study,2-4 hours,Sometimes,3,Always,1,60-69%,Regular revision
+04-10-2026 14:39,Postgraduate,Other,Computer Science / IT,Less than 1 hour,6-7 hours,Above 90%,Daily,Weekend study sessions,More than 6 hours,Rarely,5,Sometimes,4,60-69%,Better time management
+04-10-2026 07:23,Other,Other,Science,More than 5 hours,6-7 hours,50-65%,Daily,Regular daily study,Less than 1 hour,Sometimes,2,Sometimes,5,80-89%,Regular revision
+04-10-2026 04:36,Undergraduate,Second Year,Arts / Humanities,More than 5 hours,7-8 hours,50-65%,Several times a week,Weekly revision,2-4 hours,Very often,4,Sometimes,2,50-59%,Better sleep routine
+04-10-2026 01:36,Other,Second Year,Computer Science / IT,3-5 hours,6-7 hours,66-75%,Only before exams,Regular daily study,More than 6 hours,Rarely,5,Sometimes,3,70-79%,Improved concentration
+04-10-2026 00:58,Postgraduate,Second Year,Other Engineering,More than 5 hours,More than 8 hours,Below 50%,Several times a week,Weekend study sessions,1-2 hours,Rarely,3,Rarely,4,50-59%,Better sleep routine
+04-10-2026 00:41,Diploma,First Year,Commerce / Management,2-3 hours,Less than 5 hours,Above 90%,Several times a week,Weekend study sessions,Less than 1 hour,Rarely,5,Usually,4,70-79%,Reduced social media usage
+03-10-2026 23:32,Undergraduate,First Year,Other Engineering,2-3 hours,7-8 hours,Below 50%,Only before exams,Regular daily study,Less than 1 hour,Often,5,Sometimes,1,50-59%,Better learning resources
+03-10-2026 21:50,Postgraduate,Third Year,Science,Less than 1 hour,6-7 hours,Above 90%,Several times a week,Mostly just before exams,1-2 hours,Rarely,3,Sometimes,2,60-69%,More study time
+03-10-2026 21:07,Postgraduate,Fourth Year,Arts / Humanities,2-3 hours,6-7 hours,50-65%,Once a week,No fixed routine,1-2 hours,Sometimes,2,Never,3,50-59%,Reduced social media usage
+03-10-2026 18:24,Other,Other,Other,Less than 1 hour,Less than 5 hours,50-65%,Once a week,Mostly just before exams,4-6 hours,Sometimes,5,Sometimes,2,40-49%,Better time management
+03-10-2026 17:33,Undergraduate,First Year,Computer Science / IT,2-3 hours,More than 8 hours,76-90%,Several times a week,Weekly revision,Less than 1 hour,Very often,3,Usually,3,80-89%,Regular revision
+03-10-2026 16:40,Undergraduate,Fourth Year,Computer Science / IT,Less than 1 hour,7-8 hours,Below 50%,Once a week,Regular daily study,4-6 hours,Rarely,2,Never,2,40-49%,Improved concentration
+03-10-2026 16:07,Other,Second Year,Commerce / Management,3-5 hours,Less than 5 hours,76-90%,Rarely,No fixed routine,4-6 hours,Sometimes,5,Never,5,60-69%,Improved concentration
+03-10-2026 14:34,Diploma,Fourth Year,Other,3-5 hours,More than 8 hours,76-90%,Daily,Weekend study sessions,2-4 hours,Sometimes,3,Usually,5,80-89%,Better learning resources
+03-10-2026 13:31,Diploma,Third Year,Other Engineering,Less than 1 hour,Less than 5 hours,50-65%,Daily,Weekend study sessions,4-6 hours,Rarely,3,Sometimes,1,Below 40%,Better time management
+03-10-2026 12:31,Postgraduate,Second Year,Science,More than 5 hours,Less than 5 hours,Below 50%,Rarely,Weekly revision,2-4 hours,Rarely,2,Sometimes,1,40-49%,Better learning resources
+03-10-2026 11:43,Undergraduate,Second Year,Computer Science / IT,Less than 1 hour,More than 8 hours,50-65%,Several times a week,Weekly revision,4-6 hours,Never,3,Never,4,Below 40%,Improved concentration
+03-10-2026 10:18,Postgraduate,Fourth Year,Arts / Humanities,2-3 hours,7-8 hours,Above 90%,Daily,Weekly revision,Less than 1 hour,Sometimes,5,Always,1,80-89%,Reduced social media usage
+03-10-2026 10:09,Other,Third Year,Computer Science / IT,More than 5 hours,Less than 5 hours,50-65%,Only before exams,Weekend study sessions,2-4 hours,Never,5,Always,3,50-59%,Better sleep routine
+03-10-2026 09:25,Postgraduate,Second Year,Other Engineering,1-2 hours,Less than 5 hours,Below 50%,Only before exams,No fixed routine,Less than 1 hour,Rarely,1,Always,3,Below 40%,Better time management
+03-10-2026 05:50,Diploma,Third Year,Science,3-5 hours,7-8 hours,Above 90%,Only before exams,Weekend study sessions,1-2 hours,Very often,4,Usually,5,70-79%,Regular revision
+03-10-2026 05:32,Undergraduate,Third Year,Arts / Humanities,3-5 hours,7-8 hours,66-75%,Rarely,Mostly just before exams,More than 6 hours,Rarely,2,Never,1,Below 40%,More study time
+03-10-2026 04:10,Postgraduate,Other,Commerce / Management,Less than 1 hour,Less than 5 hours,76-90%,Daily,Weekend study sessions,4-6 hours,Rarely,1,Rarely,2,40-49%,More study time
+03-10-2026 02:53,Other,Second Year,Science,Less than 1 hour,Less than 5 hours,76-90%,Several times a week,Regular daily study,1-2 hours,Rarely,5,Usually,5,40-49%,Regular revision
+03-10-2026 02:14,Undergraduate,Fourth Year,Arts / Humanities,More than 5 hours,More than 8 hours,66-75%,Once a week,Regular daily study,More than 6 hours,Often,3,Sometimes,4,60-69%,Better learning resources
+03-10-2026 01:31,Postgraduate,Third Year,Science,3-5 hours,Less than 5 hours,Above 90%,Once a week,Regular daily study,1-2 hours,Very often,3,Sometimes,2,80-89%,Better time management
+03-10-2026 01:27,Postgraduate,Fourth Year,Other,1-2 hours,7-8 hours,Below 50%,Once a week,Weekly revision,More than 6 hours,Rarely,5,Always,1,Below 40%,Better time management
+03-10-2026 00:59,Diploma,First Year,Commerce / Management,3-5 hours,7-8 hours,Below 50%,Once a week,Regular daily study,More than 6 hours,Very often,4,Rarely,5,40-49%,Reduced social media usage
+03-10-2026 00:51,Diploma,First Year,Arts / Humanities,Less than 1 hour,5-6 hours,Below 50%,Daily,Mostly just before exams,2-4 hours,Often,5,Rarely,1,Below 40%,Better learning resources
+02-10-2026 22:18,Diploma,Second Year,Other Engineering,Less than 1 hour,7-8 hours,66-75%,Only before exams,Regular daily study,Less than 1 hour,Never,2,Rarely,3,40-49%,Improved concentration
+02-10-2026 21:53,Other,First Year,Science,3-5 hours,More than 8 hours,Above 90%,Once a week,Weekend study sessions,4-6 hours,Never,3,Always,3,80-89%,More study time
+02-10-2026 19:37,Postgraduate,Third Year,Commerce / Management,2-3 hours,Less than 5 hours,Above 90%,Several times a week,No fixed routine,2-4 hours,Sometimes,4,Sometimes,1,60-69%,Better time management
+02-10-2026 19:25,Other,Other,Other Engineering,Less than 1 hour,6-7 hours,Below 50%,Daily,Mostly just before exams,Less than 1 hour,Rarely,2,Never,4,Below 40%,Regular revision
+02-10-2026 16:39,Diploma,First Year,Other Engineering,1-2 hours,7-8 hours,76-90%,Once a week,No fixed routine,2-4 hours,Never,3,Rarely,1,50-59%,Improved concentration
+02-10-2026 15:54,Other,Other,Arts / Humanities,2-3 hours,7-8 hours,50-65%,Daily,Mostly just before exams,More than 6 hours,Rarely,2,Never,1,50-59%,More study time
+02-10-2026 14:36,Other,Other,Commerce / Management,Less than 1 hour,Less than 5 hours,76-90%,Once a week,Weekend study sessions,2-4 hours,Never,4,Sometimes,1,60-69%,More study time
+02-10-2026 12:33,Diploma,First Year,Arts / Humanities,3-5 hours,More than 8 hours,Below 50%,Several times a week,Weekly revision,2-4 hours,Often,2,Usually,4,40-49%,Better learning resources
+02-10-2026 12:26,Other,Fourth Year,Arts / Humanities,1-2 hours,5-6 hours,50-65%,Rarely,Mostly just before exams,2-4 hours,Never,5,Never,5,50-59%,More study time
+02-10-2026 08:57,Postgraduate,Third Year,Other Engineering,Less than 1 hour,Less than 5 hours,50-65%,Several times a week,Regular daily study,2-4 hours,Rarely,2,Rarely,3,50-59%,More study time
+02-10-2026 06:47,Diploma,Second Year,Science,3-5 hours,Less than 5 hours,Below 50%,Only before exams,Weekend study sessions,Less than 1 hour,Never,1,Usually,1,50-59%,Better time management
+02-10-2026 06:43,Other,First Year,Science,2-3 hours,More than 8 hours,50-65%,Rarely,Weekend study sessions,More than 6 hours,Sometimes,1,Never,5,40-49%,Regular revision
+02-10-2026 06:38,Undergraduate,Third Year,Commerce / Management,3-5 hours,6-7 hours,76-90%,Only before exams,Weekly revision,4-6 hours,Rarely,5,Sometimes,5,70-79%,Better time management
+02-10-2026 02:49,Postgraduate,Fourth Year,Arts / Humanities,3-5 hours,5-6 hours,Below 50%,Once a week,Weekend study sessions,Less than 1 hour,Rarely,2,Never,3,40-49%,Better sleep routine
+02-10-2026 01:08,Other,Third Year,Arts / Humanities,More than 5 hours,5-6 hours,66-75%,Daily,Mostly just before exams,More than 6 hours,Very often,5,Usually,4,70-79%,Better sleep routine
+02-10-2026 00:44,Diploma,Other,Other,1-2 hours,7-8 hours,50-65%,Only before exams,Mostly just before exams,4-6 hours,Rarely,3,Usually,5,40-49%,Better time management
+01-10-2026 21:17,Postgraduate,Second Year,Science,1-2 hours,More than 8 hours,Below 50%,Rarely,No fixed routine,Less than 1 hour,Very often,2,Always,5,Below 40%,Reduced social media usage
+01-10-2026 19:55,Diploma,Second Year,Computer Science / IT,More than 5 hours,7-8 hours,50-65%,Daily,Weekend study sessions,2-4 hours,Rarely,2,Rarely,1,50-59%,Better learning resources
+01-10-2026 19:47,Other,Fourth Year,Arts / Humanities,2-3 hours,7-8 hours,66-75%,Several times a week,Regular daily study,Less than 1 hour,Often,1,Never,1,50-59%,Reduced social media usage
+01-10-2026 17:37,Other,Other,Other Engineering,1-2 hours,Less than 5 hours,Above 90%,Only before exams,No fixed routine,More than 6 hours,Never,1,Never,2,60-69%,Reduced social media usage
+01-10-2026 14:52,Undergraduate,Second Year,Science,3-5 hours,6-7 hours,66-75%,Once a week,Mostly just before exams,4-6 hours,Never,5,Always,5,70-79%,Better learning resources
+01-10-2026 10:33,Other,Third Year,Other,More than 5 hours,More than 8 hours,76-90%,Rarely,Regular daily study,2-4 hours,Sometimes,3,Rarely,5,60-69%,Regular revision
+01-10-2026 09:51,Undergraduate,First Year,Computer Science / IT,2-3 hours,6-7 hours,Below 50%,Once a week,Weekly revision,Less than 1 hour,Never,5,Usually,4,50-59%,Regular revision
+01-10-2026 09:23,Postgraduate,Second Year,Commerce / Management,2-3 hours,7-8 hours,50-65%,Rarely,Weekend study sessions,1-2 hours,Sometimes,5,Never,4,40-49%,Better time management
+01-10-2026 09:19,Undergraduate,Second Year,Other Engineering,2-3 hours,7-8 hours,76-90%,Several times a week,Mostly just before exams,More than 6 hours,Very often,3,Never,5,80-89%,Better learning resources
+01-10-2026 08:21,Undergraduate,First Year,Arts / Humanities,2-3 hours,Less than 5 hours,Below 50%,Only before exams,Weekly revision,More than 6 hours,Often,3,Usually,3,40-49%,Improved concentration
+01-10-2026 07:33,Other,Second Year,Other,1-2 hours,7-8 hours,66-75%,Several times a week,Weekend study sessions,More than 6 hours,Often,5,Rarely,1,60-69%,Reduced social media usage
+01-10-2026 07:29,Undergraduate,First Year,Science,1-2 hours,5-6 hours,76-90%,Only before exams,Regular daily study,1-2 hours,Rarely,4,Never,2,50-59%,Reduced social media usage
+01-10-2026 06:43,Undergraduate,Other,Science,2-3 hours,More than 8 hours,Below 50%,Daily,Mostly just before exams,Less than 1 hour,Never,3,Never,4,50-59%,Reduced social media usage
+01-10-2026 05:51,Undergraduate,Other,Arts / Humanities,3-5 hours,7-8 hours,66-75%,Several times a week,Weekly revision,4-6 hours,Often,4,Never,4,80-89%,Better time management
+01-10-2026 04:38,Undergraduate,Third Year,Other,More than 5 hours,6-7 hours,Above 90%,Daily,Mostly just before exams,4-6 hours,Very often,1,Usually,3,80-89%,Better sleep routine
+01-10-2026 04:00,Postgraduate,Third Year,Other,3-5 hours,5-6 hours,50-65%,Once a week,Weekly revision,Less than 1 hour,Often,3,Sometimes,2,50-59%,Regular revision
+01-10-2026 03:51,Diploma,Fourth Year,Other,More than 5 hours,5-6 hours,66-75%,Only before exams,Weekly revision,4-6 hours,Often,1,Rarely,3,40-49%,More study time
+01-10-2026 03:40,Other,Fourth Year,Other,Less than 1 hour,7-8 hours,50-65%,Rarely,Regular daily study,2-4 hours,Sometimes,2,Rarely,3,Below 40%,Regular revision
+01-10-2026 03:27,Undergraduate,First Year,Other,3-5 hours,5-6 hours,50-65%,Daily,No fixed routine,4-6 hours,Never,1,Usually,3,70-79%,Better time management
+01-10-2026 01:01,Diploma,Fourth Year,Science,2-3 hours,7-8 hours,Below 50%,Daily,Mostly just before exams,2-4 hours,Very often,4,Sometimes,2,50-59%,Improved concentration
+30-09-2026 22:35,Postgraduate,Third Year,Commerce / Management,More than 5 hours,7-8 hours,66-75%,Daily,Weekly revision,Less than 1 hour,Sometimes,1,Sometimes,2,80-89%,More study time
+30-09-2026 21:57,Other,First Year,Other,3-5 hours,More than 8 hours,50-65%,Only before exams,Regular daily study,2-4 hours,Never,4,Always,1,50-59%,Better time management
+30-09-2026 20:58,Postgraduate,Other,Other Engineering,More than 5 hours,6-7 hours,Below 50%,Several times a week,No fixed routine,More than 6 hours,Sometimes,4,Always,3,70-79%,Regular revision
+30-09-2026 19:30,Undergraduate,Third Year,Other,2-3 hours,Less than 5 hours,Below 50%,Rarely,Regular daily study,More than 6 hours,Never,2,Rarely,1,40-49%,Better learning resources
+30-09-2026 17:58,Diploma,Third Year,Arts / Humanities,1-2 hours,Less than 5 hours,Below 50%,Daily,Weekly revision,Less than 1 hour,Rarely,4,Never,4,50-59%,Regular revision
+30-09-2026 17:07,Diploma,Third Year,Other,3-5 hours,5-6 hours,50-65%,Several times a week,Weekly revision,More than 6 hours,Often,4,Sometimes,1,70-79%,More study time
+30-09-2026 16:21,Postgraduate,Fourth Year,Science,2-3 hours,6-7 hours,50-65%,Once a week,Weekend study sessions,More than 6 hours,Very often,3,Always,5,60-69%,Regular revision
+30-09-2026 15:21,Other,Fourth Year,Arts / Humanities,2-3 hours,More than 8 hours,76-90%,Daily,No fixed routine,Less than 1 hour,Often,4,Always,3,90% and above,Better time management
+30-09-2026 12:21,Postgraduate,Second Year,Other Engineering,3-5 hours,6-7 hours,50-65%,Only before exams,Weekend study sessions,4-6 hours,Never,3,Usually,1,50-59%,Regular revision
+30-09-2026 12:19,Undergraduate,Third Year,Other Engineering,3-5 hours,Less than 5 hours,50-65%,Rarely,Weekend study sessions,Less than 1 hour,Very often,4,Usually,1,Below 40%,Better learning resources
+30-09-2026 10:30,Undergraduate,Fourth Year,Computer Science / IT,1-2 hours,5-6 hours,Below 50%,Only before exams,No fixed routine,1-2 hours,Rarely,3,Always,1,Below 40%,Better learning resources
+30-09-2026 06:58,Other,First Year,Commerce / Management,More than 5 hours,5-6 hours,66-75%,Several times a week,Regular daily study,More than 6 hours,Often,3,Rarely,4,70-79%,More study time
+30-09-2026 06:47,Undergraduate,First Year,Computer Science / IT,More than 5 hours,5-6 hours,Below 50%,Daily,Weekend study sessions,2-4 hours,Often,4,Rarely,5,70-79%,Better time management
+30-09-2026 06:33,Other,Second Year,Other,3-5 hours,5-6 hours,76-90%,Once a week,Regular daily study,2-4 hours,Rarely,2,Rarely,4,70-79%,Regular revision
+30-09-2026 06:16,Undergraduate,Second Year,Other Engineering,Less than 1 hour,5-6 hours,Above 90%,Several times a week,Weekly revision,More than 6 hours,Sometimes,2,Sometimes,3,60-69%,Better sleep routine
+30-09-2026 05:03,Diploma,Fourth Year,Computer Science / IT,Less than 1 hour,Less than 5 hours,66-75%,Several times a week,Mostly just before exams,2-4 hours,Sometimes,2,Usually,1,50-59%,Better time management
+30-09-2026 04:33,Other,Second Year,Commerce / Management,Less than 1 hour,5-6 hours,76-90%,Rarely,Weekly revision,2-4 hours,Never,1,Rarely,3,40-49%,Better time management
+30-09-2026 04:19,Diploma,Third Year,Commerce / Management,More than 5 hours,7-8 hours,Below 50%,Once a week,Regular daily study,2-4 hours,Often,1,Always,2,50-59%,Regular revision
+30-09-2026 03:41,Postgraduate,Third Year,Commerce / Management,More than 5 hours,6-7 hours,Above 90%,Several times a week,No fixed routine,Less than 1 hour,Very often,3,Always,3,60-69%,Regular revision
+30-09-2026 00:00,Other,Third Year,Science,3-5 hours,7-8 hours,50-65%,Several times a week,Weekend study sessions,2-4 hours,Rarely,4,Sometimes,3,50-59%,Improved concentration
+29-09-2026 23:11,Diploma,Other,Other,More than 5 hours,5-6 hours,66-75%,Several times a week,Mostly just before exams,2-4 hours,Rarely,5,Rarely,5,80-89%,Reduced social media usage
+29-09-2026 22:51,Postgraduate,Fourth Year,Computer Science / IT,More than 5 hours,Less than 5 hours,76-90%,Once a week,Regular daily study,More than 6 hours,Rarely,1,Never,4,60-69%,Better time management
+29-09-2026 22:19,Postgraduate,First Year,Arts / Humanities,More than 5 hours,6-7 hours,66-75%,Once a week,Weekend study sessions,1-2 hours,Very often,3,Usually,2,70-79%,Improved concentration
+29-09-2026 20:13,Undergraduate,First Year,Other Engineering,Less than 1 hour,6-7 hours,Below 50%,Several times a week,Weekly revision,Less than 1 hour,Often,4,Always,5,Below 40%,Better learning resources
+29-09-2026 20:10,Postgraduate,Third Year,Arts / Humanities,More than 5 hours,6-7 hours,Above 90%,Several times a week,Weekly revision,4-6 hours,Often,4,Never,4,70-79%,Improved concentration
+29-09-2026 19:19,Undergraduate,First Year,Computer Science / IT,2-3 hours,5-6 hours,76-90%,Daily,Weekly revision,Less than 1 hour,Rarely,4,Never,5,60-69%,Better sleep routine
+29-09-2026 18:12,Diploma,Second Year,Commerce / Management,Less than 1 hour,More than 8 hours,Above 90%,Daily,Weekend study sessions,1-2 hours,Very often,3,Usually,1,70-79%,Better sleep routine
+29-09-2026 18:10,Other,Third Year,Arts / Humanities,Less than 1 hour,6-7 hours,76-90%,Once a week,No fixed routine,Less than 1 hour,Very often,1,Never,5,40-49%,Better learning resources
+29-09-2026 17:03,Postgraduate,Second Year,Other,2-3 hours,More than 8 hours,Below 50%,Once a week,Weekly revision,More than 6 hours,Sometimes,5,Usually,5,60-69%,Improved concentration
+29-09-2026 16:11,Diploma,Other,Computer Science / IT,2-3 hours,Less than 5 hours,66-75%,Only before exams,Weekly revision,Less than 1 hour,Very often,3,Always,1,Below 40%,More study time
+29-09-2026 15:55,Undergraduate,First Year,Other Engineering,2-3 hours,7-8 hours,Below 50%,Only before exams,Regular daily study,1-2 hours,Never,2,Sometimes,1,Below 40%,Better sleep routine
+29-09-2026 15:07,Other,Third Year,Other Engineering,Less than 1 hour,Less than 5 hours,76-90%,Several times a week,Weekend study sessions,2-4 hours,Never,5,Sometimes,2,70-79%,Better learning resources
+29-09-2026 10:55,Other,Third Year,Arts / Humanities,More than 5 hours,7-8 hours,76-90%,Once a week,Weekly revision,2-4 hours,Often,1,Usually,4,70-79%,Better learning resources
+29-09-2026 08:35,Other,Second Year,Computer Science / IT,3-5 hours,5-6 hours,Above 90%,Rarely,No fixed routine,1-2 hours,Rarely,4,Sometimes,5,70-79%,Improved concentration
+29-09-2026 06:26,Diploma,Fourth Year,Other Engineering,3-5 hours,More than 8 hours,76-90%,Daily,Weekend study sessions,Less than 1 hour,Rarely,2,Always,4,70-79%,Better sleep routine
+29-09-2026 06:15,Diploma,Second Year,Other Engineering,Less than 1 hour,More than 8 hours,Above 90%,Only before exams,No fixed routine,2-4 hours,Rarely,4,Rarely,2,60-69%,More study time
+29-09-2026 05:53,Other,Third Year,Arts / Humanities,More than 5 hours,Less than 5 hours,66-75%,Once a week,Weekly revision,4-6 hours,Rarely,1,Always,3,70-79%,Regular revision
+29-09-2026 01:53,Diploma,Fourth Year,Other Engineering,2-3 hours,7-8 hours,50-65%,Daily,Regular daily study,2-4 hours,Often,2,Never,3,70-79%,Reduced social media usage
+28-09-2026 23:48,Diploma,First Year,Science,2-3 hours,More than 8 hours,76-90%,Rarely,No fixed routine,2-4 hours,Rarely,1,Sometimes,2,50-59%,Reduced social media usage
+28-09-2026 23:22,Diploma,Fourth Year,Commerce / Management,Less than 1 hour,5-6 hours,76-90%,Once a week,Mostly just before exams,2-4 hours,Very often,5,Always,5,70-79%,Reduced social media usage
+28-09-2026 19:42,Diploma,Second Year,Other Engineering,2-3 hours,More than 8 hours,66-75%,Only before exams,Weekend study sessions,Less than 1 hour,Rarely,4,Never,3,60-69%,Better time management
+28-09-2026 16:59,Diploma,Fourth Year,Computer Science / IT,More than 5 hours,5-6 hours,Above 90%,Only before exams,Regular daily study,1-2 hours,Sometimes,3,Never,5,80-89%,Better learning resources
+28-09-2026 12:55,Undergraduate,Third Year,Other Engineering,Less than 1 hour,6-7 hours,Above 90%,Daily,Weekly revision,2-4 hours,Never,4,Usually,4,60-69%,Regular revision
+28-09-2026 11:55,Postgraduate,Third Year,Commerce / Management,2-3 hours,Less than 5 hours,Below 50%,Rarely,No fixed routine,1-2 hours,Rarely,2,Never,5,Below 40%,Regular revision
+28-09-2026 11:54,Undergraduate,First Year,Science,More than 5 hours,5-6 hours,66-75%,Several times a week,Mostly just before exams,Less than 1 hour,Sometimes,5,Usually,5,80-89%,Reduced social media usage
+28-09-2026 10:47,Undergraduate,Other,Other,1-2 hours,More than 8 hours,76-90%,Once a week,Weekend study sessions,Less than 1 hour,Never,3,Rarely,2,70-79%,Better learning resources
+28-09-2026 10:18,Other,Fourth Year,Science,3-5 hours,7-8 hours,Below 50%,Only before exams,Weekly revision,More than 6 hours,Often,5,Sometimes,5,40-49%,Better time management
+28-09-2026 09:02,Other,First Year,Commerce / Management,3-5 hours,Less than 5 hours,Below 50%,Only before exams,Regular daily study,4-6 hours,Rarely,5,Usually,5,40-49%,Better sleep routine
+28-09-2026 07:06,Other,Second Year,Other,2-3 hours,6-7 hours,66-75%,Once a week,Mostly just before exams,4-6 hours,Very often,4,Never,2,50-59%,Improved concentration
+28-09-2026 06:11,Other,Third Year,Arts / Humanities,3-5 hours,More than 8 hours,50-65%,Once a week,Mostly just before exams,Less than 1 hour,Sometimes,5,Always,3,70-79%,Better time management
+28-09-2026 05:55,Postgraduate,Fourth Year,Other,2-3 hours,More than 8 hours,Above 90%,Daily,No fixed routine,2-4 hours,Rarely,4,Usually,2,70-79%,Better learning resources
+28-09-2026 03:25,Other,Second Year,Arts / Humanities,Less than 1 hour,5-6 hours,76-90%,Once a week,Regular daily study,2-4 hours,Often,4,Never,2,40-49%,Reduced social media usage
+28-09-2026 01:35,Postgraduate,Other,Science,2-3 hours,Less than 5 hours,Below 50%,Only before exams,Weekly revision,More than 6 hours,Very often,3,Never,4,Below 40%,More study time
+27-09-2026 23:47,Postgraduate,Third Year,Commerce / Management,3-5 hours,5-6 hours,Above 90%,Several times a week,No fixed routine,Less than 1 hour,Very often,2,Rarely,2,60-69%,Better learning resources
+27-09-2026 20:56,Undergraduate,First Year,Science,More than 5 hours,6-7 hours,66-75%,Only before exams,Regular daily study,4-6 hours,Rarely,1,Never,2,50-59%,Improved concentration
+27-09-2026 20:24,Postgraduate,Other,Computer Science / IT,Less than 1 hour,Less than 5 hours,66-75%,Several times a week,Mostly just before exams,1-2 hours,Never,5,Rarely,2,60-69%,Better time management
+27-09-2026 20:10,Postgraduate,Second Year,Science,Less than 1 hour,6-7 hours,66-75%,Once a week,Regular daily study,Less than 1 hour,Sometimes,1,Rarely,1,Below 40%,Improved concentration
+27-09-2026 19:56,Postgraduate,Fourth Year,Arts / Humanities,Less than 1 hour,7-8 hours,50-65%,Once a week,Weekend study sessions,Less than 1 hour,Never,2,Sometimes,1,40-49%,Regular revision
+27-09-2026 19:31,Undergraduate,First Year,Arts / Humanities,Less than 1 hour,6-7 hours,Below 50%,Rarely,Mostly just before exams,More than 6 hours,Very often,5,Sometimes,1,Below 40%,Reduced social media usage
+27-09-2026 18:06,Other,Second Year,Arts / Humanities,More than 5 hours,6-7 hours,76-90%,Several times a week,Regular daily study,4-6 hours,Sometimes,1,Never,4,80-89%,Better sleep routine
+27-09-2026 18:00,Postgraduate,First Year,Computer Science / IT,More than 5 hours,7-8 hours,Below 50%,Daily,Weekend study sessions,1-2 hours,Never,1,Usually,5,50-59%,Reduced social media usage
+27-09-2026 16:23,Other,Third Year,Computer Science / IT,More than 5 hours,7-8 hours,Below 50%,Once a week,Weekly revision,More than 6 hours,Very often,5,Always,5,60-69%,Better time management
+27-09-2026 09:18,Undergraduate,Other,Computer Science / IT,3-5 hours,7-8 hours,Above 90%,Once a week,No fixed routine,1-2 hours,Rarely,2,Never,3,80-89%,More study time
+27-09-2026 09:03,Other,Third Year,Other,3-5 hours,5-6 hours,76-90%,Daily,No fixed routine,4-6 hours,Sometimes,4,Usually,1,80-89%,Improved concentration
+27-09-2026 07:42,Diploma,Second Year,Computer Science / IT,2-3 hours,Less than 5 hours,76-90%,Only before exams,Weekly revision,Less than 1 hour,Never,2,Rarely,5,70-79%,Better time management
+27-09-2026 07:31,Undergraduate,Other,Science,1-2 hours,5-6 hours,Above 90%,Daily,Regular daily study,More than 6 hours,Rarely,1,Rarely,5,50-59%,More study time
+27-09-2026 07:05,Postgraduate,Second Year,Other,Less than 1 hour,7-8 hours,Below 50%,Rarely,Weekly revision,4-6 hours,Very often,4,Usually,4,Below 40%,Better time management
+27-09-2026 05:43,Other,Second Year,Other,3-5 hours,More than 8 hours,76-90%,Several times a week,Weekly revision,Less than 1 hour,Often,2,Sometimes,1,80-89%,Reduced social media usage
+27-09-2026 05:19,Other,First Year,Computer Science / IT,Less than 1 hour,5-6 hours,50-65%,Several times a week,Mostly just before exams,Less than 1 hour,Often,3,Rarely,5,50-59%,Better time management
+27-09-2026 04:37,Undergraduate,First Year,Other,Less than 1 hour,Less than 5 hours,66-75%,Daily,Weekly revision,4-6 hours,Rarely,1,Usually,4,40-49%,Better sleep routine
+27-09-2026 00:17,Diploma,Second Year,Science,Less than 1 hour,5-6 hours,66-75%,Daily,No fixed routine,More than 6 hours,Never,3,Usually,1,50-59%,Better learning resources
+26-09-2026 21:07,Other,Second Year,Commerce / Management,2-3 hours,More than 8 hours,66-75%,Several times a week,Weekend study sessions,Less than 1 hour,Never,2,Rarely,3,50-59%,Regular revision
+26-09-2026 19:42,Undergraduate,First Year,Computer Science / IT,Less than 1 hour,7-8 hours,66-75%,Daily,Weekly revision,2-4 hours,Very often,2,Sometimes,5,60-69%,Regular revision
+26-09-2026 19:17,Other,Third Year,Other Engineering,3-5 hours,7-8 hours,76-90%,Rarely,Mostly just before exams,Less than 1 hour,Often,3,Always,2,40-49%,More study time
+26-09-2026 17:36,Other,First Year,Science,2-3 hours,6-7 hours,66-75%,Once a week,No fixed routine,Less than 1 hour,Very often,5,Usually,3,60-69%,Regular revision
+26-09-2026 16:41,Undergraduate,Other,Other Engineering,3-5 hours,7-8 hours,50-65%,Rarely,Mostly just before exams,4-6 hours,Never,4,Never,5,40-49%,Better learning resources
+26-09-2026 16:12,Diploma,Second Year,Commerce / Management,Less than 1 hour,5-6 hours,66-75%,Only before exams,No fixed routine,2-4 hours,Rarely,3,Usually,1,Below 40%,Better sleep routine
+26-09-2026 14:43,Diploma,Third Year,Other Engineering,2-3 hours,7-8 hours,50-65%,Only before exams,Regular daily study,More than 6 hours,Sometimes,3,Always,4,40-49%,Improved concentration
+26-09-2026 11:08,Undergraduate,Fourth Year,Science,2-3 hours,More than 8 hours,Below 50%,Once a week,Weekly revision,1-2 hours,Often,5,Always,5,50-59%,Better learning resources
+26-09-2026 11:00,Diploma,Third Year,Commerce / Management,1-2 hours,5-6 hours,66-75%,Daily,Regular daily study,4-6 hours,Never,1,Always,4,40-49%,More study time
+26-09-2026 10:01,Undergraduate,Third Year,Computer Science / IT,More than 5 hours,7-8 hours,Above 90%,Daily,Regular daily study,2-4 hours,Often,1,Rarely,2,80-89%,Improved concentration
+26-09-2026 07:23,Postgraduate,Other,Commerce / Management,Less than 1 hour,6-7 hours,76-90%,Only before exams,No fixed routine,2-4 hours,Very often,4,Usually,3,40-49%,Reduced social media usage
+26-09-2026 06:10,Diploma,First Year,Arts / Humanities,1-2 hours,5-6 hours,66-75%,Several times a week,Mostly just before exams,1-2 hours,Rarely,3,Rarely,2,50-59%,Better sleep routine
+26-09-2026 05:35,Postgraduate,Other,Computer Science / IT,3-5 hours,More than 8 hours,50-65%,Once a week,No fixed routine,More than 6 hours,Very often,3,Sometimes,5,50-59%,Regular revision
+26-09-2026 05:28,Undergraduate,Fourth Year,Arts / Humanities,More than 5 hours,5-6 hours,Above 90%,Rarely,Regular daily study,1-2 hours,Very often,3,Sometimes,1,70-79%,Better time management
+26-09-2026 03:35,Diploma,Fourth Year,Arts / Humanities,1-2 hours,5-6 hours,50-65%,Only before exams,Regular daily study,More than 6 hours,Very often,5,Rarely,1,50-59%,Better sleep routine
+26-09-2026 03:00,Postgraduate,Second Year,Other,More than 5 hours,6-7 hours,Above 90%,Rarely,Weekend study sessions,4-6 hours,Often,4,Never,5,70-79%,Better time management
+26-09-2026 00:23,Undergraduate,Other,Computer Science / IT,More than 5 hours,6-7 hours,66-75%,Daily,Weekend study sessions,2-4 hours,Never,3,Never,5,70-79%,Improved concentration
+25-09-2026 23:53,Postgraduate,Third Year,Science,1-2 hours,7-8 hours,50-65%,Several times a week,No fixed routine,More than 6 hours,Never,4,Usually,3,40-49%,Better learning resources
+25-09-2026 22:32,Undergraduate,First Year,Commerce / Management,3-5 hours,More than 8 hours,76-90%,Several times a week,No fixed routine,2-4 hours,Sometimes,1,Usually,3,60-69%,Reduced social media usage
+25-09-2026 21:09,Undergraduate,Third Year,Science,2-3 hours,7-8 hours,Below 50%,Once a week,Mostly just before exams,More than 6 hours,Never,5,Rarely,1,40-49%,More study time
+25-09-2026 19:17,Diploma,Third Year,Commerce / Management,More than 5 hours,More than 8 hours,Above 90%,Several times a week,Weekend study sessions,4-6 hours,Sometimes,4,Always,2,70-79%,Better sleep routine
+25-09-2026 18:42,Postgraduate,Second Year,Computer Science / IT,3-5 hours,5-6 hours,Above 90%,Several times a week,Weekend study sessions,Less than 1 hour,Rarely,3,Never,1,90% and above,More study time
+25-09-2026 17:09,Postgraduate,Other,Computer Science / IT,3-5 hours,6-7 hours,76-90%,Rarely,No fixed routine,More than 6 hours,Never,5,Never,2,60-69%,Better learning resources
+25-09-2026 14:25,Diploma,Third Year,Science,1-2 hours,5-6 hours,50-65%,Rarely,No fixed routine,2-4 hours,Never,1,Never,5,40-49%,Better time management
+25-09-2026 11:38,Postgraduate,Other,Computer Science / IT,3-5 hours,More than 8 hours,Above 90%,Several times a week,Regular daily study,More than 6 hours,Rarely,2,Usually,3,60-69%,More study time
+25-09-2026 11:23,Postgraduate,Fourth Year,Commerce / Management,2-3 hours,Less than 5 hours,Below 50%,Rarely,Weekly revision,1-2 hours,Rarely,3,Rarely,4,Below 40%,Regular revision
+25-09-2026 10:21,Diploma,Second Year,Other Engineering,Less than 1 hour,More than 8 hours,Above 90%,Rarely,Mostly just before exams,2-4 hours,Often,3,Usually,3,Below 40%,Better sleep routine
+25-09-2026 09:55,Postgraduate,Third Year,Other,3-5 hours,7-8 hours,50-65%,Rarely,Weekly revision,2-4 hours,Rarely,5,Sometimes,1,50-59%,Improved concentration
+25-09-2026 09:13,Diploma,First Year,Commerce / Management,1-2 hours,7-8 hours,66-75%,Only before exams,Weekly revision,Less than 1 hour,Often,1,Rarely,1,40-49%,Improved concentration
+25-09-2026 07:39,Other,First Year,Other Engineering,1-2 hours,7-8 hours,50-65%,Once a week,Weekend study sessions,2-4 hours,Rarely,5,Rarely,5,Below 40%,Regular revision
+25-09-2026 07:02,Diploma,Third Year,Computer Science / IT,Less than 1 hour,5-6 hours,66-75%,Rarely,Weekend study sessions,Less than 1 hour,Often,2,Never,3,Below 40%,Better learning resources
+25-09-2026 06:37,Other,Other,Science,More than 5 hours,6-7 hours,Below 50%,Only before exams,Weekly revision,4-6 hours,Sometimes,5,Never,1,40-49%,Better learning resources
+25-09-2026 06:23,Diploma,Second Year,Computer Science / IT,3-5 hours,6-7 hours,76-90%,Rarely,Weekend study sessions,4-6 hours,Very often,3,Always,5,50-59%,Regular revision
+25-09-2026 06:18,Undergraduate,Other,Commerce / Management,More than 5 hours,More than 8 hours,Above 90%,Only before exams,No fixed routine,2-4 hours,Very often,4,Never,3,80-89%,Improved concentration
+25-09-2026 04:41,Undergraduate,Fourth Year,Science,More than 5 hours,7-8 hours,66-75%,Rarely,No fixed routine,More than 6 hours,Never,5,Never,1,50-59%,Better time management
+25-09-2026 03:57,Undergraduate,Third Year,Other,2-3 hours,7-8 hours,66-75%,Rarely,Weekly revision,1-2 hours,Rarely,2,Always,5,40-49%,Reduced social media usage
+25-09-2026 03:07,Undergraduate,First Year,Computer Science / IT,More than 5 hours,5-6 hours,Above 90%,Rarely,Weekend study sessions,2-4 hours,Rarely,1,Usually,4,50-59%,Regular revision
+25-09-2026 00:17,Postgraduate,Third Year,Arts / Humanities,3-5 hours,5-6 hours,Below 50%,Only before exams,Weekly revision,Less than 1 hour,Sometimes,5,Usually,3,50-59%,Better time management
+24-09-2026 23:09,Other,Second Year,Computer Science / IT,Less than 1 hour,5-6 hours,66-75%,Rarely,No fixed routine,1-2 hours,Very often,2,Never,3,40-49%,More study time
+24-09-2026 23:09,Diploma,Second Year,Other,Less than 1 hour,6-7 hours,76-90%,Daily,Weekend study sessions,4-6 hours,Never,4,Sometimes,2,60-69%,Better sleep routine
+24-09-2026 22:48,Other,Fourth Year,Commerce / Management,More than 5 hours,6-7 hours,76-90%,Once a week,No fixed routine,4-6 hours,Sometimes,5,Sometimes,4,70-79%,Reduced social media usage
+24-09-2026 17:34,Other,Third Year,Arts / Humanities,Less than 1 hour,7-8 hours,Below 50%,Once a week,No fixed routine,Less than 1 hour,Very often,1,Never,5,Below 40%,Better time management
+24-09-2026 17:34,Diploma,Fourth Year,Other,1-2 hours,6-7 hours,66-75%,Once a week,Weekend study sessions,2-4 hours,Very often,2,Rarely,2,60-69%,Better time management
+24-09-2026 17:31,Diploma,Second Year,Other,3-5 hours,More than 8 hours,76-90%,Daily,No fixed routine,4-6 hours,Never,4,Rarely,3,70-79%,Better time management
+24-09-2026 16:28,Other,First Year,Computer Science / IT,1-2 hours,More than 8 hours,Below 50%,Several times a week,Mostly just before exams,Less than 1 hour,Often,3,Usually,5,40-49%,Regular revision
+24-09-2026 16:06,Diploma,First Year,Other,3-5 hours,Less than 5 hours,50-65%,Once a week,Regular daily study,4-6 hours,Very often,5,Usually,5,60-69%,Improved concentration
+24-09-2026 13:58,Other,Fourth Year,Other,Less than 1 hour,Less than 5 hours,Above 90%,Once a week,No fixed routine,Less than 1 hour,Very often,1,Never,1,50-59%,Better sleep routine
+24-09-2026 13:24,Undergraduate,Third Year,Other Engineering,2-3 hours,7-8 hours,Below 50%,Only before exams,Weekly revision,4-6 hours,Sometimes,3,Usually,2,50-59%,Better time management
+24-09-2026 12:39,Diploma,First Year,Other Engineering,More than 5 hours,6-7 hours,Below 50%,Rarely,Weekly revision,4-6 hours,Rarely,3,Rarely,5,60-69%,Better time management
+24-09-2026 12:35,Undergraduate,First Year,Commerce / Management,3-5 hours,6-7 hours,76-90%,Daily,Mostly just before exams,More than 6 hours,Rarely,2,Never,2,70-79%,Regular revision
+24-09-2026 10:28,Postgraduate,First Year,Science,2-3 hours,Less than 5 hours,66-75%,Once a week,Mostly just before exams,1-2 hours,Very often,2,Sometimes,5,70-79%,Regular revision
+24-09-2026 10:20,Undergraduate,Fourth Year,Other,1-2 hours,Less than 5 hours,66-75%,Several times a week,Weekly revision,1-2 hours,Never,4,Sometimes,5,50-59%,More study time
+24-09-2026 09:11,Diploma,First Year,Commerce / Management,More than 5 hours,Less than 5 hours,66-75%,Rarely,No fixed routine,1-2 hours,Sometimes,3,Sometimes,2,60-69%,More study time
+24-09-2026 08:00,Postgraduate,First Year,Other,More than 5 hours,6-7 hours,Above 90%,Daily,No fixed routine,4-6 hours,Sometimes,5,Rarely,3,80-89%,Better time management
+24-09-2026 05:51,Other,Third Year,Other Engineering,2-3 hours,Less than 5 hours,76-90%,Daily,Weekly revision,2-4 hours,Very often,1,Never,4,70-79%,Reduced social media usage
+24-09-2026 04:52,Postgraduate,Other,Other,2-3 hours,6-7 hours,Above 90%,Daily,Regular daily study,More than 6 hours,Sometimes,5,Never,4,80-89%,Improved concentration
+24-09-2026 03:20,Undergraduate,Other,Arts / Humanities,1-2 hours,6-7 hours,50-65%,Rarely,Weekend study sessions,2-4 hours,Never,2,Usually,1,Below 40%,Better time management
+24-09-2026 01:24,Undergraduate,First Year,Arts / Humanities,Less than 1 hour,Less than 5 hours,Above 90%,Rarely,No fixed routine,2-4 hours,Often,3,Never,1,Below 40%,Regular revision
+24-09-2026 00:53,Undergraduate,Second Year,Computer Science / IT,Less than 1 hour,6-7 hours,66-75%,Once a week,Regular daily study,Less than 1 hour,Never,4,Always,5,Below 40%,Reduced social media usage
+23-09-2026 22:29,Postgraduate,Third Year,Other Engineering,1-2 hours,Less than 5 hours,50-65%,Once a week,Mostly just before exams,Less than 1 hour,Never,2,Sometimes,2,50-59%,Reduced social media usage
+23-09-2026 20:13,Diploma,Other,Arts / Humanities,1-2 hours,5-6 hours,Below 50%,Once a week,Regular daily study,1-2 hours,Often,2,Usually,1,50-59%,More study time
+23-09-2026 17:23,Other,Other,Science,3-5 hours,More than 8 hours,76-90%,Rarely,Weekend study sessions,More than 6 hours,Never,2,Rarely,5,50-59%,Better time management
+23-09-2026 15:57,Diploma,Other,Arts / Humanities,More than 5 hours,5-6 hours,66-75%,Daily,Regular daily study,1-2 hours,Very often,4,Usually,1,70-79%,Better learning resources
+23-09-2026 15:35,Other,Second Year,Other,More than 5 hours,5-6 hours,Below 50%,Once a week,Regular daily study,2-4 hours,Often,4,Never,3,40-49%,Improved concentration
+23-09-2026 13:51,Undergraduate,First Year,Other,1-2 hours,7-8 hours,50-65%,Daily,Weekly revision,2-4 hours,Never,4,Rarely,5,50-59%,Reduced social media usage
+23-09-2026 10:19,Diploma,Third Year,Computer Science / IT,3-5 hours,6-7 hours,66-75%,Rarely,Weekly revision,2-4 hours,Rarely,1,Rarely,3,Below 40%,More study time
+23-09-2026 09:10,Other,Second Year,Other,Less than 1 hour,More than 8 hours,Above 90%,Only before exams,Weekly revision,4-6 hours,Very often,2,Usually,2,40-49%,Better sleep routine
+23-09-2026 08:59,Diploma,Third Year,Arts / Humanities,More than 5 hours,More than 8 hours,50-65%,Rarely,Weekly revision,1-2 hours,Very often,2,Rarely,1,Below 40%,Better sleep routine
+23-09-2026 06:31,Diploma,First Year,Arts / Humanities,Less than 1 hour,7-8 hours,Above 90%,Once a week,Mostly just before exams,1-2 hours,Very often,2,Sometimes,4,60-69%,Better time management
+23-09-2026 06:05,Other,Other,Other,1-2 hours,5-6 hours,50-65%,Rarely,No fixed routine,1-2 hours,Often,3,Rarely,1,Below 40%,Improved concentration
+23-09-2026 05:19,Other,Fourth Year,Commerce / Management,Less than 1 hour,6-7 hours,50-65%,Once a week,Regular daily study,Less than 1 hour,Sometimes,2,Usually,1,40-49%,Regular revision
+23-09-2026 05:06,Diploma,Second Year,Computer Science / IT,3-5 hours,7-8 hours,Below 50%,Rarely,No fixed routine,4-6 hours,Often,5,Never,4,40-49%,Reduced social media usage
+23-09-2026 03:52,Other,Fourth Year,Science,Less than 1 hour,6-7 hours,50-65%,Once a week,Weekly revision,1-2 hours,Very often,1,Sometimes,5,40-49%,Reduced social media usage
+23-09-2026 03:09,Other,Fourth Year,Arts / Humanities,1-2 hours,7-8 hours,50-65%,Several times a week,Regular daily study,More than 6 hours,Rarely,2,Usually,4,60-69%,Reduced social media usage
+23-09-2026 01:58,Postgraduate,Second Year,Arts / Humanities,1-2 hours,6-7 hours,Above 90%,Rarely,Weekly revision,4-6 hours,Very often,2,Always,2,50-59%,Improved concentration
+23-09-2026 00:27,Other,Second Year,Commerce / Management,3-5 hours,6-7 hours,66-75%,Several times a week,Weekend study sessions,2-4 hours,Never,1,Never,2,70-79%,Regular revision
+22-09-2026 22:26,Undergraduate,First Year,Commerce / Management,More than 5 hours,More than 8 hours,76-90%,Once a week,Weekly revision,More than 6 hours,Never,4,Usually,2,80-89%,Better time management
+22-09-2026 21:04,Undergraduate,Second Year,Commerce / Management,3-5 hours,More than 8 hours,76-90%,Rarely,Mostly just before exams,2-4 hours,Very often,1,Rarely,1,50-59%,Better sleep routine
+22-09-2026 18:00,Undergraduate,Second Year,Science,Less than 1 hour,6-7 hours,66-75%,Rarely,Weekend study sessions,1-2 hours,Often,4,Rarely,3,40-49%,Better learning resources
+22-09-2026 15:53,Other,Fourth Year,Science,1-2 hours,5-6 hours,Above 90%,Daily,Weekend study sessions,More than 6 hours,Sometimes,5,Usually,4,70-79%,Better sleep routine
+22-09-2026 15:49,Postgraduate,Other,Computer Science / IT,1-2 hours,7-8 hours,76-90%,Only before exams,No fixed routine,2-4 hours,Sometimes,3,Always,1,Below 40%,Regular revision
+22-09-2026 15:27,Postgraduate,Other,Computer Science / IT,3-5 hours,More than 8 hours,Below 50%,Once a week,Weekend study sessions,1-2 hours,Sometimes,3,Never,5,60-69%,Reduced social media usage
+22-09-2026 15:10,Postgraduate,Other,Other Engineering,3-5 hours,More than 8 hours,Below 50%,Only before exams,Regular daily study,Less than 1 hour,Often,2,Rarely,3,50-59%,Better sleep routine
+22-09-2026 14:38,Undergraduate,Third Year,Other Engineering,Less than 1 hour,5-6 hours,76-90%,Only before exams,No fixed routine,Less than 1 hour,Often,4,Never,1,60-69%,Improved concentration
+22-09-2026 12:27,Other,Second Year,Other Engineering,Less than 1 hour,More than 8 hours,66-75%,Once a week,No fixed routine,1-2 hours,Rarely,1,Sometimes,4,50-59%,Reduced social media usage
+22-09-2026 09:49,Other,First Year,Computer Science / IT,Less than 1 hour,More than 8 hours,66-75%,Daily,Weekend study sessions,Less than 1 hour,Often,4,Usually,4,50-59%,More study time
+22-09-2026 07:52,Postgraduate,Third Year,Science,3-5 hours,Less than 5 hours,76-90%,Only before exams,Regular daily study,More than 6 hours,Never,4,Never,4,50-59%,More study time
+22-09-2026 07:26,Undergraduate,Fourth Year,Other Engineering,More than 5 hours,6-7 hours,Below 50%,Once a week,Regular daily study,2-4 hours,Very often,4,Sometimes,3,70-79%,More study time
+22-09-2026 06:54,Postgraduate,Third Year,Commerce / Management,1-2 hours,Less than 5 hours,76-90%,Daily,Regular daily study,2-4 hours,Often,5,Never,2,80-89%,More study time
+22-09-2026 06:39,Postgraduate,First Year,Commerce / Management,More than 5 hours,6-7 hours,50-65%,Once a week,Mostly just before exams,More than 6 hours,Sometimes,4,Usually,1,70-79%,Better learning resources
+22-09-2026 05:19,Postgraduate,First Year,Computer Science / IT,1-2 hours,6-7 hours,76-90%,Rarely,Weekly revision,More than 6 hours,Very often,5,Sometimes,1,50-59%,More study time
+22-09-2026 05:05,Other,Fourth Year,Computer Science / IT,Less than 1 hour,6-7 hours,Above 90%,Rarely,Weekend study sessions,1-2 hours,Sometimes,4,Always,1,50-59%,More study time
+22-09-2026 04:59,Other,Second Year,Other Engineering,3-5 hours,7-8 hours,50-65%,Once a week,Regular daily study,More than 6 hours,Often,4,Rarely,5,70-79%,More study time
+22-09-2026 04:22,Diploma,Fourth Year,Commerce / Management,Less than 1 hour,5-6 hours,50-65%,Daily,Weekend study sessions,1-2 hours,Never,3,Sometimes,1,40-49%,More study time
+22-09-2026 03:56,Other,Second Year,Science,1-2 hours,5-6 hours,Above 90%,Once a week,Regular daily study,More than 6 hours,Sometimes,1,Rarely,3,40-49%,More study time
+22-09-2026 02:15,Undergraduate,Third Year,Other Engineering,1-2 hours,6-7 hours,Below 50%,Rarely,Weekly revision,1-2 hours,Rarely,4,Sometimes,1,40-49%,Improved concentration
+22-09-2026 00:36,Postgraduate,Second Year,Arts / Humanities,Less than 1 hour,Less than 5 hours,50-65%,Only before exams,Weekly revision,2-4 hours,Sometimes,4,Usually,5,Below 40%,Better learning resources
+22-09-2026 00:22,Postgraduate,Third Year,Computer Science / IT,1-2 hours,Less than 5 hours,Above 90%,Once a week,Regular daily study,Less than 1 hour,Never,2,Always,1,50-59%,Better learning resources
+21-09-2026 23:05,Postgraduate,Second Year,Other,1-2 hours,7-8 hours,Below 50%,Several times a week,Regular daily study,4-6 hours,Never,2,Always,2,50-59%,Better sleep routine
+21-09-2026 22:59,Postgraduate,Other,Other Engineering,1-2 hours,More than 8 hours,Below 50%,Only before exams,No fixed routine,1-2 hours,Sometimes,1,Always,1,Below 40%,Improved concentration
+21-09-2026 22:58,Undergraduate,Fourth Year,Arts / Humanities,3-5 hours,More than 8 hours,Above 90%,Several times a week,Weekend study sessions,4-6 hours,Sometimes,5,Sometimes,5,70-79%,Better sleep routine
+21-09-2026 22:45,Diploma,Fourth Year,Science,1-2 hours,More than 8 hours,76-90%,Daily,Weekend study sessions,2-4 hours,Often,1,Rarely,1,60-69%,Better learning resources
+21-09-2026 21:57,Postgraduate,First Year,Arts / Humanities,1-2 hours,7-8 hours,50-65%,Rarely,Weekend study sessions,More than 6 hours,Rarely,1,Never,5,Below 40%,Better learning resources
+21-09-2026 20:14,Undergraduate,Second Year,Arts / Humanities,3-5 hours,6-7 hours,66-75%,Only before exams,Regular daily study,2-4 hours,Very often,2,Usually,1,40-49%,Regular revision
+21-09-2026 19:11,Diploma,Other,Computer Science / IT,2-3 hours,7-8 hours,Below 50%,Only before exams,Regular daily study,1-2 hours,Never,2,Rarely,3,50-59%,Better sleep routine
+21-09-2026 19:06,Postgraduate,Other,Commerce / Management,2-3 hours,More than 8 hours,76-90%,Only before exams,Regular daily study,4-6 hours,Very often,1,Always,4,40-49%,More study time
+21-09-2026 19:04,Other,Third Year,Other,1-2 hours,More than 8 hours,Above 90%,Daily,Regular daily study,2-4 hours,Very often,5,Sometimes,2,70-79%,Regular revision
+21-09-2026 18:47,Other,Fourth Year,Arts / Humanities,3-5 hours,Less than 5 hours,76-90%,Daily,Regular daily study,2-4 hours,Often,4,Sometimes,4,80-89%,Better learning resources
+21-09-2026 15:28,Diploma,Third Year,Arts / Humanities,2-3 hours,7-8 hours,Above 90%,Rarely,Weekend study sessions,2-4 hours,Never,1,Always,1,40-49%,Regular revision
+21-09-2026 15:14,Other,Third Year,Computer Science / IT,More than 5 hours,6-7 hours,Above 90%,Rarely,Mostly just before exams,1-2 hours,Often,3,Always,5,50-59%,More study time
+21-09-2026 13:39,Other,Other,Commerce / Management,3-5 hours,5-6 hours,Below 50%,Daily,Mostly just before exams,Less than 1 hour,Very often,2,Usually,4,40-49%,Better learning resources
+21-09-2026 10:31,Postgraduate,Fourth Year,Computer Science / IT,2-3 hours,Less than 5 hours,Above 90%,Once a week,Weekly revision,4-6 hours,Often,2,Never,3,70-79%,Improved concentration
+21-09-2026 10:09,Postgraduate,Fourth Year,Other,3-5 hours,7-8 hours,Above 90%,Once a week,No fixed routine,1-2 hours,Rarely,1,Rarely,1,80-89%,Improved concentration
+21-09-2026 04:13,Postgraduate,Third Year,Commerce / Management,Less than 1 hour,More than 8 hours,50-65%,Several times a week,Regular daily study,Less than 1 hour,Rarely,5,Rarely,1,40-49%,Reduced social media usage
+21-09-2026 03:36,Undergraduate,Second Year,Science,2-3 hours,Less than 5 hours,50-65%,Once a week,Weekly revision,Less than 1 hour,Never,2,Never,4,40-49%,Better time management
+21-09-2026 02:58,Undergraduate,Third Year,Other,More than 5 hours,6-7 hours,76-90%,Once a week,No fixed routine,2-4 hours,Rarely,5,Sometimes,5,70-79%,Better time management
+21-09-2026 00:50,Postgraduate,Second Year,Other Engineering,3-5 hours,5-6 hours,Below 50%,Several times a week,Weekend study sessions,1-2 hours,Rarely,5,Usually,5,50-59%,Better time management
+20-09-2026 23:58,Other,First Year,Science,3-5 hours,7-8 hours,50-65%,Daily,Regular daily study,1-2 hours,Never,5,Never,5,70-79%,More study time
+20-09-2026 23:35,Diploma,Other,Commerce / Management,1-2 hours,Less than 5 hours,Above 90%,Daily,Regular daily study,2-4 hours,Rarely,3,Never,4,60-69%,Better learning resources
+20-09-2026 22:28,Postgraduate,First Year,Arts / Humanities,2-3 hours,Less than 5 hours,Below 50%,Only before exams,Weekend study sessions,1-2 hours,Rarely,1,Usually,4,Below 40%,Regular revision
+20-09-2026 21:41,Postgraduate,First Year,Commerce / Management,Less than 1 hour,Less than 5 hours,66-75%,Several times a week,No fixed routine,More than 6 hours,Sometimes,4,Usually,3,40-49%,Better sleep routine
+20-09-2026 21:10,Undergraduate,Other,Other,2-3 hours,7-8 hours,50-65%,Only before exams,No fixed routine,More than 6 hours,Often,4,Sometimes,2,60-69%,Regular revision
+20-09-2026 19:15,Other,Third Year,Other,Less than 1 hour,5-6 hours,76-90%,Once a week,Regular daily study,4-6 hours,Never,2,Rarely,2,50-59%,Improved concentration
+20-09-2026 18:23,Postgraduate,Third Year,Other,1-2 hours,6-7 hours,Above 90%,Several times a week,Weekend study sessions,2-4 hours,Often,1,Never,1,50-59%,Reduced social media usage
+20-09-2026 17:27,Diploma,Other,Commerce / Management,Less than 1 hour,6-7 hours,Below 50%,Only before exams,Mostly just before exams,1-2 hours,Very often,3,Sometimes,3,Below 40%,Better learning resources
+20-09-2026 17:15,Postgraduate,Other,Arts / Humanities,3-5 hours,5-6 hours,50-65%,Several times a week,Regular daily study,More than 6 hours,Often,3,Always,4,50-59%,Better learning resources
+20-09-2026 15:08,Undergraduate,Third Year,Other,1-2 hours,7-8 hours,Below 50%,Only before exams,Weekly revision,More than 6 hours,Often,5,Never,1,50-59%,More study time
+20-09-2026 13:45,Undergraduate,Other,Commerce / Management,2-3 hours,5-6 hours,76-90%,Several times a week,Weekend study sessions,Less than 1 hour,Very often,3,Never,4,70-79%,Better sleep routine
+20-09-2026 11:54,Other,Third Year,Commerce / Management,More than 5 hours,5-6 hours,Below 50%,Once a week,Weekend study sessions,1-2 hours,Often,5,Sometimes,4,40-49%,Regular revision
+20-09-2026 11:39,Undergraduate,Fourth Year,Commerce / Management,3-5 hours,More than 8 hours,50-65%,Rarely,Mostly just before exams,4-6 hours,Often,2,Sometimes,4,50-59%,Better learning resources
+20-09-2026 11:29,Postgraduate,Fourth Year,Other Engineering,2-3 hours,6-7 hours,Above 90%,Several times a week,No fixed routine,1-2 hours,Often,4,Sometimes,5,70-79%,More study time
+20-09-2026 07:04,Other,First Year,Other,3-5 hours,6-7 hours,76-90%,Rarely,Mostly just before exams,2-4 hours,Never,1,Never,4,60-69%,Better sleep routine
+20-09-2026 05:28,Other,First Year,Arts / Humanities,3-5 hours,6-7 hours,Below 50%,Only before exams,Weekend study sessions,More than 6 hours,Rarely,4,Usually,5,60-69%,Improved concentration
+20-09-2026 03:42,Diploma,Fourth Year,Arts / Humanities,Less than 1 hour,7-8 hours,Above 90%,Once a week,No fixed routine,More than 6 hours,Very often,4,Sometimes,2,70-79%,Reduced social media usage
+20-09-2026 02:18,Undergraduate,Other,Other Engineering,3-5 hours,6-7 hours,Above 90%,Only before exams,Weekend study sessions,More than 6 hours,Rarely,4,Sometimes,2,60-69%,Reduced social media usage
+20-09-2026 01:54,Undergraduate,Other,Other,3-5 hours,Less than 5 hours,50-65%,Daily,Regular daily study,2-4 hours,Never,2,Usually,4,50-59%,Better learning resources
+20-09-2026 01:21,Diploma,Fourth Year,Other,Less than 1 hour,5-6 hours,66-75%,Rarely,Weekly revision,2-4 hours,Very often,5,Always,1,Below 40%,Better sleep routine
+20-09-2026 01:15,Diploma,Other,Commerce / Management,1-2 hours,7-8 hours,50-65%,Once a week,Weekly revision,2-4 hours,Often,2,Never,5,Below 40%,Regular revision
+20-09-2026 00:56,Other,Third Year,Commerce / Management,More than 5 hours,Less than 5 hours,66-75%,Only before exams,Weekend study sessions,4-6 hours,Never,3,Sometimes,1,50-59%,Better learning resources
+20-09-2026 00:47,Diploma,Other,Commerce / Management,1-2 hours,5-6 hours,Below 50%,Daily,Weekend study sessions,Less than 1 hour,Very often,5,Rarely,3,60-69%,Reduced social media usage
+19-09-2026 23:43,Diploma,First Year,Commerce / Management,Less than 1 hour,5-6 hours,66-75%,Only before exams,Weekend study sessions,4-6 hours,Often,2,Rarely,2,40-49%,More study time
+19-09-2026 20:52,Other,Fourth Year,Science,3-5 hours,Less than 5 hours,66-75%,Only before exams,Weekend study sessions,More than 6 hours,Often,3,Sometimes,3,50-59%,More study time
+19-09-2026 19:46,Diploma,Second Year,Arts / Humanities,3-5 hours,Less than 5 hours,76-90%,Only before exams,Regular daily study,1-2 hours,Never,2,Sometimes,1,60-69%,Improved concentration
+19-09-2026 19:25,Undergraduate,Other,Computer Science / IT,1-2 hours,5-6 hours,76-90%,Rarely,Mostly just before exams,Less than 1 hour,Very often,1,Usually,5,Below 40%,Better time management
+19-09-2026 19:06,Undergraduate,Other,Science,2-3 hours,6-7 hours,Below 50%,Daily,Mostly just before exams,Less than 1 hour,Very often,2,Rarely,4,60-69%,Better sleep routine
+19-09-2026 18:53,Other,Third Year,Arts / Humanities,3-5 hours,Less than 5 hours,76-90%,Only before exams,Mostly just before exams,4-6 hours,Sometimes,5,Always,1,70-79%,Reduced social media usage
+19-09-2026 18:03,Other,Second Year,Computer Science / IT,More than 5 hours,More than 8 hours,66-75%,Only before exams,Mostly just before exams,Less than 1 hour,Never,1,Never,5,50-59%,Better time management
+19-09-2026 15:37,Undergraduate,Third Year,Arts / Humanities,1-2 hours,5-6 hours,Below 50%,Several times a week,Mostly just before exams,4-6 hours,Sometimes,3,Always,1,Below 40%,Better sleep routine
+19-09-2026 15:22,Postgraduate,Second Year,Science,Less than 1 hour,6-7 hours,Below 50%,Only before exams,Regular daily study,1-2 hours,Very often,4,Usually,3,Below 40%,Regular revision
+19-09-2026 13:37,Undergraduate,Other,Computer Science / IT,1-2 hours,6-7 hours,Above 90%,Rarely,Weekend study sessions,Less than 1 hour,Very often,4,Always,2,60-69%,Better time management
+19-09-2026 13:08,Postgraduate,Third Year,Computer Science / IT,More than 5 hours,5-6 hours,50-65%,Only before exams,Mostly just before exams,4-6 hours,Often,2,Sometimes,2,60-69%,Better sleep routine
+19-09-2026 12:46,Other,First Year,Other,2-3 hours,More than 8 hours,Above 90%,Daily,Mostly just before exams,4-6 hours,Never,1,Usually,4,50-59%,Better learning resources
+19-09-2026 12:01,Undergraduate,Second Year,Other,2-3 hours,More than 8 hours,Below 50%,Daily,Weekend study sessions,4-6 hours,Sometimes,1,Rarely,1,60-69%,Improved concentration
+19-09-2026 11:46,Postgraduate,Third Year,Computer Science / IT,3-5 hours,7-8 hours,Below 50%,Only before exams,Weekend study sessions,4-6 hours,Never,4,Rarely,5,40-49%,Regular revision
+19-09-2026 10:18,Other,Fourth Year,Computer Science / IT,2-3 hours,5-6 hours,76-90%,Several times a week,Regular daily study,Less than 1 hour,Rarely,5,Usually,2,60-69%,Reduced social media usage
+19-09-2026 08:32,Other,Other,Other,Less than 1 hour,Less than 5 hours,50-65%,Daily,Weekend study sessions,2-4 hours,Never,4,Sometimes,4,50-59%,Better time management
+19-09-2026 06:13,Postgraduate,Second Year,Other,1-2 hours,More than 8 hours,50-65%,Once a week,Regular daily study,More than 6 hours,Rarely,3,Never,2,Below 40%,Regular revision
+19-09-2026 01:08,Postgraduate,First Year,Science,1-2 hours,6-7 hours,50-65%,Only before exams,No fixed routine,More than 6 hours,Very often,5,Sometimes,2,Below 40%,Better learning resources
+19-09-2026 01:06,Postgraduate,Second Year,Computer Science / IT,1-2 hours,Less than 5 hours,76-90%,Only before exams,Mostly just before exams,4-6 hours,Often,5,Never,5,60-69%,Better time management
+18-09-2026 18:52,Other,Third Year,Other Engineering,More than 5 hours,More than 8 hours,76-90%,Several times a week,Regular daily study,1-2 hours,Often,5,Rarely,4,80-89%,Better sleep routine
+18-09-2026 16:54,Other,Other,Commerce / Management,3-5 hours,More than 8 hours,Above 90%,Daily,No fixed routine,Less than 1 hour,Sometimes,1,Never,2,80-89%,Reduced social media usage
+18-09-2026 16:47,Postgraduate,Other,Arts / Humanities,2-3 hours,More than 8 hours,66-75%,Only before exams,Regular daily study,Less than 1 hour,Sometimes,3,Usually,3,60-69%,Improved concentration
+18-09-2026 16:22,Other,Second Year,Other,2-3 hours,6-7 hours,50-65%,Daily,Regular daily study,2-4 hours,Very often,2,Sometimes,4,60-69%,Reduced social media usage
+18-09-2026 14:46,Undergraduate,First Year,Arts / Humanities,3-5 hours,More than 8 hours,66-75%,Several times a week,Regular daily study,1-2 hours,Rarely,2,Never,3,70-79%,Better time management
+18-09-2026 12:52,Other,Fourth Year,Commerce / Management,2-3 hours,7-8 hours,Above 90%,Only before exams,Weekend study sessions,2-4 hours,Rarely,5,Rarely,3,60-69%,Better learning resources
+18-09-2026 12:50,Postgraduate,Second Year,Commerce / Management,More than 5 hours,Less than 5 hours,Above 90%,Daily,Regular daily study,Less than 1 hour,Often,3,Never,3,80-89%,Better sleep routine
+18-09-2026 10:27,Postgraduate,Other,Other Engineering,1-2 hours,More than 8 hours,66-75%,Rarely,Regular daily study,2-4 hours,Never,1,Usually,1,Below 40%,Regular revision
+18-09-2026 10:01,Undergraduate,Fourth Year,Computer Science / IT,1-2 hours,7-8 hours,66-75%,Several times a week,Weekend study sessions,1-2 hours,Sometimes,2,Sometimes,3,50-59%,Better sleep routine
+18-09-2026 06:58,Diploma,Fourth Year,Commerce / Management,Less than 1 hour,Less than 5 hours,Above 90%,Several times a week,Mostly just before exams,2-4 hours,Rarely,4,Sometimes,5,50-59%,Regular revision
+18-09-2026 06:32,Other,Third Year,Other Engineering,2-3 hours,7-8 hours,66-75%,Only before exams,Regular daily study,More than 6 hours,Rarely,3,Always,5,40-49%,Improved concentration
+18-09-2026 03:45,Diploma,Other,Other,Less than 1 hour,7-8 hours,66-75%,Rarely,Weekend study sessions,More than 6 hours,Very often,1,Always,1,Below 40%,Reduced social media usage
+18-09-2026 03:22,Postgraduate,Third Year,Computer Science / IT,1-2 hours,7-8 hours,50-65%,Rarely,Weekly revision,2-4 hours,Sometimes,4,Never,2,Below 40%,Better time management
+18-09-2026 02:29,Postgraduate,Fourth Year,Science,3-5 hours,7-8 hours,66-75%,Daily,Weekly revision,More than 6 hours,Rarely,3,Usually,4,70-79%,Better learning resources
+18-09-2026 02:02,Other,Second Year,Commerce / Management,More than 5 hours,Less than 5 hours,76-90%,Rarely,Weekend study sessions,More than 6 hours,Rarely,3,Always,1,50-59%,Reduced social media usage
+18-09-2026 01:03,Postgraduate,Third Year,Other Engineering,2-3 hours,More than 8 hours,50-65%,Daily,Weekly revision,4-6 hours,Very often,3,Sometimes,3,50-59%,More study time
+18-09-2026 00:48,Other,Third Year,Arts / Humanities,3-5 hours,5-6 hours,76-90%,Only before exams,Mostly just before exams,4-6 hours,Very often,3,Rarely,2,70-79%,Better sleep routine
+18-09-2026 00:09,Undergraduate,Second Year,Other,2-3 hours,More than 8 hours,50-65%,Rarely,Weekly revision,More than 6 hours,Never,4,Rarely,5,40-49%,Regular revision
+17-09-2026 22:55,Other,First Year,Other,3-5 hours,More than 8 hours,66-75%,Several times a week,Weekly revision,Less than 1 hour,Often,3,Never,4,70-79%,Better sleep routine
+17-09-2026 22:34,Undergraduate,Third Year,Other,3-5 hours,Less than 5 hours,Below 50%,Several times a week,Mostly just before exams,4-6 hours,Often,5,Sometimes,2,50-59%,Better learning resources
+17-09-2026 18:50,Diploma,Third Year,Arts / Humanities,3-5 hours,5-6 hours,76-90%,Only before exams,No fixed routine,More than 6 hours,Rarely,3,Always,1,50-59%,Reduced social media usage
+17-09-2026 18:31,Postgraduate,Third Year,Computer Science / IT,More than 5 hours,More than 8 hours,50-65%,Daily,Mostly just before exams,4-6 hours,Never,5,Always,2,70-79%,Improved concentration
+17-09-2026 16:20,Undergraduate,First Year,Arts / Humanities,More than 5 hours,More than 8 hours,66-75%,Several times a week,Mostly just before exams,2-4 hours,Very often,3,Usually,1,70-79%,Regular revision
+17-09-2026 14:51,Diploma,Third Year,Computer Science / IT,More than 5 hours,6-7 hours,Above 90%,Rarely,Weekend study sessions,4-6 hours,Very often,4,Usually,5,80-89%,Better time management
+17-09-2026 13:38,Undergraduate,Fourth Year,Commerce / Management,1-2 hours,7-8 hours,Below 50%,Daily,Weekend study sessions,More than 6 hours,Never,1,Rarely,4,40-49%,Regular revision
+17-09-2026 13:36,Postgraduate,Other,Arts / Humanities,Less than 1 hour,More than 8 hours,Below 50%,Daily,No fixed routine,More than 6 hours,Rarely,1,Sometimes,4,Below 40%,Improved concentration
+17-09-2026 12:12,Diploma,Second Year,Commerce / Management,More than 5 hours,7-8 hours,66-75%,Only before exams,Regular daily study,4-6 hours,Never,2,Never,1,50-59%,Improved concentration
+17-09-2026 08:04,Postgraduate,Third Year,Other Engineering,More than 5 hours,Less than 5 hours,66-75%,Rarely,Weekend study sessions,1-2 hours,Rarely,1,Sometimes,1,50-59%,Reduced social media usage
+17-09-2026 06:02,Postgraduate,Second Year,Computer Science / IT,Less than 1 hour,More than 8 hours,76-90%,Daily,Mostly just before exams,2-4 hours,Rarely,4,Sometimes,4,50-59%,More study time
+17-09-2026 05:17,Other,Second Year,Commerce / Management,3-5 hours,7-8 hours,66-75%,Only before exams,Regular daily study,1-2 hours,Rarely,1,Usually,3,40-49%,Better time management
+17-09-2026 05:04,Undergraduate,Second Year,Commerce / Management,2-3 hours,More than 8 hours,76-90%,Daily,Mostly just before exams,4-6 hours,Sometimes,2,Always,5,70-79%,More study time
+17-09-2026 03:56,Other,Fourth Year,Arts / Humanities,More than 5 hours,More than 8 hours,76-90%,Several times a week,Weekly revision,More than 6 hours,Never,4,Always,2,70-79%,More study time
+17-09-2026 03:34,Postgraduate,Second Year,Other,1-2 hours,Less than 5 hours,Above 90%,Only before exams,Weekend study sessions,Less than 1 hour,Never,4,Rarely,4,50-59%,Reduced social media usage
+17-09-2026 03:34,Diploma,First Year,Commerce / Management,1-2 hours,5-6 hours,Above 90%,Once a week,Weekend study sessions,More than 6 hours,Never,1,Rarely,1,60-69%,Reduced social media usage
+17-09-2026 03:13,Undergraduate,Second Year,Other,More than 5 hours,5-6 hours,Above 90%,Daily,Weekly revision,4-6 hours,Often,2,Never,1,70-79%,Reduced social media usage
+16-09-2026 23:47,Undergraduate,Other,Science,Less than 1 hour,6-7 hours,50-65%,Several times a week,Weekend study sessions,4-6 hours,Sometimes,5,Always,2,40-49%,Reduced social media usage
+16-09-2026 18:29,Diploma,Other,Other,More than 5 hours,7-8 hours,50-65%,Daily,Weekly revision,More than 6 hours,Never,5,Never,1,70-79%,Improved concentration
+16-09-2026 18:27,Undergraduate,Second Year,Science,1-2 hours,5-6 hours,66-75%,Once a week,Mostly just before exams,4-6 hours,Rarely,2,Sometimes,1,40-49%,Reduced social media usage
+16-09-2026 17:55,Undergraduate,Fourth Year,Computer Science / IT,3-5 hours,6-7 hours,Above 90%,Daily,Weekend study sessions,4-6 hours,Never,2,Usually,4,70-79%,Reduced social media usage
+16-09-2026 17:33,Other,Third Year,Commerce / Management,3-5 hours,7-8 hours,76-90%,Once a week,Regular daily study,2-4 hours,Rarely,2,Rarely,1,70-79%,Regular revision
+16-09-2026 12:52,Postgraduate,Third Year,Commerce / Management,Less than 1 hour,5-6 hours,66-75%,Once a week,No fixed routine,2-4 hours,Often,2,Rarely,2,Below 40%,Better learning resources
+16-09-2026 12:12,Diploma,Other,Arts / Humanities,1-2 hours,5-6 hours,50-65%,Only before exams,Mostly just before exams,2-4 hours,Rarely,5,Always,5,Below 40%,More study time
+16-09-2026 12:05,Diploma,Third Year,Other Engineering,More than 5 hours,6-7 hours,66-75%,Daily,Regular daily study,4-6 hours,Rarely,1,Never,4,60-69%,Reduced social media usage
+16-09-2026 10:06,Undergraduate,Second Year,Science,1-2 hours,Less than 5 hours,76-90%,Only before exams,Regular daily study,More than 6 hours,Never,1,Rarely,4,40-49%,Better time management
+16-09-2026 08:11,Diploma,Fourth Year,Arts / Humanities,2-3 hours,6-7 hours,76-90%,Daily,Mostly just before exams,Less than 1 hour,Very often,5,Always,4,70-79%,Better time management
+16-09-2026 06:31,Postgraduate,Fourth Year,Science,1-2 hours,7-8 hours,76-90%,Several times a week,Mostly just before exams,4-6 hours,Rarely,2,Always,3,60-69%,Regular revision
+16-09-2026 06:20,Postgraduate,Third Year,Other,1-2 hours,More than 8 hours,Below 50%,Rarely,Weekly revision,More than 6 hours,Sometimes,2,Sometimes,3,Below 40%,Regular revision
+16-09-2026 06:18,Postgraduate,Other,Other Engineering,3-5 hours,Less than 5 hours,Below 50%,Daily,Weekend study sessions,More than 6 hours,Very often,5,Never,1,60-69%,Better learning resources
+16-09-2026 01:21,Diploma,Other,Computer Science / IT,Less than 1 hour,5-6 hours,Above 90%,Once a week,No fixed routine,2-4 hours,Very often,3,Never,4,60-69%,Improved concentration
+15-09-2026 23:44,Other,Other,Computer Science / IT,2-3 hours,6-7 hours,Below 50%,Daily,Weekly revision,1-2 hours,Very often,4,Sometimes,4,60-69%,Reduced social media usage
+15-09-2026 20:08,Diploma,First Year,Other,More than 5 hours,More than 8 hours,66-75%,Once a week,Mostly just before exams,1-2 hours,Rarely,3,Rarely,2,60-69%,Better sleep routine
+15-09-2026 19:40,Diploma,Third Year,Other Engineering,1-2 hours,More than 8 hours,Below 50%,Daily,Weekly revision,Less than 1 hour,Rarely,4,Sometimes,1,50-59%,Improved concentration
+15-09-2026 17:40,Other,Other,Science,2-3 hours,Less than 5 hours,50-65%,Daily,Weekly revision,2-4 hours,Sometimes,5,Sometimes,5,70-79%,More study time
+15-09-2026 17:15,Diploma,Second Year,Commerce / Management,Less than 1 hour,7-8 hours,Above 90%,Once a week,Weekly revision,More than 6 hours,Often,2,Never,2,50-59%,Improved concentration
+15-09-2026 17:02,Postgraduate,Third Year,Computer Science / IT,More than 5 hours,5-6 hours,50-65%,Daily,Weekend study sessions,2-4 hours,Rarely,2,Always,1,70-79%,Better learning resources
+15-09-2026 16:45,Other,First Year,Other,Less than 1 hour,5-6 hours,Below 50%,Daily,No fixed routine,2-4 hours,Sometimes,3,Rarely,2,40-49%,More study time
+15-09-2026 16:37,Undergraduate,Third Year,Commerce / Management,1-2 hours,6-7 hours,50-65%,Only before exams,No fixed routine,Less than 1 hour,Often,4,Rarely,5,Below 40%,More study time
+15-09-2026 16:18,Undergraduate,First Year,Science,3-5 hours,7-8 hours,66-75%,Several times a week,Weekly revision,4-6 hours,Sometimes,5,Rarely,5,80-89%,Better time management
+15-09-2026 15:05,Postgraduate,Fourth Year,Science,3-5 hours,5-6 hours,76-90%,Once a week,No fixed routine,1-2 hours,Never,3,Sometimes,4,80-89%,Better sleep routine
+15-09-2026 10:00,Diploma,Second Year,Science,More than 5 hours,More than 8 hours,50-65%,Rarely,Weekend study sessions,More than 6 hours,Rarely,3,Never,4,40-49%,Reduced social media usage
+15-09-2026 07:42,Postgraduate,Fourth Year,Other Engineering,1-2 hours,5-6 hours,50-65%,Only before exams,Weekend study sessions,2-4 hours,Never,5,Always,2,Below 40%,Better sleep routine
+15-09-2026 02:39,Postgraduate,Fourth Year,Commerce / Management,Less than 1 hour,6-7 hours,Above 90%,Once a week,Weekend study sessions,Less than 1 hour,Sometimes,2,Never,1,Below 40%,Reduced social media usage
+15-09-2026 02:31,Undergraduate,Other,Other Engineering,3-5 hours,More than 8 hours,66-75%,Only before exams,No fixed routine,More than 6 hours,Sometimes,3,Always,3,50-59%,Improved concentration
+15-09-2026 01:56,Postgraduate,First Year,Computer Science / IT,Less than 1 hour,More than 8 hours,66-75%,Several times a week,Mostly just before exams,1-2 hours,Often,2,Always,2,Below 40%,More study time
+15-09-2026 00:52,Postgraduate,First Year,Science,1-2 hours,7-8 hours,50-65%,Once a week,Weekly revision,Less than 1 hour,Never,4,Always,1,40-49%,Reduced social media usage
+14-09-2026 22:49,Diploma,Third Year,Science,Less than 1 hour,6-7 hours,Above 90%,Several times a week,No fixed routine,1-2 hours,Rarely,2,Usually,5,60-69%,Reduced social media usage
+14-09-2026 21:49,Postgraduate,Fourth Year,Science,More than 5 hours,6-7 hours,76-90%,Rarely,Regular daily study,4-6 hours,Often,4,Never,1,60-69%,Reduced social media usage
+14-09-2026 21:32,Postgraduate,Fourth Year,Arts / Humanities,Less than 1 hour,7-8 hours,76-90%,Daily,Mostly just before exams,2-4 hours,Never,5,Rarely,5,70-79%,Better time management
+14-09-2026 20:14,Undergraduate,Third Year,Commerce / Management,2-3 hours,6-7 hours,76-90%,Daily,Mostly just before exams,4-6 hours,Sometimes,4,Always,5,60-69%,Better time management
+14-09-2026 19:06,Undergraduate,Third Year,Computer Science / IT,1-2 hours,7-8 hours,50-65%,Rarely,Weekly revision,Less than 1 hour,Sometimes,2,Rarely,2,Below 40%,More study time
+14-09-2026 18:48,Undergraduate,First Year,Computer Science / IT,3-5 hours,Less than 5 hours,66-75%,Only before exams,Weekend study sessions,More than 6 hours,Sometimes,3,Usually,4,40-49%,Improved concentration
+14-09-2026 18:43,Postgraduate,Fourth Year,Science,Less than 1 hour,7-8 hours,Above 90%,Daily,Mostly just before exams,4-6 hours,Very often,5,Sometimes,4,80-89%,Better sleep routine
+14-09-2026 17:15,Other,Third Year,Arts / Humanities,3-5 hours,More than 8 hours,50-65%,Rarely,No fixed routine,4-6 hours,Often,5,Never,3,40-49%,More study time
+14-09-2026 16:08,Undergraduate,Third Year,Computer Science / IT,Less than 1 hour,5-6 hours,66-75%,Only before exams,Weekend study sessions,1-2 hours,Rarely,4,Sometimes,4,40-49%,Improved concentration
+14-09-2026 15:38,Postgraduate,First Year,Computer Science / IT,2-3 hours,7-8 hours,Below 50%,Several times a week,Mostly just before exams,2-4 hours,Sometimes,4,Never,4,40-49%,Improved concentration
+14-09-2026 14:49,Undergraduate,Fourth Year,Computer Science / IT,3-5 hours,6-7 hours,66-75%,Once a week,Regular daily study,1-2 hours,Sometimes,5,Never,2,50-59%,Better time management
+14-09-2026 13:06,Diploma,Other,Other,1-2 hours,6-7 hours,76-90%,Only before exams,Weekly revision,1-2 hours,Sometimes,3,Never,4,50-59%,Improved concentration
+14-09-2026 10:58,Undergraduate,Third Year,Science,3-5 hours,6-7 hours,66-75%,Several times a week,Regular daily study,4-6 hours,Sometimes,3,Always,3,70-79%,Better time management
+14-09-2026 10:51,Undergraduate,Second Year,Arts / Humanities,More than 5 hours,More than 8 hours,76-90%,Once a week,Weekend study sessions,2-4 hours,Never,5,Always,3,80-89%,More study time
+14-09-2026 10:11,Undergraduate,Third Year,Commerce / Management,2-3 hours,7-8 hours,50-65%,Several times a week,Regular daily study,4-6 hours,Very often,1,Never,2,40-49%,Regular revision
+14-09-2026 08:23,Undergraduate,Third Year,Commerce / Management,More than 5 hours,6-7 hours,50-65%,Daily,Weekly revision,More than 6 hours,Sometimes,1,Never,3,70-79%,Reduced social media usage
+14-09-2026 06:30,Undergraduate,Fourth Year,Arts / Humanities,More than 5 hours,Less than 5 hours,76-90%,Only before exams,No fixed routine,Less than 1 hour,Never,5,Never,1,60-69%,Better sleep routine
+14-09-2026 06:12,Postgraduate,First Year,Arts / Humanities,3-5 hours,6-7 hours,66-75%,Daily,Weekend study sessions,4-6 hours,Rarely,1,Usually,2,70-79%,More study time
+14-09-2026 05:49,Postgraduate,Second Year,Arts / Humanities,Less than 1 hour,7-8 hours,Below 50%,Several times a week,No fixed routine,More than 6 hours,Rarely,3,Never,2,40-49%,Regular revision
+13-09-2026 23:16,Other,Second Year,Other Engineering,1-2 hours,5-6 hours,66-75%,Daily,Weekly revision,4-6 hours,Sometimes,2,Never,3,40-49%,Better learning resources
+13-09-2026 22:41,Diploma,First Year,Commerce / Management,1-2 hours,More than 8 hours,50-65%,Only before exams,No fixed routine,Less than 1 hour,Very often,4,Sometimes,4,40-49%,More study time
+13-09-2026 22:38,Postgraduate,Second Year,Commerce / Management,2-3 hours,7-8 hours,Below 50%,Once a week,Weekend study sessions,Less than 1 hour,Often,1,Rarely,3,Below 40%,Regular revision
+13-09-2026 22:15,Postgraduate,Fourth Year,Computer Science / IT,2-3 hours,6-7 hours,Below 50%,Only before exams,Weekly revision,Less than 1 hour,Sometimes,3,Rarely,5,Below 40%,Better learning resources
+13-09-2026 21:55,Other,Second Year,Other Engineering,2-3 hours,7-8 hours,66-75%,Daily,Mostly just before exams,More than 6 hours,Rarely,5,Always,5,60-69%,Reduced social media usage
+13-09-2026 20:02,Postgraduate,Fourth Year,Commerce / Management,Less than 1 hour,6-7 hours,76-90%,Only before exams,Regular daily study,4-6 hours,Sometimes,1,Usually,4,Below 40%,Regular revision
+13-09-2026 19:49,Postgraduate,Other,Other Engineering,Less than 1 hour,More than 8 hours,66-75%,Daily,Weekly revision,1-2 hours,Rarely,1,Never,3,Below 40%,Reduced social media usage
+13-09-2026 19:29,Undergraduate,Third Year,Commerce / Management,1-2 hours,More than 8 hours,Above 90%,Once a week,Mostly just before exams,4-6 hours,Very often,2,Sometimes,2,50-59%,Regular revision
+13-09-2026 18:36,Postgraduate,First Year,Other,1-2 hours,7-8 hours,Below 50%,Daily,No fixed routine,2-4 hours,Rarely,3,Never,1,60-69%,Regular revision
+13-09-2026 18:33,Postgraduate,Third Year,Other,2-3 hours,More than 8 hours,76-90%,Daily,Mostly just before exams,Less than 1 hour,Never,5,Never,2,60-69%,Better learning resources
+13-09-2026 18:11,Other,Second Year,Science,More than 5 hours,7-8 hours,Below 50%,Several times a week,No fixed routine,Less than 1 hour,Rarely,5,Sometimes,3,70-79%,Better sleep routine
+13-09-2026 17:57,Undergraduate,Fourth Year,Science,1-2 hours,7-8 hours,76-90%,Once a week,Mostly just before exams,Less than 1 hour,Sometimes,2,Never,4,40-49%,More study time
+13-09-2026 16:17,Undergraduate,Other,Arts / Humanities,2-3 hours,Less than 5 hours,Above 90%,Daily,Weekend study sessions,4-6 hours,Very often,4,Always,5,80-89%,More study time
+13-09-2026 13:34,Other,Other,Other,More than 5 hours,More than 8 hours,Below 50%,Daily,Mostly just before exams,2-4 hours,Often,5,Rarely,4,80-89%,Reduced social media usage
+13-09-2026 13:18,Other,Second Year,Other Engineering,1-2 hours,5-6 hours,66-75%,Only before exams,Mostly just before exams,1-2 hours,Very often,4,Sometimes,4,Below 40%,Regular revision
+13-09-2026 12:26,Diploma,Second Year,Other Engineering,1-2 hours,5-6 hours,Below 50%,Rarely,Mostly just before exams,More than 6 hours,Sometimes,4,Sometimes,2,Below 40%,Improved concentration
+13-09-2026 12:21,Postgraduate,First Year,Science,3-5 hours,Less than 5 hours,Below 50%,Several times a week,No fixed routine,2-4 hours,Often,4,Sometimes,4,50-59%,Improved concentration
+13-09-2026 09:31,Diploma,Fourth Year,Other,2-3 hours,More than 8 hours,Below 50%,Several times a week,Weekly revision,4-6 hours,Very often,1,Always,3,40-49%,Regular revision
+13-09-2026 06:57,Postgraduate,Fourth Year,Other Engineering,More than 5 hours,5-6 hours,66-75%,Only before exams,No fixed routine,1-2 hours,Often,3,Sometimes,5,40-49%,More study time
+13-09-2026 06:38,Undergraduate,Fourth Year,Arts / Humanities,2-3 hours,7-8 hours,Above 90%,Once a week,No fixed routine,4-6 hours,Often,2,Sometimes,1,50-59%,Better time management
+13-09-2026 04:36,Postgraduate,First Year,Science,More than 5 hours,Less than 5 hours,Above 90%,Daily,Mostly just before exams,1-2 hours,Never,4,Always,1,70-79%,Better learning resources
+13-09-2026 03:08,Postgraduate,Second Year,Commerce / Management,2-3 hours,6-7 hours,Above 90%,Several times a week,Weekly revision,Less than 1 hour,Often,4,Usually,2,80-89%,Better sleep routine
+12-09-2026 23:44,Postgraduate,First Year,Other,More than 5 hours,7-8 hours,Above 90%,Rarely,Weekend study sessions,4-6 hours,Sometimes,3,Rarely,4,50-59%,Better learning resources
+12-09-2026 17:27,Undergraduate,Fourth Year,Science,1-2 hours,7-8 hours,50-65%,Daily,Weekly revision,More than 6 hours,Often,5,Sometimes,1,60-69%,Better sleep routine
+12-09-2026 15:54,Diploma,Second Year,Other,More than 5 hours,6-7 hours,Above 90%,Daily,No fixed routine,More than 6 hours,Never,3,Usually,3,70-79%,Better learning resources
+12-09-2026 13:59,Diploma,First Year,Arts / Humanities,More than 5 hours,Less than 5 hours,Below 50%,Daily,Mostly just before exams,4-6 hours,Never,3,Never,2,70-79%,Reduced social media usage
+12-09-2026 13:04,Diploma,Fourth Year,Commerce / Management,More than 5 hours,More than 8 hours,66-75%,Once a week,Mostly just before exams,4-6 hours,Rarely,1,Always,3,70-79%,Better time management
+12-09-2026 12:23,Postgraduate,Fourth Year,Computer Science / IT,3-5 hours,7-8 hours,Above 90%,Rarely,Weekly revision,Less than 1 hour,Often,4,Always,4,70-79%,Regular revision
+12-09-2026 10:11,Diploma,Other,Commerce / Management,2-3 hours,Less than 5 hours,76-90%,Daily,Weekly revision,4-6 hours,Often,2,Never,2,60-69%,Regular revision
+12-09-2026 08:04,Diploma,Other,Commerce / Management,1-2 hours,Less than 5 hours,66-75%,Several times a week,Mostly just before exams,Less than 1 hour,Often,5,Always,1,70-79%,Better time management
+12-09-2026 06:36,Postgraduate,Second Year,Computer Science / IT,3-5 hours,5-6 hours,76-90%,Several times a week,Mostly just before exams,Less than 1 hour,Never,4,Rarely,1,60-69%,Improved concentration
+12-09-2026 06:17,Postgraduate,First Year,Commerce / Management,3-5 hours,7-8 hours,Below 50%,Only before exams,Weekend study sessions,4-6 hours,Very often,5,Always,2,60-69%,Better learning resources
+12-09-2026 06:16,Undergraduate,Second Year,Arts / Humanities,3-5 hours,More than 8 hours,Below 50%,Several times a week,Regular daily study,2-4 hours,Rarely,2,Always,1,50-59%,Better sleep routine
+12-09-2026 05:42,Postgraduate,Fourth Year,Other,Less than 1 hour,5-6 hours,Above 90%,Once a week,Weekly revision,1-2 hours,Sometimes,3,Never,1,70-79%,Regular revision
+12-09-2026 04:24,Other,Fourth Year,Arts / Humanities,3-5 hours,6-7 hours,Below 50%,Rarely,Weekly revision,1-2 hours,Sometimes,2,Sometimes,3,50-59%,Regular revision
+12-09-2026 04:20,Undergraduate,Fourth Year,Science,More than 5 hours,Less than 5 hours,50-65%,Daily,Regular daily study,4-6 hours,Sometimes,3,Rarely,3,80-89%,Better time management
+12-09-2026 03:30,Diploma,Second Year,Other Engineering,2-3 hours,7-8 hours,50-65%,Several times a week,Regular daily study,4-6 hours,Often,5,Rarely,2,60-69%,Better learning resources
+12-09-2026 01:54,Postgraduate,Fourth Year,Arts / Humanities,Less than 1 hour,7-8 hours,Below 50%,Rarely,No fixed routine,4-6 hours,Rarely,5,Rarely,4,Below 40%,Better learning resources
+12-09-2026 00:10,Undergraduate,Fourth Year,Arts / Humanities,1-2 hours,6-7 hours,Below 50%,Daily,Weekend study sessions,Less than 1 hour,Very often,3,Sometimes,4,40-49%,Better learning resources
+12-09-2026 00:05,Postgraduate,Third Year,Other Engineering,1-2 hours,7-8 hours,76-90%,Only before exams,Mostly just before exams,2-4 hours,Rarely,3,Rarely,1,60-69%,Reduced social media usage
+11-09-2026 23:36,Other,Fourth Year,Science,3-5 hours,Less than 5 hours,76-90%,Daily,Weekly revision,More than 6 hours,Sometimes,3,Always,2,80-89%,Better sleep routine
+11-09-2026 17:57,Other,First Year,Commerce / Management,Less than 1 hour,More than 8 hours,Above 90%,Rarely,Mostly just before exams,Less than 1 hour,Very often,2,Rarely,1,50-59%,Regular revision
+11-09-2026 17:42,Postgraduate,Other,Other Engineering,3-5 hours,Less than 5 hours,Above 90%,Several times a week,Mostly just before exams,Less than 1 hour,Rarely,4,Rarely,2,80-89%,Better learning resources
+11-09-2026 15:56,Other,Fourth Year,Other,3-5 hours,Less than 5 hours,Above 90%,Daily,Mostly just before exams,More than 6 hours,Never,5,Rarely,4,80-89%,Better learning resources
+11-09-2026 15:01,Undergraduate,Third Year,Science,3-5 hours,More than 8 hours,76-90%,Once a week,Weekly revision,1-2 hours,Rarely,2,Never,3,70-79%,More study time
+11-09-2026 13:41,Undergraduate,Second Year,Science,Less than 1 hour,More than 8 hours,76-90%,Only before exams,Mostly just before exams,2-4 hours,Never,4,Never,3,60-69%,Reduced social media usage
+11-09-2026 12:39,Diploma,Second Year,Arts / Humanities,More than 5 hours,5-6 hours,50-65%,Only before exams,Weekly revision,Less than 1 hour,Never,1,Usually,2,40-49%,Regular revision
+11-09-2026 11:59,Diploma,Second Year,Commerce / Management,1-2 hours,More than 8 hours,Above 90%,Daily,Mostly just before exams,More than 6 hours,Rarely,2,Sometimes,4,60-69%,Reduced social media usage
+11-09-2026 11:47,Postgraduate,First Year,Other Engineering,More than 5 hours,5-6 hours,Below 50%,Several times a week,Weekend study sessions,4-6 hours,Never,2,Never,2,50-59%,Better learning resources
+11-09-2026 10:19,Postgraduate,Second Year,Arts / Humanities,More than 5 hours,5-6 hours,50-65%,Daily,No fixed routine,2-4 hours,Never,2,Rarely,1,50-59%,Better sleep routine
+11-09-2026 07:54,Diploma,Third Year,Science,1-2 hours,7-8 hours,Below 50%,Once a week,Weekend study sessions,4-6 hours,Rarely,1,Rarely,4,Below 40%,Better learning resources
+11-09-2026 07:49,Undergraduate,Third Year,Commerce / Management,Less than 1 hour,5-6 hours,50-65%,Rarely,No fixed routine,2-4 hours,Rarely,5,Rarely,3,Below 40%,Better learning resources
+11-09-2026 06:44,Undergraduate,Second Year,Computer Science / IT,2-3 hours,6-7 hours,66-75%,Rarely,Regular daily study,4-6 hours,Very often,4,Never,5,50-59%,Better sleep routine
+11-09-2026 06:19,Diploma,Second Year,Science,More than 5 hours,More than 8 hours,66-75%,Only before exams,Mostly just before exams,1-2 hours,Rarely,1,Never,4,50-59%,Regular revision
+11-09-2026 04:08,Postgraduate,First Year,Other Engineering,2-3 hours,7-8 hours,Below 50%,Rarely,Weekend study sessions,2-4 hours,Never,1,Rarely,4,40-49%,Improved concentration
+11-09-2026 03:09,Postgraduate,First Year,Other,2-3 hours,7-8 hours,Above 90%,Only before exams,No fixed routine,2-4 hours,Often,2,Sometimes,2,60-69%,Better sleep routine
+11-09-2026 02:57,Undergraduate,Other,Other Engineering,1-2 hours,Less than 5 hours,Below 50%,Several times a week,Weekend study sessions,More than 6 hours,Rarely,5,Sometimes,4,50-59%,Better sleep routine
+11-09-2026 01:54,Diploma,Other,Other Engineering,1-2 hours,5-6 hours,66-75%,Daily,Weekly revision,1-2 hours,Very often,2,Always,2,50-59%,Better learning resources
+11-09-2026 00:56,Undergraduate,Other,Arts / Humanities,3-5 hours,Less than 5 hours,Below 50%,Only before exams,Regular daily study,4-6 hours,Often,4,Never,1,40-49%,Reduced social media usage
+10-09-2026 22:37,Postgraduate,First Year,Other,Less than 1 hour,6-7 hours,Below 50%,Daily,Weekly revision,1-2 hours,Rarely,1,Sometimes,3,Below 40%,More study time
+10-09-2026 22:27,Postgraduate,Other,Science,3-5 hours,7-8 hours,Above 90%,Several times a week,Regular daily study,Less than 1 hour,Rarely,3,Usually,5,90% and above,More study time
+10-09-2026 21:32,Postgraduate,Second Year,Other Engineering,Less than 1 hour,Less than 5 hours,76-90%,Once a week,Weekly revision,More than 6 hours,Very often,2,Usually,3,40-49%,Better time management
+10-09-2026 21:25,Diploma,Second Year,Computer Science / IT,More than 5 hours,7-8 hours,66-75%,Rarely,Weekly revision,4-6 hours,Sometimes,4,Always,1,50-59%,Reduced social media usage
+10-09-2026 21:06,Other,Third Year,Commerce / Management,3-5 hours,6-7 hours,Below 50%,Rarely,Mostly just before exams,Less than 1 hour,Sometimes,2,Never,4,Below 40%,Reduced social media usage
+10-09-2026 15:20,Diploma,First Year,Other,2-3 hours,5-6 hours,Below 50%,Rarely,Weekend study sessions,More than 6 hours,Sometimes,2,Usually,5,Below 40%,Reduced social media usage
+10-09-2026 14:08,Other,Fourth Year,Computer Science / IT,3-5 hours,7-8 hours,Below 50%,Daily,Weekend study sessions,4-6 hours,Sometimes,3,Never,2,60-69%,Improved concentration
+10-09-2026 13:43,Postgraduate,Other,Science,3-5 hours,More than 8 hours,Above 90%,Once a week,Weekend study sessions,Less than 1 hour,Very often,2,Sometimes,3,60-69%,Better learning resources
+10-09-2026 12:08,Undergraduate,Other,Other Engineering,3-5 hours,5-6 hours,76-90%,Only before exams,Regular daily study,1-2 hours,Very often,3,Never,2,60-69%,Improved concentration
+10-09-2026 07:41,Undergraduate,Third Year,Commerce / Management,More than 5 hours,Less than 5 hours,76-90%,Only before exams,Weekly revision,4-6 hours,Never,2,Rarely,5,70-79%,Regular revision
+10-09-2026 06:36,Diploma,Fourth Year,Computer Science / IT,Less than 1 hour,6-7 hours,50-65%,Several times a week,No fixed routine,1-2 hours,Rarely,2,Always,1,40-49%,Regular revision
+10-09-2026 04:34,Other,Other,Science,Less than 1 hour,More than 8 hours,Above 90%,Several times a week,Regular daily study,1-2 hours,Rarely,5,Never,3,60-69%,Reduced social media usage
+10-09-2026 04:24,Diploma,Third Year,Other Engineering,2-3 hours,5-6 hours,Below 50%,Rarely,Weekend study sessions,2-4 hours,Rarely,3,Always,2,40-49%,More study time
+10-09-2026 03:38,Undergraduate,Other,Computer Science / IT,More than 5 hours,6-7 hours,76-90%,Once a week,Mostly just before exams,1-2 hours,Rarely,3,Rarely,5,60-69%,Better sleep routine
+10-09-2026 02:18,Undergraduate,First Year,Other Engineering,More than 5 hours,More than 8 hours,Below 50%,Only before exams,Regular daily study,More than 6 hours,Rarely,5,Rarely,5,60-69%,Regular revision
+10-09-2026 02:10,Postgraduate,Other,Commerce / Management,3-5 hours,Less than 5 hours,66-75%,Only before exams,Mostly just before exams,4-6 hours,Rarely,3,Usually,2,50-59%,Better time management
+10-09-2026 00:57,Undergraduate,Other,Other Engineering,More than 5 hours,Less than 5 hours,76-90%,Several times a week,Regular daily study,1-2 hours,Never,5,Never,1,80-89%,Regular revision
+10-09-2026 00:45,Other,Other,Computer Science / IT,3-5 hours,6-7 hours,Above 90%,Only before exams,No fixed routine,Less than 1 hour,Sometimes,3,Always,2,60-69%,Reduced social media usage
+09-09-2026 21:12,Undergraduate,Second Year,Computer Science / IT,More than 5 hours,More than 8 hours,Above 90%,Only before exams,Mostly just before exams,Less than 1 hour,Never,4,Never,5,60-69%,Better sleep routine
+09-09-2026 19:30,Undergraduate,Third Year,Other,3-5 hours,More than 8 hours,76-90%,Daily,No fixed routine,2-4 hours,Often,5,Never,4,80-89%,Better sleep routine
+09-09-2026 18:25,Diploma,Third Year,Arts / Humanities,Less than 1 hour,6-7 hours,76-90%,Only before exams,Mostly just before exams,1-2 hours,Very often,4,Rarely,4,40-49%,Better time management
+09-09-2026 18:09,Other,Fourth Year,Other,1-2 hours,Less than 5 hours,Above 90%,Once a week,No fixed routine,2-4 hours,Never,5,Rarely,4,70-79%,Reduced social media usage
+09-09-2026 13:35,Other,Other,Computer Science / IT,More than 5 hours,6-7 hours,76-90%,Once a week,Mostly just before exams,Less than 1 hour,Often,4,Always,4,70-79%,Improved concentration
+09-09-2026 13:16,Postgraduate,Third Year,Arts / Humanities,3-5 hours,7-8 hours,Below 50%,Only before exams,Mostly just before exams,Less than 1 hour,Very often,3,Rarely,2,50-59%,Better sleep routine
+09-09-2026 12:11,Other,Other,Other,3-5 hours,5-6 hours,Below 50%,Rarely,Weekend study sessions,Less than 1 hour,Never,3,Usually,2,50-59%,Better time management
+09-09-2026 11:18,Diploma,Other,Science,1-2 hours,6-7 hours,76-90%,Daily,Mostly just before exams,1-2 hours,Never,1,Rarely,4,40-49%,Better time management
+09-09-2026 10:21,Postgraduate,First Year,Computer Science / IT,Less than 1 hour,Less than 5 hours,66-75%,Only before exams,Mostly just before exams,2-4 hours,Often,3,Rarely,5,Below 40%,Regular revision
+09-09-2026 08:04,Other,Fourth Year,Computer Science / IT,3-5 hours,7-8 hours,66-75%,Several times a week,Weekly revision,Less than 1 hour,Never,4,Always,2,80-89%,Regular revision
+09-09-2026 07:57,Postgraduate,Other,Computer Science / IT,Less than 1 hour,5-6 hours,76-90%,Several times a week,Weekly revision,Less than 1 hour,Very often,2,Always,2,50-59%,Better learning resources
+09-09-2026 04:28,Undergraduate,First Year,Commerce / Management,1-2 hours,More than 8 hours,76-90%,Daily,Mostly just before exams,1-2 hours,Often,2,Usually,4,70-79%,Regular revision
+09-09-2026 01:33,Other,Fourth Year,Other Engineering,Less than 1 hour,More than 8 hours,Below 50%,Rarely,Weekly revision,1-2 hours,Very often,3,Never,5,Below 40%,Better learning resources
+08-09-2026 21:51,Postgraduate,Fourth Year,Arts / Humanities,1-2 hours,6-7 hours,50-65%,Rarely,Mostly just before exams,2-4 hours,Very often,3,Usually,1,Below 40%,Better sleep routine
+08-09-2026 20:09,Other,Fourth Year,Other,3-5 hours,7-8 hours,66-75%,Once a week,Weekly revision,1-2 hours,Never,4,Always,3,60-69%,Regular revision
+08-09-2026 17:33,Postgraduate,First Year,Other,Less than 1 hour,6-7 hours,66-75%,Several times a week,Weekly revision,1-2 hours,Often,3,Sometimes,4,50-59%,Better time management
+08-09-2026 13:53,Diploma,Third Year,Other Engineering,More than 5 hours,7-8 hours,Below 50%,Rarely,Regular daily study,2-4 hours,Often,1,Usually,3,40-49%,Better learning resources
+08-09-2026 13:46,Undergraduate,Fourth Year,Commerce / Management,1-2 hours,More than 8 hours,66-75%,Only before exams,Mostly just before exams,1-2 hours,Often,3,Usually,5,60-69%,Regular revision
+08-09-2026 10:15,Postgraduate,Fourth Year,Arts / Humanities,3-5 hours,5-6 hours,Above 90%,Rarely,Weekend study sessions,2-4 hours,Never,2,Rarely,5,50-59%,Better time management
+08-09-2026 09:55,Other,Other,Commerce / Management,Less than 1 hour,Less than 5 hours,66-75%,Only before exams,Weekend study sessions,4-6 hours,Never,2,Sometimes,2,Below 40%,Regular revision
+08-09-2026 08:48,Diploma,Second Year,Science,Less than 1 hour,7-8 hours,Above 90%,Rarely,Mostly just before exams,More than 6 hours,Sometimes,1,Rarely,2,40-49%,Improved concentration
+08-09-2026 08:39,Diploma,Other,Computer Science / IT,3-5 hours,More than 8 hours,Above 90%,Only before exams,No fixed routine,Less than 1 hour,Rarely,4,Rarely,1,60-69%,Better sleep routine
+08-09-2026 07:58,Other,Second Year,Science,3-5 hours,7-8 hours,66-75%,Only before exams,Regular daily study,Less than 1 hour,Sometimes,1,Usually,4,50-59%,More study time
+08-09-2026 07:57,Postgraduate,Third Year,Commerce / Management,More than 5 hours,6-7 hours,66-75%,Rarely,Regular daily study,4-6 hours,Never,5,Sometimes,4,50-59%,More study time
+08-09-2026 06:27,Postgraduate,Fourth Year,Commerce / Management,Less than 1 hour,6-7 hours,76-90%,Daily,Weekly revision,4-6 hours,Never,3,Rarely,5,50-59%,Better sleep routine
+08-09-2026 05:09,Undergraduate,Second Year,Commerce / Management,More than 5 hours,Less than 5 hours,76-90%,Daily,Regular daily study,4-6 hours,Sometimes,5,Sometimes,2,90% and above,Reduced social media usage
+08-09-2026 04:50,Other,Fourth Year,Computer Science / IT,More than 5 hours,5-6 hours,Above 90%,Rarely,Regular daily study,More than 6 hours,Often,1,Sometimes,2,60-69%,Regular revision
+08-09-2026 03:41,Diploma,Third Year,Arts / Humanities,More than 5 hours,More than 8 hours,Below 50%,Daily,Mostly just before exams,Less than 1 hour,Never,5,Always,2,80-89%,Regular revision
+08-09-2026 03:03,Other,Other,Commerce / Management,More than 5 hours,6-7 hours,76-90%,Once a week,Weekend study sessions,1-2 hours,Often,1,Sometimes,5,50-59%,Better learning resources
+07-09-2026 22:24,Diploma,Second Year,Commerce / Management,1-2 hours,5-6 hours,76-90%,Several times a week,Weekly revision,More than 6 hours,Sometimes,5,Usually,5,50-59%,Regular revision
+07-09-2026 21:08,Other,Third Year,Commerce / Management,Less than 1 hour,More than 8 hours,Above 90%,Several times a week,Weekly revision,4-6 hours,Rarely,4,Never,1,60-69%,Improved concentration
+07-09-2026 18:00,Postgraduate,Third Year,Other Engineering,2-3 hours,6-7 hours,Below 50%,Several times a week,Weekend study sessions,More than 6 hours,Rarely,5,Usually,2,50-59%,Reduced social media usage
+07-09-2026 16:46,Postgraduate,Third Year,Commerce / Management,3-5 hours,More than 8 hours,Below 50%,Rarely,No fixed routine,4-6 hours,Often,2,Rarely,1,40-49%,Regular revision
+07-09-2026 16:14,Diploma,Third Year,Science,More than 5 hours,6-7 hours,50-65%,Only before exams,Mostly just before exams,4-6 hours,Rarely,5,Always,5,50-59%,More study time
+07-09-2026 15:35,Diploma,Other,Other Engineering,2-3 hours,Less than 5 hours,50-65%,Several times a week,No fixed routine,1-2 hours,Never,4,Never,3,60-69%,Better sleep routine
+07-09-2026 14:54,Postgraduate,First Year,Other,2-3 hours,Less than 5 hours,Below 50%,Rarely,Weekend study sessions,Less than 1 hour,Very often,4,Always,2,50-59%,Better learning resources
+07-09-2026 12:06,Other,Fourth Year,Other,1-2 hours,6-7 hours,Below 50%,Once a week,Weekend study sessions,1-2 hours,Never,2,Never,3,50-59%,More study time
+07-09-2026 10:06,Undergraduate,Third Year,Computer Science / IT,3-5 hours,6-7 hours,66-75%,Once a week,Regular daily study,4-6 hours,Rarely,2,Never,4,60-69%,Improved concentration
+07-09-2026 09:48,Undergraduate,Third Year,Commerce / Management,Less than 1 hour,More than 8 hours,Above 90%,Several times a week,No fixed routine,More than 6 hours,Sometimes,4,Always,2,50-59%,Improved concentration
+07-09-2026 09:12,Other,Second Year,Other Engineering,Less than 1 hour,Less than 5 hours,Below 50%,Rarely,No fixed routine,Less than 1 hour,Very often,1,Sometimes,1,Below 40%,Improved concentration
+07-09-2026 08:09,Diploma,Third Year,Commerce / Management,3-5 hours,7-8 hours,50-65%,Daily,Mostly just before exams,2-4 hours,Sometimes,4,Always,5,70-79%,Regular revision
+07-09-2026 07:32,Postgraduate,Second Year,Arts / Humanities,2-3 hours,Less than 5 hours,Below 50%,Rarely,Weekend study sessions,2-4 hours,Rarely,4,Never,4,Below 40%,Improved concentration
+07-09-2026 06:26,Diploma,Second Year,Commerce / Management,Less than 1 hour,6-7 hours,Above 90%,Only before exams,No fixed routine,2-4 hours,Very often,2,Rarely,4,Below 40%,Regular revision
+07-09-2026 04:36,Postgraduate,First Year,Commerce / Management,3-5 hours,More than 8 hours,Below 50%,Only before exams,Regular daily study,2-4 hours,Never,4,Rarely,2,60-69%,Regular revision
+07-09-2026 02:27,Undergraduate,Fourth Year,Other Engineering,1-2 hours,Less than 5 hours,76-90%,Rarely,Weekend study sessions,More than 6 hours,Very often,1,Rarely,3,Below 40%,Better sleep routine
+07-09-2026 01:50,Postgraduate,Second Year,Other,3-5 hours,5-6 hours,50-65%,Several times a week,Mostly just before exams,Less than 1 hour,Rarely,2,Always,5,50-59%,Better sleep routine
+06-09-2026 21:25,Undergraduate,First Year,Arts / Humanities,3-5 hours,6-7 hours,66-75%,Daily,Mostly just before exams,More than 6 hours,Sometimes,2,Always,1,50-59%,Reduced social media usage
+06-09-2026 19:03,Other,Third Year,Science,Less than 1 hour,5-6 hours,50-65%,Rarely,No fixed routine,2-4 hours,Often,1,Usually,4,Below 40%,More study time
+06-09-2026 17:30,Other,Third Year,Computer Science / IT,More than 5 hours,6-7 hours,50-65%,Rarely,Mostly just before exams,Less than 1 hour,Sometimes,5,Never,2,50-59%,Improved concentration
+06-09-2026 13:07,Other,Fourth Year,Commerce / Management,1-2 hours,More than 8 hours,66-75%,Only before exams,No fixed routine,4-6 hours,Rarely,2,Usually,5,50-59%,More study time
+06-09-2026 10:00,Undergraduate,Second Year,Other Engineering,3-5 hours,More than 8 hours,50-65%,Once a week,Weekend study sessions,Less than 1 hour,Sometimes,1,Usually,2,50-59%,Better learning resources
+06-09-2026 08:57,Undergraduate,Third Year,Computer Science / IT,Less than 1 hour,More than 8 hours,Below 50%,Once a week,Mostly just before exams,More than 6 hours,Often,5,Never,3,Below 40%,Better sleep routine
+06-09-2026 08:25,Postgraduate,Fourth Year,Arts / Humanities,1-2 hours,5-6 hours,50-65%,Rarely,No fixed routine,1-2 hours,Rarely,1,Never,5,Below 40%,Better time management
+06-09-2026 08:19,Diploma,Fourth Year,Commerce / Management,Less than 1 hour,5-6 hours,76-90%,Rarely,Weekly revision,Less than 1 hour,Sometimes,3,Sometimes,2,Below 40%,Better time management
+06-09-2026 08:19,Other,Other,Commerce / Management,More than 5 hours,More than 8 hours,66-75%,Daily,Mostly just before exams,Less than 1 hour,Never,3,Always,4,60-69%,Regular revision
+06-09-2026 05:57,Diploma,First Year,Science,1-2 hours,5-6 hours,76-90%,Several times a week,Mostly just before exams,More than 6 hours,Very often,3,Never,4,50-59%,Regular revision
+06-09-2026 04:50,Diploma,Other,Other Engineering,3-5 hours,7-8 hours,76-90%,Once a week,Weekend study sessions,More than 6 hours,Rarely,1,Always,3,80-89%,More study time
+06-09-2026 04:22,Undergraduate,Fourth Year,Other,1-2 hours,Less than 5 hours,50-65%,Daily,No fixed routine,Less than 1 hour,Sometimes,2,Sometimes,5,60-69%,Regular revision
+06-09-2026 02:39,Other,Other,Other,3-5 hours,5-6 hours,Above 90%,Only before exams,Mostly just before exams,2-4 hours,Sometimes,5,Sometimes,5,70-79%,Reduced social media usage
+06-09-2026 02:29,Other,Other,Other,1-2 hours,6-7 hours,66-75%,Once a week,Regular daily study,More than 6 hours,Very often,4,Always,2,60-69%,Regular revision
+06-09-2026 01:33,Diploma,First Year,Computer Science / IT,Less than 1 hour,6-7 hours,50-65%,Several times a week,Mostly just before exams,More than 6 hours,Rarely,2,Rarely,5,Below 40%,Better time management
+06-09-2026 00:35,Other,First Year,Commerce / Management,Less than 1 hour,7-8 hours,66-75%,Rarely,Weekend study sessions,2-4 hours,Rarely,4,Always,5,Below 40%,Improved concentration
+06-09-2026 00:15,Undergraduate,Third Year,Computer Science / IT,1-2 hours,6-7 hours,Above 90%,Several times a week,Regular daily study,Less than 1 hour,Sometimes,3,Usually,5,70-79%,Regular revision
+05-09-2026 23:58,Diploma,Second Year,Science,1-2 hours,5-6 hours,Above 90%,Once a week,Mostly just before exams,2-4 hours,Never,5,Never,1,80-89%,Better sleep routine
+05-09-2026 22:17,Diploma,Second Year,Computer Science / IT,Less than 1 hour,Less than 5 hours,66-75%,Several times a week,Weekend study sessions,1-2 hours,Never,1,Sometimes,4,Below 40%,More study time
+05-09-2026 19:21,Diploma,Other,Commerce / Management,3-5 hours,More than 8 hours,66-75%,Once a week,Regular daily study,1-2 hours,Very often,3,Never,4,70-79%,Regular revision
+05-09-2026 17:37,Undergraduate,Fourth Year,Other Engineering,3-5 hours,Less than 5 hours,66-75%,Only before exams,No fixed routine,Less than 1 hour,Often,4,Never,2,50-59%,Better sleep routine
+05-09-2026 17:06,Other,Fourth Year,Commerce / Management,More than 5 hours,More than 8 hours,66-75%,Once a week,No fixed routine,1-2 hours,Rarely,3,Never,4,70-79%,Improved concentration
+05-09-2026 16:58,Postgraduate,Third Year,Other Engineering,2-3 hours,Less than 5 hours,76-90%,Rarely,Mostly just before exams,1-2 hours,Often,2,Always,4,50-59%,Improved concentration
+05-09-2026 15:13,Diploma,First Year,Science,Less than 1 hour,7-8 hours,76-90%,Several times a week,Weekly revision,1-2 hours,Very often,2,Rarely,4,40-49%,Reduced social media usage
+05-09-2026 12:42,Other,First Year,Commerce / Management,1-2 hours,Less than 5 hours,66-75%,Once a week,Mostly just before exams,Less than 1 hour,Very often,4,Never,4,60-69%,Better learning resources
+05-09-2026 11:55,Diploma,Other,Arts / Humanities,1-2 hours,5-6 hours,76-90%,Rarely,Weekly revision,2-4 hours,Very often,5,Never,5,50-59%,Better time management
+05-09-2026 11:05,Other,First Year,Commerce / Management,1-2 hours,6-7 hours,66-75%,Only before exams,No fixed routine,1-2 hours,Never,2,Usually,3,50-59%,Better learning resources
+05-09-2026 10:38,Diploma,First Year,Other,Less than 1 hour,Less than 5 hours,76-90%,Only before exams,Mostly just before exams,More than 6 hours,Sometimes,5,Rarely,5,60-69%,Better learning resources
+05-09-2026 07:12,Diploma,Third Year,Arts / Humanities,More than 5 hours,More than 8 hours,Below 50%,Once a week,Weekly revision,4-6 hours,Often,3,Sometimes,3,50-59%,Better learning resources
+05-09-2026 06:27,Postgraduate,Second Year,Computer Science / IT,Less than 1 hour,6-7 hours,Below 50%,Rarely,Regular daily study,Less than 1 hour,Often,4,Sometimes,1,Below 40%,Reduced social media usage
+05-09-2026 05:59,Undergraduate,First Year,Commerce / Management,3-5 hours,7-8 hours,66-75%,Daily,Weekly revision,2-4 hours,Rarely,1,Always,1,60-69%,Improved concentration
+05-09-2026 05:57,Undergraduate,Second Year,Other Engineering,2-3 hours,6-7 hours,Above 90%,Once a week,No fixed routine,2-4 hours,Often,5,Always,1,80-89%,Better time management
+05-09-2026 03:27,Diploma,Third Year,Other,2-3 hours,5-6 hours,Above 90%,Only before exams,Weekly revision,1-2 hours,Very often,4,Never,5,70-79%,More study time
+05-09-2026 03:11,Diploma,First Year,Commerce / Management,Less than 1 hour,5-6 hours,Below 50%,Once a week,No fixed routine,4-6 hours,Very often,4,Usually,4,Below 40%,Better learning resources
+05-09-2026 02:57,Postgraduate,Third Year,Other,1-2 hours,6-7 hours,66-75%,Several times a week,No fixed routine,More than 6 hours,Rarely,5,Sometimes,5,50-59%,More study time
+05-09-2026 02:08,Diploma,Second Year,Computer Science / IT,Less than 1 hour,6-7 hours,66-75%,Daily,No fixed routine,Less than 1 hour,Often,5,Rarely,3,50-59%,Better time management
+04-09-2026 22:35,Undergraduate,Second Year,Commerce / Management,1-2 hours,More than 8 hours,66-75%,Only before exams,Weekly revision,2-4 hours,Never,3,Rarely,5,Below 40%,Reduced social media usage
+04-09-2026 21:13,Postgraduate,Other,Commerce / Management,1-2 hours,7-8 hours,66-75%,Several times a week,No fixed routine,Less than 1 hour,Often,3,Always,4,60-69%,Regular revision
+04-09-2026 21:07,Diploma,First Year,Commerce / Management,3-5 hours,More than 8 hours,50-65%,Several times a week,Weekend study sessions,4-6 hours,Sometimes,1,Never,1,50-59%,Better time management
+04-09-2026 20:58,Undergraduate,Fourth Year,Science,More than 5 hours,More than 8 hours,76-90%,Rarely,Weekend study sessions,More than 6 hours,Never,1,Sometimes,2,60-69%,Better learning resources
+04-09-2026 20:21,Other,First Year,Other,1-2 hours,Less than 5 hours,76-90%,Daily,Mostly just before exams,More than 6 hours,Never,2,Sometimes,1,50-59%,Improved concentration
+04-09-2026 20:09,Other,Fourth Year,Other Engineering,More than 5 hours,5-6 hours,50-65%,Daily,Weekend study sessions,1-2 hours,Never,3,Never,3,60-69%,Reduced social media usage
+04-09-2026 19:46,Undergraduate,Second Year,Other Engineering,3-5 hours,5-6 hours,50-65%,Several times a week,Weekend study sessions,2-4 hours,Often,2,Always,3,60-69%,Better learning resources
+04-09-2026 19:41,Postgraduate,Second Year,Science,1-2 hours,7-8 hours,66-75%,Rarely,Weekend study sessions,4-6 hours,Very often,5,Sometimes,2,50-59%,Better learning resources
+04-09-2026 18:41,Other,Third Year,Other Engineering,1-2 hours,5-6 hours,Above 90%,Once a week,Regular daily study,4-6 hours,Rarely,1,Never,5,60-69%,Better sleep routine
+04-09-2026 18:07,Postgraduate,Other,Arts / Humanities,1-2 hours,Less than 5 hours,66-75%,Several times a week,No fixed routine,1-2 hours,Rarely,3,Sometimes,5,50-59%,Better learning resources
+04-09-2026 17:05,Diploma,Third Year,Arts / Humanities,2-3 hours,More than 8 hours,Below 50%,Daily,Regular daily study,Less than 1 hour,Never,2,Usually,1,60-69%,Reduced social media usage
+04-09-2026 16:36,Other,Fourth Year,Commerce / Management,3-5 hours,6-7 hours,Above 90%,Once a week,No fixed routine,More than 6 hours,Very often,5,Usually,3,60-69%,Better learning resources
+04-09-2026 16:23,Diploma,Second Year,Other Engineering,3-5 hours,5-6 hours,50-65%,Once a week,Regular daily study,1-2 hours,Never,1,Rarely,1,50-59%,Better sleep routine
+04-09-2026 15:48,Diploma,Second Year,Science,2-3 hours,6-7 hours,Below 50%,Only before exams,Weekly revision,2-4 hours,Often,3,Never,4,Below 40%,Better sleep routine
+04-09-2026 14:16,Postgraduate,Fourth Year,Computer Science / IT,3-5 hours,7-8 hours,Below 50%,Rarely,Mostly just before exams,1-2 hours,Never,5,Usually,2,40-49%,Regular revision
+04-09-2026 13:57,Undergraduate,Other,Science,More than 5 hours,6-7 hours,50-65%,Several times a week,No fixed routine,2-4 hours,Often,5,Sometimes,3,80-89%,Better sleep routine
+04-09-2026 10:40,Postgraduate,Third Year,Commerce / Management,3-5 hours,Less than 5 hours,Below 50%,Once a week,No fixed routine,2-4 hours,Sometimes,5,Sometimes,4,50-59%,Better time management
+04-09-2026 10:34,Postgraduate,First Year,Commerce / Management,1-2 hours,5-6 hours,66-75%,Rarely,Weekly revision,2-4 hours,Very often,4,Always,3,40-49%,Better learning resources
+04-09-2026 07:11,Undergraduate,First Year,Arts / Humanities,1-2 hours,Less than 5 hours,76-90%,Rarely,No fixed routine,2-4 hours,Sometimes,3,Sometimes,2,50-59%,Better learning resources
+04-09-2026 07:01,Postgraduate,Second Year,Other Engineering,1-2 hours,7-8 hours,66-75%,Several times a week,Mostly just before exams,1-2 hours,Sometimes,5,Never,4,60-69%,Better time management
+04-09-2026 05:58,Undergraduate,Fourth Year,Science,3-5 hours,7-8 hours,Below 50%,Rarely,Regular daily study,1-2 hours,Sometimes,5,Usually,1,Below 40%,Better learning resources
+04-09-2026 03:19,Diploma,Fourth Year,Other Engineering,3-5 hours,5-6 hours,Above 90%,Daily,Weekly revision,2-4 hours,Never,3,Sometimes,1,70-79%,Better time management
+03-09-2026 21:47,Diploma,First Year,Commerce / Management,Less than 1 hour,Less than 5 hours,66-75%,Several times a week,Mostly just before exams,Less than 1 hour,Often,3,Usually,4,40-49%,Regular revision
+03-09-2026 19:56,Postgraduate,Third Year,Other Engineering,1-2 hours,6-7 hours,Below 50%,Several times a week,Mostly just before exams,1-2 hours,Never,2,Never,5,40-49%,Better learning resources
+03-09-2026 17:58,Other,Other,Computer Science / IT,Less than 1 hour,5-6 hours,Above 90%,Daily,Regular daily study,Less than 1 hour,Often,3,Sometimes,1,60-69%,Improved concentration
+03-09-2026 16:53,Other,Third Year,Science,Less than 1 hour,6-7 hours,50-65%,Daily,No fixed routine,4-6 hours,Never,4,Usually,2,40-49%,Reduced social media usage
+03-09-2026 15:31,Other,Second Year,Other,Less than 1 hour,5-6 hours,Above 90%,Once a week,Weekly revision,More than 6 hours,Rarely,3,Always,4,50-59%,Regular revision
+03-09-2026 11:48,Diploma,Second Year,Science,1-2 hours,Less than 5 hours,76-90%,Once a week,Mostly just before exams,Less than 1 hour,Never,3,Never,2,60-69%,Better learning resources
+03-09-2026 09:38,Diploma,First Year,Other,More than 5 hours,6-7 hours,50-65%,Only before exams,Weekend study sessions,4-6 hours,Very often,1,Always,4,50-59%,Better learning resources
+03-09-2026 07:12,Postgraduate,First Year,Computer Science / IT,More than 5 hours,5-6 hours,50-65%,Daily,Mostly just before exams,More than 6 hours,Rarely,2,Never,1,60-69%,Improved concentration
+03-09-2026 05:50,Diploma,Fourth Year,Computer Science / IT,3-5 hours,More than 8 hours,50-65%,Rarely,Mostly just before exams,4-6 hours,Sometimes,5,Never,2,40-49%,Better sleep routine
+03-09-2026 05:21,Diploma,First Year,Other,1-2 hours,7-8 hours,76-90%,Daily,No fixed routine,2-4 hours,Rarely,3,Never,3,50-59%,Reduced social media usage
+03-09-2026 05:18,Other,Third Year,Other Engineering,1-2 hours,More than 8 hours,50-65%,Daily,Mostly just before exams,Less than 1 hour,Sometimes,2,Sometimes,4,60-69%,Improved concentration
+03-09-2026 03:36,Other,Fourth Year,Science,2-3 hours,More than 8 hours,Above 90%,Several times a week,Regular daily study,Less than 1 hour,Very often,5,Never,2,70-79%,Better sleep routine
+03-09-2026 01:39,Postgraduate,Other,Computer Science / IT,Less than 1 hour,More than 8 hours,Above 90%,Once a week,Weekly revision,Less than 1 hour,Rarely,1,Usually,5,60-69%,More study time
+03-09-2026 00:43,Diploma,Third Year,Science,Less than 1 hour,6-7 hours,66-75%,Rarely,Mostly just before exams,More than 6 hours,Often,1,Sometimes,4,Below 40%,Regular revision
+03-09-2026 00:12,Undergraduate,Other,Other Engineering,Less than 1 hour,6-7 hours,76-90%,Only before exams,Weekend study sessions,4-6 hours,Often,1,Never,5,Below 40%,More study time
+03-09-2026 00:02,Diploma,Third Year,Other,More than 5 hours,6-7 hours,76-90%,Rarely,Weekend study sessions,2-4 hours,Often,5,Sometimes,3,70-79%,Better time management
+02-09-2026 20:02,Undergraduate,First Year,Science,1-2 hours,5-6 hours,76-90%,Several times a week,Regular daily study,2-4 hours,Very often,4,Rarely,5,70-79%,Improved concentration
+02-09-2026 19:59,Postgraduate,Third Year,Commerce / Management,2-3 hours,5-6 hours,Below 50%,Once a week,No fixed routine,Less than 1 hour,Rarely,2,Rarely,4,50-59%,Better sleep routine
+02-09-2026 19:22,Postgraduate,Fourth Year,Computer Science / IT,More than 5 hours,6-7 hours,50-65%,Several times a week,Mostly just before exams,Less than 1 hour,Often,1,Always,3,40-49%,More study time
+02-09-2026 18:14,Postgraduate,Other,Other,More than 5 hours,6-7 hours,Above 90%,Only before exams,Weekend study sessions,2-4 hours,Sometimes,3,Rarely,4,80-89%,More study time
+02-09-2026 18:02,Undergraduate,Other,Other Engineering,3-5 hours,More than 8 hours,Below 50%,Several times a week,Weekend study sessions,4-6 hours,Very often,2,Sometimes,5,60-69%,Regular revision
+02-09-2026 17:18,Diploma,Second Year,Other,Less than 1 hour,6-7 hours,Below 50%,Daily,No fixed routine,More than 6 hours,Sometimes,3,Always,4,40-49%,Improved concentration
+02-09-2026 16:30,Diploma,Second Year,Other Engineering,3-5 hours,5-6 hours,66-75%,Once a week,Weekly revision,4-6 hours,Often,1,Always,2,50-59%,Better time management
+02-09-2026 10:36,Undergraduate,Other,Other Engineering,More than 5 hours,6-7 hours,Below 50%,Once a week,No fixed routine,More than 6 hours,Very often,2,Never,4,50-59%,Regular revision
+02-09-2026 08:37,Other,First Year,Arts / Humanities,3-5 hours,5-6 hours,50-65%,Daily,Mostly just before exams,2-4 hours,Never,5,Never,4,80-89%,Better time management
+02-09-2026 07:42,Undergraduate,Fourth Year,Other Engineering,1-2 hours,5-6 hours,50-65%,Once a week,Mostly just before exams,More than 6 hours,Never,5,Always,1,60-69%,Better sleep routine
+02-09-2026 06:48,Other,Third Year,Commerce / Management,2-3 hours,6-7 hours,76-90%,Daily,Weekend study sessions,More than 6 hours,Often,1,Usually,1,70-79%,Reduced social media usage
+02-09-2026 05:11,Other,Other,Other,More than 5 hours,6-7 hours,66-75%,Only before exams,Weekend study sessions,1-2 hours,Never,3,Usually,3,60-69%,Better time management
+02-09-2026 04:17,Diploma,Second Year,Arts / Humanities,2-3 hours,5-6 hours,66-75%,Once a week,Regular daily study,More than 6 hours,Sometimes,5,Never,2,60-69%,Better learning resources
+02-09-2026 03:03,Other,Third Year,Commerce / Management,Less than 1 hour,More than 8 hours,50-65%,Several times a week,No fixed routine,1-2 hours,Sometimes,2,Always,2,Below 40%,Regular revision
+02-09-2026 00:09,Diploma,First Year,Arts / Humanities,Less than 1 hour,Less than 5 hours,50-65%,Daily,Mostly just before exams,Less than 1 hour,Sometimes,5,Always,4,60-69%,Better learning resources
+01-09-2026 18:52,Postgraduate,Second Year,Commerce / Management,1-2 hours,6-7 hours,50-65%,Only before exams,Weekly revision,Less than 1 hour,Never,4,Always,5,40-49%,Better time management
+01-09-2026 17:55,Diploma,Second Year,Arts / Humanities,2-3 hours,6-7 hours,Below 50%,Only before exams,No fixed routine,Less than 1 hour,Often,3,Sometimes,4,50-59%,More study time
+01-09-2026 12:44,Other,Other,Commerce / Management,Less than 1 hour,7-8 hours,76-90%,Daily,No fixed routine,2-4 hours,Never,4,Never,5,60-69%,Better time management
+01-09-2026 12:16,Diploma,Other,Commerce / Management,2-3 hours,More than 8 hours,50-65%,Daily,Regular daily study,Less than 1 hour,Rarely,1,Sometimes,4,50-59%,Regular revision
+01-09-2026 12:04,Diploma,Second Year,Arts / Humanities,2-3 hours,5-6 hours,76-90%,Rarely,No fixed routine,2-4 hours,Never,5,Usually,1,60-69%,Better time management
+01-09-2026 10:48,Other,Third Year,Other Engineering,2-3 hours,More than 8 hours,Below 50%,Daily,No fixed routine,Less than 1 hour,Sometimes,5,Usually,5,70-79%,More study time
+01-09-2026 07:36,Postgraduate,Second Year,Other Engineering,Less than 1 hour,7-8 hours,Below 50%,Several times a week,Weekend study sessions,More than 6 hours,Rarely,5,Always,1,50-59%,Better learning resources
+01-09-2026 07:29,Other,Fourth Year,Arts / Humanities,3-5 hours,6-7 hours,50-65%,Daily,Regular daily study,2-4 hours,Often,2,Sometimes,5,70-79%,Better sleep routine
+01-09-2026 06:59,Other,Fourth Year,Commerce / Management,Less than 1 hour,5-6 hours,76-90%,Rarely,Regular daily study,Less than 1 hour,Rarely,1,Always,2,Below 40%,Better learning resources
+01-09-2026 05:31,Other,Fourth Year,Arts / Humanities,1-2 hours,More than 8 hours,50-65%,Once a week,Weekly revision,2-4 hours,Never,5,Sometimes,2,50-59%,Better sleep routine
+01-09-2026 04:09,Other,Fourth Year,Other,3-5 hours,6-7 hours,50-65%,Once a week,Weekly revision,1-2 hours,Never,1,Usually,4,60-69%,Improved concentration
+01-09-2026 02:12,Postgraduate,Third Year,Computer Science / IT,More than 5 hours,Less than 5 hours,66-75%,Several times a week,Weekend study sessions,2-4 hours,Never,5,Rarely,1,70-79%,Better learning resources
+31-08-2026 23:37,Other,Third Year,Science,2-3 hours,6-7 hours,50-65%,Once a week,Weekend study sessions,Less than 1 hour,Never,4,Sometimes,2,70-79%,Improved concentration
+31-08-2026 22:54,Postgraduate,Other,Arts / Humanities,Less than 1 hour,Less than 5 hours,Below 50%,Only before exams,No fixed routine,Less than 1 hour,Never,5,Sometimes,5,Below 40%,Better time management
+31-08-2026 22:37,Diploma,Fourth Year,Other,3-5 hours,6-7 hours,76-90%,Rarely,Mostly just before exams,2-4 hours,Never,3,Usually,4,40-49%,More study time
+31-08-2026 19:45,Undergraduate,First Year,Arts / Humanities,3-5 hours,5-6 hours,50-65%,Only before exams,Mostly just before exams,4-6 hours,Often,3,Rarely,1,40-49%,Better learning resources
+31-08-2026 18:15,Diploma,First Year,Arts / Humanities,1-2 hours,Less than 5 hours,Above 90%,Only before exams,Regular daily study,4-6 hours,Very often,2,Sometimes,5,60-69%,Improved concentration
+31-08-2026 17:54,Diploma,Other,Other Engineering,2-3 hours,7-8 hours,66-75%,Once a week,Weekend study sessions,2-4 hours,Often,4,Sometimes,1,40-49%,Improved concentration
+31-08-2026 17:24,Diploma,First Year,Commerce / Management,1-2 hours,More than 8 hours,Below 50%,Daily,Weekend study sessions,1-2 hours,Very often,1,Usually,4,40-49%,Better learning resources
+31-08-2026 16:25,Postgraduate,Third Year,Other,1-2 hours,6-7 hours,Above 90%,Several times a week,Weekend study sessions,1-2 hours,Very often,3,Usually,4,60-69%,Improved concentration
+31-08-2026 16:06,Undergraduate,Second Year,Science,1-2 hours,6-7 hours,76-90%,Only before exams,Regular daily study,More than 6 hours,Very often,3,Usually,4,Below 40%,Improved concentration
+31-08-2026 13:34,Diploma,Second Year,Other,2-3 hours,6-7 hours,Below 50%,Once a week,Weekend study sessions,Less than 1 hour,Very often,1,Never,2,Below 40%,Better sleep routine
+31-08-2026 12:30,Diploma,Second Year,Science,1-2 hours,More than 8 hours,76-90%,Several times a week,Weekly revision,Less than 1 hour,Sometimes,1,Usually,2,40-49%,Reduced social media usage
+31-08-2026 08:59,Undergraduate,Fourth Year,Science,2-3 hours,Less than 5 hours,Below 50%,Rarely,Regular daily study,Less than 1 hour,Rarely,3,Usually,4,Below 40%,Better learning resources
+31-08-2026 06:02,Undergraduate,Second Year,Other Engineering,2-3 hours,More than 8 hours,Below 50%,Once a week,Weekly revision,Less than 1 hour,Often,5,Rarely,3,60-69%,Better sleep routine
+31-08-2026 05:54,Postgraduate,Other,Other,3-5 hours,6-7 hours,66-75%,Several times a week,Regular daily study,2-4 hours,Very often,5,Rarely,2,70-79%,Better learning resources
+31-08-2026 05:08,Postgraduate,Fourth Year,Science,Less than 1 hour,Less than 5 hours,66-75%,Once a week,Weekly revision,2-4 hours,Never,5,Rarely,3,50-59%,More study time
+31-08-2026 04:41,Postgraduate,Fourth Year,Other,More than 5 hours,5-6 hours,76-90%,Daily,Weekly revision,More than 6 hours,Sometimes,5,Always,4,90% and above,Regular revision
+31-08-2026 04:10,Postgraduate,Fourth Year,Other,2-3 hours,Less than 5 hours,66-75%,Rarely,Regular daily study,1-2 hours,Sometimes,4,Always,2,40-49%,Improved concentration
+31-08-2026 03:41,Diploma,Second Year,Science,3-5 hours,7-8 hours,66-75%,Only before exams,Weekend study sessions,2-4 hours,Never,4,Usually,5,70-79%,Better sleep routine
+31-08-2026 01:20,Postgraduate,Second Year,Other Engineering,1-2 hours,7-8 hours,Above 90%,Several times a week,Weekly revision,Less than 1 hour,Rarely,5,Always,1,50-59%,Reduced social media usage
+30-08-2026 17:52,Undergraduate,Other,Commerce / Management,Less than 1 hour,7-8 hours,76-90%,Once a week,Weekend study sessions,Less than 1 hour,Sometimes,1,Never,5,60-69%,Better time management
+30-08-2026 17:37,Other,Third Year,Commerce / Management,Less than 1 hour,7-8 hours,50-65%,Once a week,No fixed routine,More than 6 hours,Often,3,Always,2,Below 40%,Improved concentration
+30-08-2026 16:45,Diploma,Other,Other Engineering,More than 5 hours,Less than 5 hours,50-65%,Several times a week,Regular daily study,Less than 1 hour,Often,5,Never,1,70-79%,Better time management
+30-08-2026 16:02,Undergraduate,First Year,Other,Less than 1 hour,Less than 5 hours,66-75%,Daily,Weekly revision,Less than 1 hour,Sometimes,5,Rarely,2,50-59%,Better time management
+30-08-2026 14:38,Diploma,First Year,Other,More than 5 hours,5-6 hours,50-65%,Rarely,Mostly just before exams,2-4 hours,Rarely,1,Always,5,Below 40%,More study time
+30-08-2026 14:23,Undergraduate,First Year,Arts / Humanities,Less than 1 hour,6-7 hours,66-75%,Several times a week,Mostly just before exams,1-2 hours,Very often,5,Usually,1,40-49%,Better learning resources
+30-08-2026 13:05,Undergraduate,Fourth Year,Commerce / Management,Less than 1 hour,5-6 hours,Below 50%,Several times a week,Weekend study sessions,More than 6 hours,Very often,2,Usually,5,Below 40%,Better sleep routine
+30-08-2026 11:44,Postgraduate,Fourth Year,Commerce / Management,Less than 1 hour,Less than 5 hours,Below 50%,Daily,Regular daily study,Less than 1 hour,Very often,5,Rarely,1,50-59%,Better learning resources
+30-08-2026 08:50,Undergraduate,Fourth Year,Science,More than 5 hours,7-8 hours,Below 50%,Several times a week,Weekly revision,More than 6 hours,Never,5,Always,5,50-59%,Better time management
+30-08-2026 08:28,Other,Third Year,Arts / Humanities,Less than 1 hour,Less than 5 hours,76-90%,Several times a week,Weekend study sessions,Less than 1 hour,Rarely,1,Never,1,40-49%,Better sleep routine
+30-08-2026 05:55,Other,Other,Arts / Humanities,Less than 1 hour,Less than 5 hours,Below 50%,Rarely,Weekend study sessions,1-2 hours,Very often,5,Always,1,Below 40%,Better time management
+30-08-2026 04:21,Diploma,Other,Arts / Humanities,More than 5 hours,5-6 hours,Below 50%,Daily,Regular daily study,4-6 hours,Rarely,3,Rarely,2,60-69%,Regular revision
+30-08-2026 03:57,Other,First Year,Other Engineering,2-3 hours,6-7 hours,50-65%,Daily,Weekend study sessions,More than 6 hours,Very often,3,Never,4,70-79%,Regular revision
+30-08-2026 01:30,Postgraduate,Other,Other Engineering,Less than 1 hour,Less than 5 hours,Below 50%,Only before exams,No fixed routine,4-6 hours,Rarely,3,Sometimes,2,Below 40%,More study time
+29-08-2026 23:34,Diploma,First Year,Science,More than 5 hours,5-6 hours,50-65%,Only before exams,Regular daily study,More than 6 hours,Very often,3,Always,4,50-59%,More study time
+29-08-2026 22:46,Undergraduate,Second Year,Commerce / Management,1-2 hours,Less than 5 hours,Below 50%,Only before exams,No fixed routine,Less than 1 hour,Often,4,Never,3,Below 40%,Reduced social media usage
+29-08-2026 22:43,Other,Fourth Year,Other,2-3 hours,Less than 5 hours,76-90%,Several times a week,Weekend study sessions,2-4 hours,Rarely,5,Rarely,1,60-69%,Better sleep routine
+29-08-2026 21:41,Postgraduate,First Year,Other Engineering,Less than 1 hour,Less than 5 hours,Below 50%,Only before exams,Mostly just before exams,2-4 hours,Never,5,Always,1,Below 40%,Better sleep routine
+29-08-2026 21:26,Other,Third Year,Arts / Humanities,Less than 1 hour,Less than 5 hours,Above 90%,Daily,Regular daily study,2-4 hours,Often,4,Rarely,5,70-79%,Reduced social media usage
+29-08-2026 20:10,Undergraduate,Other,Science,1-2 hours,More than 8 hours,Above 90%,Daily,Mostly just before exams,More than 6 hours,Sometimes,3,Always,4,60-69%,Regular revision
+29-08-2026 19:39,Postgraduate,Fourth Year,Other,2-3 hours,5-6 hours,76-90%,Several times a week,Weekend study sessions,More than 6 hours,Often,3,Usually,3,50-59%,More study time
+29-08-2026 11:33,Postgraduate,First Year,Commerce / Management,Less than 1 hour,6-7 hours,76-90%,Daily,Weekend study sessions,2-4 hours,Sometimes,2,Rarely,1,50-59%,Regular revision
+29-08-2026 09:59,Postgraduate,First Year,Computer Science / IT,Less than 1 hour,6-7 hours,Above 90%,Several times a week,Weekend study sessions,1-2 hours,Never,3,Sometimes,1,60-69%,Better sleep routine
+29-08-2026 04:51,Diploma,Second Year,Computer Science / IT,3-5 hours,More than 8 hours,Below 50%,Several times a week,No fixed routine,4-6 hours,Often,5,Sometimes,3,70-79%,Regular revision
+29-08-2026 04:51,Other,Second Year,Other Engineering,Less than 1 hour,7-8 hours,76-90%,Only before exams,No fixed routine,2-4 hours,Often,3,Never,5,Below 40%,Better time management
+29-08-2026 03:18,Undergraduate,Third Year,Other Engineering,Less than 1 hour,6-7 hours,Below 50%,Rarely,Regular daily study,1-2 hours,Rarely,5,Always,4,Below 40%,More study time
+29-08-2026 01:43,Other,Second Year,Other,2-3 hours,More than 8 hours,66-75%,Rarely,Mostly just before exams,4-6 hours,Often,1,Never,3,40-49%,Regular revision
+29-08-2026 00:57,Diploma,Other,Other,3-5 hours,Less than 5 hours,66-75%,Rarely,Regular daily study,Less than 1 hour,Sometimes,2,Rarely,1,60-69%,Better learning resources
+29-08-2026 00:35,Other,First Year,Science,More than 5 hours,7-8 hours,66-75%,Rarely,Mostly just before exams,2-4 hours,Never,3,Sometimes,4,60-69%,Better sleep routine
+29-08-2026 00:16,Diploma,Second Year,Computer Science / IT,More than 5 hours,6-7 hours,Below 50%,Daily,Mostly just before exams,1-2 hours,Often,1,Usually,3,60-69%,Regular revision
+28-08-2026 23:14,Other,Third Year,Commerce / Management,2-3 hours,7-8 hours,76-90%,Several times a week,Weekly revision,Less than 1 hour,Often,4,Sometimes,4,80-89%,Improved concentration
+28-08-2026 21:36,Postgraduate,Second Year,Other,Less than 1 hour,Less than 5 hours,66-75%,Several times a week,Weekend study sessions,Less than 1 hour,Sometimes,5,Always,4,60-69%,Better time management
+28-08-2026 18:41,Undergraduate,Third Year,Other,3-5 hours,7-8 hours,76-90%,Rarely,Weekend study sessions,More than 6 hours,Very often,5,Sometimes,4,70-79%,Regular revision
+28-08-2026 16:37,Undergraduate,Other,Science,1-2 hours,6-7 hours,66-75%,Once a week,Weekend study sessions,Less than 1 hour,Rarely,2,Always,5,Below 40%,Better sleep routine
+28-08-2026 16:20,Diploma,First Year,Commerce / Management,Less than 1 hour,5-6 hours,Below 50%,Rarely,Weekly revision,More than 6 hours,Very often,4,Always,1,Below 40%,Better sleep routine
+28-08-2026 16:11,Undergraduate,Third Year,Science,3-5 hours,Less than 5 hours,66-75%,Only before exams,Weekend study sessions,More than 6 hours,Often,4,Always,4,60-69%,Better learning resources
+28-08-2026 15:45,Postgraduate,First Year,Arts / Humanities,2-3 hours,6-7 hours,Below 50%,Only before exams,Regular daily study,More than 6 hours,Often,3,Never,2,50-59%,Better time management
+28-08-2026 13:58,Other,Third Year,Science,2-3 hours,6-7 hours,76-90%,Only before exams,Weekend study sessions,More than 6 hours,Very often,1,Sometimes,4,50-59%,Improved concentration
+28-08-2026 13:53,Other,Third Year,Other,More than 5 hours,More than 8 hours,Below 50%,Once a week,No fixed routine,1-2 hours,Never,4,Rarely,3,50-59%,Improved concentration
+28-08-2026 13:40,Postgraduate,Other,Commerce / Management,Less than 1 hour,7-8 hours,66-75%,Daily,Weekly revision,2-4 hours,Sometimes,2,Never,5,60-69%,Regular revision
+28-08-2026 12:22,Undergraduate,First Year,Commerce / Management,1-2 hours,6-7 hours,Below 50%,Several times a week,Weekly revision,1-2 hours,Sometimes,1,Sometimes,2,40-49%,More study time
+28-08-2026 12:14,Undergraduate,First Year,Computer Science / IT,3-5 hours,More than 8 hours,Below 50%,Rarely,Mostly just before exams,2-4 hours,Very often,3,Rarely,4,40-49%,Better sleep routine
+28-08-2026 11:07,Other,Other,Science,2-3 hours,7-8 hours,Below 50%,Only before exams,Weekly revision,Less than 1 hour,Rarely,1,Usually,3,Below 40%,More study time
+28-08-2026 10:15,Postgraduate,Third Year,Computer Science / IT,More than 5 hours,More than 8 hours,66-75%,Once a week,Mostly just before exams,1-2 hours,Often,2,Always,5,70-79%,Better time management
+28-08-2026 09:52,Other,First Year,Other Engineering,1-2 hours,7-8 hours,76-90%,Rarely,No fixed routine,4-6 hours,Sometimes,2,Rarely,4,50-59%,More study time
+28-08-2026 08:13,Other,Second Year,Other,1-2 hours,More than 8 hours,76-90%,Once a week,Regular daily study,4-6 hours,Rarely,1,Sometimes,1,40-49%,More study time
+28-08-2026 07:50,Diploma,Second Year,Other Engineering,3-5 hours,5-6 hours,Below 50%,Daily,Regular daily study,Less than 1 hour,Rarely,2,Sometimes,5,60-69%,Better learning resources
+28-08-2026 06:28,Postgraduate,Third Year,Other Engineering,2-3 hours,More than 8 hours,66-75%,Once a week,Weekend study sessions,1-2 hours,Sometimes,3,Always,5,50-59%,Better learning resources
+28-08-2026 03:32,Other,Other,Other,More than 5 hours,5-6 hours,Above 90%,Rarely,Mostly just before exams,4-6 hours,Sometimes,1,Always,3,50-59%,More study time
+28-08-2026 02:19,Undergraduate,Second Year,Commerce / Management,Less than 1 hour,7-8 hours,Below 50%,Rarely,Mostly just before exams,1-2 hours,Never,5,Never,3,Below 40%,Better learning resources
+28-08-2026 02:05,Postgraduate,First Year,Other,3-5 hours,More than 8 hours,50-65%,Only before exams,Mostly just before exams,4-6 hours,Often,5,Always,1,40-49%,Better sleep routine
+28-08-2026 01:28,Undergraduate,Second Year,Arts / Humanities,More than 5 hours,Less than 5 hours,50-65%,Once a week,Weekly revision,Less than 1 hour,Rarely,4,Always,1,70-79%,More study time
+27-08-2026 21:05,Diploma,Second Year,Arts / Humanities,2-3 hours,6-7 hours,Above 90%,Once a week,Mostly just before exams,1-2 hours,Rarely,3,Always,4,60-69%,Improved concentration
+27-08-2026 19:32,Undergraduate,Second Year,Other,3-5 hours,Less than 5 hours,50-65%,Daily,Weekly revision,Less than 1 hour,Often,4,Usually,2,50-59%,Better sleep routine
+27-08-2026 18:35,Postgraduate,Fourth Year,Computer Science / IT,Less than 1 hour,7-8 hours,Below 50%,Several times a week,Weekly revision,1-2 hours,Sometimes,3,Sometimes,4,Below 40%,Better learning resources
+27-08-2026 18:07,Other,Other,Other Engineering,More than 5 hours,6-7 hours,Below 50%,Once a week,Weekend study sessions,2-4 hours,Very often,5,Sometimes,3,60-69%,Reduced social media usage
+27-08-2026 15:38,Postgraduate,Other,Arts / Humanities,3-5 hours,5-6 hours,50-65%,Only before exams,Regular daily study,4-6 hours,Sometimes,2,Sometimes,4,60-69%,Better sleep routine
+27-08-2026 13:43,Postgraduate,Second Year,Arts / Humanities,Less than 1 hour,6-7 hours,50-65%,Daily,Mostly just before exams,1-2 hours,Never,3,Sometimes,2,40-49%,Better time management
+27-08-2026 13:30,Postgraduate,Fourth Year,Other Engineering,1-2 hours,6-7 hours,Above 90%,Only before exams,Weekend study sessions,4-6 hours,Sometimes,1,Usually,2,40-49%,Regular revision
+27-08-2026 13:28,Undergraduate,Fourth Year,Computer Science / IT,3-5 hours,5-6 hours,Above 90%,Several times a week,Regular daily study,4-6 hours,Sometimes,1,Always,4,60-69%,Reduced social media usage
+27-08-2026 12:48,Postgraduate,First Year,Computer Science / IT,More than 5 hours,5-6 hours,Below 50%,Rarely,Mostly just before exams,2-4 hours,Often,1,Usually,4,40-49%,Improved concentration
+27-08-2026 11:55,Postgraduate,First Year,Science,More than 5 hours,5-6 hours,Below 50%,Several times a week,Mostly just before exams,Less than 1 hour,Often,5,Usually,5,50-59%,Better learning resources
+27-08-2026 09:24,Diploma,First Year,Other,2-3 hours,7-8 hours,Below 50%,Once a week,Weekly revision,2-4 hours,Sometimes,2,Rarely,4,40-49%,Regular revision
+27-08-2026 09:11,Postgraduate,Third Year,Other Engineering,More than 5 hours,Less than 5 hours,76-90%,Once a week,Weekend study sessions,1-2 hours,Often,2,Sometimes,5,70-79%,More study time
+27-08-2026 06:11,Undergraduate,Fourth Year,Commerce / Management,Less than 1 hour,More than 8 hours,Above 90%,Only before exams,Weekend study sessions,1-2 hours,Sometimes,3,Usually,5,60-69%,Better time management
+27-08-2026 05:20,Postgraduate,Fourth Year,Commerce / Management,2-3 hours,5-6 hours,76-90%,Several times a week,Regular daily study,1-2 hours,Very often,3,Rarely,2,80-89%,Reduced social media usage
+27-08-2026 04:46,Diploma,Third Year,Other Engineering,More than 5 hours,More than 8 hours,66-75%,Several times a week,Weekly revision,1-2 hours,Rarely,5,Usually,4,70-79%,Reduced social media usage
+27-08-2026 03:32,Diploma,Third Year,Computer Science / IT,Less than 1 hour,7-8 hours,76-90%,Several times a week,Weekly revision,2-4 hours,Rarely,4,Rarely,2,40-49%,More study time
+27-08-2026 03:17,Postgraduate,Second Year,Arts / Humanities,1-2 hours,6-7 hours,50-65%,Rarely,Mostly just before exams,4-6 hours,Sometimes,4,Never,3,Below 40%,Better sleep routine
+26-08-2026 22:36,Other,Other,Computer Science / IT,More than 5 hours,7-8 hours,50-65%,Rarely,Regular daily study,Less than 1 hour,Rarely,4,Usually,1,40-49%,Improved concentration
+26-08-2026 22:11,Diploma,Third Year,Arts / Humanities,Less than 1 hour,More than 8 hours,Above 90%,Rarely,Weekly revision,2-4 hours,Very often,5,Always,3,40-49%,Improved concentration
+26-08-2026 18:08,Other,Second Year,Commerce / Management,3-5 hours,5-6 hours,Above 90%,Several times a week,No fixed routine,2-4 hours,Never,3,Always,5,70-79%,Better learning resources
+26-08-2026 18:00,Undergraduate,Second Year,Other Engineering,3-5 hours,6-7 hours,Below 50%,Rarely,No fixed routine,Less than 1 hour,Rarely,3,Sometimes,4,40-49%,More study time
+26-08-2026 17:22,Undergraduate,Other,Computer Science / IT,2-3 hours,7-8 hours,76-90%,Once a week,Mostly just before exams,2-4 hours,Very often,4,Always,2,80-89%,Better time management
+26-08-2026 16:40,Diploma,Third Year,Other,Less than 1 hour,7-8 hours,66-75%,Only before exams,Weekend study sessions,More than 6 hours,Very often,2,Usually,4,Below 40%,Improved concentration
+26-08-2026 15:48,Other,Third Year,Other Engineering,1-2 hours,Less than 5 hours,66-75%,Once a week,Weekly revision,Less than 1 hour,Sometimes,2,Never,3,50-59%,Better learning resources
+26-08-2026 15:47,Postgraduate,Other,Computer Science / IT,3-5 hours,6-7 hours,66-75%,Only before exams,Mostly just before exams,Less than 1 hour,Never,4,Sometimes,1,70-79%,Better sleep routine
+26-08-2026 13:44,Postgraduate,Second Year,Science,1-2 hours,5-6 hours,66-75%,Several times a week,Regular daily study,4-6 hours,Sometimes,3,Never,2,40-49%,More study time
+26-08-2026 13:36,Postgraduate,Other,Other,More than 5 hours,7-8 hours,66-75%,Daily,Regular daily study,1-2 hours,Never,5,Always,1,80-89%,Reduced social media usage
+26-08-2026 12:46,Other,Second Year,Other Engineering,1-2 hours,Less than 5 hours,76-90%,Only before exams,Weekend study sessions,2-4 hours,Rarely,5,Rarely,1,50-59%,More study time
+26-08-2026 10:42,Other,First Year,Computer Science / IT,3-5 hours,7-8 hours,50-65%,Daily,No fixed routine,1-2 hours,Never,3,Rarely,2,60-69%,Improved concentration
+26-08-2026 03:37,Undergraduate,First Year,Other,Less than 1 hour,7-8 hours,Above 90%,Rarely,Regular daily study,1-2 hours,Rarely,1,Never,4,Below 40%,Better time management
+25-08-2026 23:39,Other,First Year,Other Engineering,3-5 hours,6-7 hours,Above 90%,Daily,Mostly just before exams,More than 6 hours,Sometimes,1,Never,3,80-89%,Better sleep routine
+25-08-2026 20:24,Diploma,Third Year,Other Engineering,3-5 hours,Less than 5 hours,76-90%,Once a week,No fixed routine,1-2 hours,Sometimes,1,Rarely,4,70-79%,More study time
+25-08-2026 20:22,Undergraduate,Other,Other,More than 5 hours,7-8 hours,66-75%,Once a week,Weekly revision,More than 6 hours,Often,2,Usually,5,70-79%,Reduced social media usage
+25-08-2026 13:13,Postgraduate,Fourth Year,Arts / Humanities,1-2 hours,5-6 hours,76-90%,Only before exams,Mostly just before exams,Less than 1 hour,Sometimes,1,Never,2,60-69%,More study time
+25-08-2026 12:52,Other,Fourth Year,Commerce / Management,3-5 hours,More than 8 hours,Below 50%,Daily,Regular daily study,2-4 hours,Very often,2,Never,1,70-79%,More study time
+25-08-2026 10:27,Other,Other,Other,1-2 hours,Less than 5 hours,Above 90%,Rarely,No fixed routine,Less than 1 hour,Sometimes,5,Sometimes,5,60-69%,More study time
+25-08-2026 07:32,Undergraduate,Third Year,Computer Science / IT,2-3 hours,7-8 hours,50-65%,Several times a week,Mostly just before exams,2-4 hours,Very often,3,Sometimes,3,50-59%,Better learning resources
+25-08-2026 06:17,Diploma,Third Year,Other Engineering,1-2 hours,6-7 hours,Above 90%,Only before exams,Weekly revision,Less than 1 hour,Rarely,3,Usually,2,50-59%,Better time management
+25-08-2026 05:58,Postgraduate,Other,Other Engineering,3-5 hours,7-8 hours,Below 50%,Rarely,Regular daily study,4-6 hours,Often,2,Never,3,Below 40%,Better time management
+25-08-2026 05:03,Postgraduate,Third Year,Computer Science / IT,1-2 hours,7-8 hours,Above 90%,Only before exams,Mostly just before exams,1-2 hours,Never,2,Rarely,1,Below 40%,Better learning resources
+25-08-2026 03:26,Other,Fourth Year,Arts / Humanities,2-3 hours,6-7 hours,66-75%,Several times a week,Regular daily study,Less than 1 hour,Rarely,1,Never,3,60-69%,More study time
+25-08-2026 03:03,Postgraduate,Second Year,Arts / Humanities,More than 5 hours,5-6 hours,Above 90%,Only before exams,Weekly revision,4-6 hours,Never,1,Rarely,3,60-69%,Better sleep routine
+25-08-2026 01:37,Postgraduate,Other,Computer Science / IT,1-2 hours,Less than 5 hours,50-65%,Rarely,Regular daily study,2-4 hours,Often,5,Never,2,40-49%,Reduced social media usage
+25-08-2026 01:14,Undergraduate,Second Year,Science,Less than 1 hour,More than 8 hours,76-90%,Daily,Mostly just before exams,1-2 hours,Rarely,5,Never,5,50-59%,Improved concentration
+25-08-2026 00:36,Other,Third Year,Arts / Humanities,3-5 hours,5-6 hours,66-75%,Several times a week,Weekend study sessions,2-4 hours,Sometimes,5,Always,3,70-79%,Better sleep routine
+25-08-2026 00:20,Other,First Year,Computer Science / IT,3-5 hours,More than 8 hours,Above 90%,Once a week,Mostly just before exams,1-2 hours,Never,1,Rarely,5,60-69%,Improved concentration
+25-08-2026 00:00,Postgraduate,Other,Other Engineering,2-3 hours,7-8 hours,Above 90%,Once a week,Weekend study sessions,4-6 hours,Very often,4,Sometimes,4,70-79%,Better sleep routine
+24-08-2026 23:30,Postgraduate,Other,Science,3-5 hours,More than 8 hours,50-65%,Rarely,Regular daily study,1-2 hours,Often,1,Sometimes,1,Below 40%,Better sleep routine
+24-08-2026 21:27,Other,Second Year,Commerce / Management,3-5 hours,More than 8 hours,Above 90%,Once a week,No fixed routine,2-4 hours,Never,3,Usually,1,60-69%,Reduced social media usage
+24-08-2026 17:25,Other,Second Year,Commerce / Management,Less than 1 hour,More than 8 hours,66-75%,Once a week,No fixed routine,4-6 hours,Never,2,Never,3,50-59%,Reduced social media usage
+24-08-2026 13:40,Diploma,First Year,Arts / Humanities,3-5 hours,5-6 hours,Below 50%,Several times a week,Weekly revision,Less than 1 hour,Very often,4,Sometimes,3,60-69%,Reduced social media usage
+24-08-2026 11:16,Undergraduate,Second Year,Other Engineering,More than 5 hours,More than 8 hours,66-75%,Only before exams,Weekly revision,More than 6 hours,Very often,1,Rarely,3,40-49%,Better learning resources
+24-08-2026 08:28,Other,Second Year,Computer Science / IT,3-5 hours,5-6 hours,Below 50%,Daily,Regular daily study,4-6 hours,Never,1,Never,1,40-49%,Better learning resources
+24-08-2026 07:53,Other,Other,Other,1-2 hours,More than 8 hours,Above 90%,Once a week,Weekend study sessions,4-6 hours,Rarely,3,Usually,1,60-69%,Regular revision
+24-08-2026 07:03,Other,First Year,Other Engineering,More than 5 hours,6-7 hours,76-90%,Once a week,Weekly revision,2-4 hours,Very often,5,Rarely,5,90% and above,Better learning resources
+24-08-2026 06:35,Diploma,First Year,Arts / Humanities,1-2 hours,More than 8 hours,66-75%,Several times a week,Regular daily study,4-6 hours,Never,1,Rarely,5,40-49%,Regular revision
+24-08-2026 04:31,Other,Other,Commerce / Management,3-5 hours,More than 8 hours,66-75%,Several times a week,Weekly revision,2-4 hours,Sometimes,5,Sometimes,5,60-69%,Reduced social media usage
+24-08-2026 03:52,Postgraduate,First Year,Other,More than 5 hours,7-8 hours,Below 50%,Only before exams,Weekly revision,4-6 hours,Often,5,Always,5,60-69%,Reduced social media usage
+24-08-2026 03:38,Other,Other,Commerce / Management,1-2 hours,6-7 hours,66-75%,Once a week,Regular daily study,4-6 hours,Very often,5,Never,5,50-59%,Regular revision
+24-08-2026 03:38,Diploma,First Year,Arts / Humanities,More than 5 hours,6-7 hours,66-75%,Rarely,Weekend study sessions,Less than 1 hour,Sometimes,5,Never,2,70-79%,Better time management
+24-08-2026 03:06,Postgraduate,Fourth Year,Other Engineering,2-3 hours,7-8 hours,66-75%,Once a week,Mostly just before exams,2-4 hours,Rarely,1,Usually,5,50-59%,Better time management
+23-08-2026 22:23,Postgraduate,Fourth Year,Arts / Humanities,More than 5 hours,7-8 hours,Above 90%,Rarely,Weekly revision,Less than 1 hour,Never,2,Rarely,3,70-79%,Regular revision
+23-08-2026 18:02,Undergraduate,First Year,Arts / Humanities,2-3 hours,6-7 hours,Below 50%,Once a week,Weekly revision,Less than 1 hour,Very often,2,Sometimes,5,40-49%,More study time
+23-08-2026 16:42,Undergraduate,First Year,Arts / Humanities,3-5 hours,More than 8 hours,66-75%,Several times a week,Regular daily study,4-6 hours,Often,3,Usually,5,60-69%,Better time management
+23-08-2026 15:46,Undergraduate,Fourth Year,Other,3-5 hours,7-8 hours,66-75%,Once a week,Weekly revision,More than 6 hours,Very often,4,Sometimes,3,50-59%,Better time management
+23-08-2026 15:10,Other,Fourth Year,Computer Science / IT,1-2 hours,7-8 hours,Below 50%,Daily,Regular daily study,More than 6 hours,Never,4,Never,2,Below 40%,Better learning resources
+23-08-2026 10:51,Undergraduate,Third Year,Commerce / Management,3-5 hours,5-6 hours,76-90%,Daily,Mostly just before exams,4-6 hours,Often,4,Sometimes,4,80-89%,Better time management
+23-08-2026 08:19,Other,Other,Other,More than 5 hours,More than 8 hours,66-75%,Rarely,Mostly just before exams,1-2 hours,Very often,2,Sometimes,2,40-49%,Regular revision
+23-08-2026 08:11,Other,Third Year,Other Engineering,3-5 hours,Less than 5 hours,50-65%,Only before exams,Mostly just before exams,More than 6 hours,Never,3,Usually,4,Below 40%,Better learning resources
+23-08-2026 05:55,Undergraduate,Other,Other Engineering,1-2 hours,6-7 hours,Above 90%,Rarely,Weekend study sessions,2-4 hours,Sometimes,3,Usually,3,40-49%,Improved concentration
+23-08-2026 03:36,Diploma,First Year,Other,2-3 hours,More than 8 hours,Below 50%,Daily,Mostly just before exams,More than 6 hours,Very often,1,Always,4,50-59%,Reduced social media usage
+23-08-2026 03:11,Diploma,Other,Arts / Humanities,2-3 hours,More than 8 hours,50-65%,Daily,Regular daily study,Less than 1 hour,Rarely,4,Usually,2,60-69%,Better learning resources
+23-08-2026 03:00,Undergraduate,Third Year,Arts / Humanities,3-5 hours,6-7 hours,66-75%,Several times a week,Mostly just before exams,More than 6 hours,Rarely,5,Sometimes,2,70-79%,Better learning resources
+23-08-2026 02:03,Undergraduate,Fourth Year,Commerce / Management,2-3 hours,6-7 hours,76-90%,Once a week,Regular daily study,1-2 hours,Sometimes,3,Usually,2,60-69%,Improved concentration
+23-08-2026 01:48,Undergraduate,Second Year,Other,1-2 hours,6-7 hours,Above 90%,Rarely,Weekend study sessions,2-4 hours,Often,2,Always,5,Below 40%,Improved concentration
+23-08-2026 00:11,Undergraduate,Other,Arts / Humanities,2-3 hours,6-7 hours,50-65%,Once a week,Regular daily study,2-4 hours,Very often,2,Never,5,50-59%,Regular revision
+22-08-2026 20:45,Postgraduate,Third Year,Science,2-3 hours,7-8 hours,66-75%,Daily,No fixed routine,2-4 hours,Very often,3,Usually,4,60-69%,Better sleep routine
+22-08-2026 20:06,Other,Second Year,Commerce / Management,3-5 hours,6-7 hours,Above 90%,Several times a week,Weekly revision,2-4 hours,Often,2,Always,3,60-69%,More study time
+22-08-2026 16:14,Undergraduate,Second Year,Science,More than 5 hours,Less than 5 hours,50-65%,Several times a week,No fixed routine,4-6 hours,Never,3,Sometimes,1,70-79%,Reduced social media usage
+22-08-2026 15:55,Diploma,Other,Other Engineering,2-3 hours,5-6 hours,76-90%,Several times a week,No fixed routine,2-4 hours,Never,2,Always,2,80-89%,Better learning resources
+22-08-2026 15:35,Postgraduate,Third Year,Other,More than 5 hours,7-8 hours,Below 50%,Several times a week,Mostly just before exams,1-2 hours,Often,5,Never,4,70-79%,Better time management
+22-08-2026 15:08,Other,First Year,Computer Science / IT,2-3 hours,6-7 hours,76-90%,Only before exams,Weekly revision,4-6 hours,Never,2,Usually,2,50-59%,Improved concentration
+22-08-2026 14:53,Other,First Year,Arts / Humanities,2-3 hours,More than 8 hours,Above 90%,Rarely,Weekend study sessions,2-4 hours,Often,2,Always,2,40-49%,Better time management
+22-08-2026 13:17,Diploma,Other,Arts / Humanities,2-3 hours,7-8 hours,66-75%,Several times a week,No fixed routine,2-4 hours,Never,2,Sometimes,3,60-69%,Better time management
+22-08-2026 06:23,Undergraduate,Third Year,Computer Science / IT,More than 5 hours,7-8 hours,Above 90%,Only before exams,Weekly revision,2-4 hours,Rarely,1,Never,5,60-69%,More study time
+22-08-2026 05:49,Diploma,Third Year,Other,2-3 hours,Less than 5 hours,66-75%,Only before exams,Weekly revision,Less than 1 hour,Sometimes,2,Never,4,60-69%,Reduced social media usage
+22-08-2026 05:16,Other,Other,Computer Science / IT,3-5 hours,6-7 hours,66-75%,Daily,Regular daily study,4-6 hours,Rarely,5,Never,3,90% and above,Better time management
+22-08-2026 01:48,Diploma,First Year,Commerce / Management,1-2 hours,6-7 hours,66-75%,Once a week,No fixed routine,1-2 hours,Very often,2,Never,1,60-69%,More study time
+22-08-2026 00:54,Undergraduate,First Year,Other,Less than 1 hour,Less than 5 hours,66-75%,Several times a week,Weekly revision,1-2 hours,Very often,5,Always,5,50-59%,More study time
+21-08-2026 23:55,Postgraduate,Other,Arts / Humanities,3-5 hours,5-6 hours,Above 90%,Only before exams,Mostly just before exams,2-4 hours,Rarely,4,Rarely,5,50-59%,Reduced social media usage
+21-08-2026 22:00,Diploma,Third Year,Arts / Humanities,2-3 hours,7-8 hours,Above 90%,Only before exams,Mostly just before exams,4-6 hours,Rarely,1,Sometimes,4,50-59%,Better time management
+21-08-2026 21:52,Undergraduate,Third Year,Commerce / Management,Less than 1 hour,Less than 5 hours,Above 90%,Several times a week,Weekend study sessions,4-6 hours,Rarely,1,Always,1,50-59%,Better learning resources
+21-08-2026 21:18,Postgraduate,Second Year,Computer Science / IT,3-5 hours,Less than 5 hours,50-65%,Rarely,Weekend study sessions,1-2 hours,Rarely,5,Usually,5,60-69%,Better time management
+21-08-2026 20:59,Diploma,Fourth Year,Other Engineering,2-3 hours,7-8 hours,76-90%,Only before exams,Weekly revision,4-6 hours,Rarely,3,Never,4,50-59%,Regular revision
+21-08-2026 18:19,Other,Other,Commerce / Management,Less than 1 hour,6-7 hours,Below 50%,Daily,Mostly just before exams,1-2 hours,Never,1,Never,5,Below 40%,Improved concentration
+21-08-2026 18:09,Other,Other,Computer Science / IT,More than 5 hours,6-7 hours,50-65%,Daily,Weekly revision,Less than 1 hour,Never,1,Rarely,4,50-59%,Better learning resources
+21-08-2026 17:34,Other,Second Year,Science,Less than 1 hour,More than 8 hours,66-75%,Rarely,Weekend study sessions,4-6 hours,Rarely,4,Never,4,40-49%,Improved concentration
+21-08-2026 17:20,Undergraduate,Other,Computer Science / IT,2-3 hours,5-6 hours,66-75%,Once a week,Regular daily study,2-4 hours,Often,2,Always,2,40-49%,Better learning resources
+21-08-2026 15:23,Undergraduate,Fourth Year,Computer Science / IT,Less than 1 hour,Less than 5 hours,Below 50%,Rarely,Weekend study sessions,1-2 hours,Never,4,Sometimes,4,Below 40%,Better learning resources
+21-08-2026 14:50,Undergraduate,First Year,Arts / Humanities,More than 5 hours,More than 8 hours,Above 90%,Rarely,Weekly revision,More than 6 hours,Very often,4,Never,3,60-69%,More study time
+21-08-2026 14:39,Undergraduate,Third Year,Computer Science / IT,1-2 hours,6-7 hours,Above 90%,Once a week,Weekly revision,More than 6 hours,Very often,2,Usually,4,60-69%,Better time management
+21-08-2026 12:38,Other,Fourth Year,Science,More than 5 hours,More than 8 hours,50-65%,Daily,Weekend study sessions,4-6 hours,Very often,5,Sometimes,2,80-89%,Better learning resources
+21-08-2026 08:29,Postgraduate,Third Year,Other Engineering,2-3 hours,7-8 hours,76-90%,Daily,Regular daily study,Less than 1 hour,Never,1,Always,3,50-59%,Better learning resources
+21-08-2026 07:24,Postgraduate,Other,Computer Science / IT,1-2 hours,6-7 hours,76-90%,Once a week,Weekly revision,2-4 hours,Very often,3,Never,3,60-69%,Better sleep routine
+21-08-2026 05:41,Undergraduate,First Year,Computer Science / IT,3-5 hours,5-6 hours,Above 90%,Only before exams,Regular daily study,2-4 hours,Often,1,Sometimes,4,70-79%,Improved concentration
+21-08-2026 03:16,Other,Second Year,Science,3-5 hours,5-6 hours,Below 50%,Rarely,Regular daily study,Less than 1 hour,Often,1,Always,5,40-49%,More study time
+21-08-2026 02:18,Undergraduate,Second Year,Other Engineering,3-5 hours,5-6 hours,76-90%,Several times a week,Mostly just before exams,1-2 hours,Very often,4,Always,5,70-79%,Better time management
+21-08-2026 01:57,Other,Third Year,Commerce / Management,3-5 hours,6-7 hours,50-65%,Only before exams,Weekly revision,1-2 hours,Often,2,Never,5,60-69%,Better time management
+21-08-2026 01:13,Postgraduate,Other,Commerce / Management,2-3 hours,6-7 hours,66-75%,Rarely,Regular daily study,1-2 hours,Rarely,3,Rarely,4,50-59%,Regular revision
+20-08-2026 22:28,Other,Third Year,Science,1-2 hours,Less than 5 hours,Above 90%,Once a week,Regular daily study,More than 6 hours,Sometimes,1,Sometimes,5,40-49%,Improved concentration
+20-08-2026 21:09,Other,Third Year,Other,Less than 1 hour,7-8 hours,Below 50%,Once a week,Mostly just before exams,4-6 hours,Often,5,Sometimes,3,Below 40%,Better sleep routine
+20-08-2026 18:53,Other,First Year,Other,Less than 1 hour,Less than 5 hours,Below 50%,Several times a week,Weekly revision,4-6 hours,Often,5,Usually,2,Below 40%,Better sleep routine
+20-08-2026 17:49,Diploma,Other,Science,2-3 hours,Less than 5 hours,66-75%,Once a week,No fixed routine,4-6 hours,Sometimes,2,Usually,5,60-69%,Regular revision
+20-08-2026 17:28,Other,First Year,Other,Less than 1 hour,Less than 5 hours,Above 90%,Daily,No fixed routine,More than 6 hours,Often,2,Never,4,50-59%,Improved concentration
+20-08-2026 17:18,Postgraduate,Fourth Year,Arts / Humanities,More than 5 hours,Less than 5 hours,66-75%,Once a week,Weekend study sessions,4-6 hours,Often,5,Sometimes,5,60-69%,Regular revision
+20-08-2026 16:56,Other,Third Year,Computer Science / IT,3-5 hours,Less than 5 hours,50-65%,Rarely,Weekend study sessions,More than 6 hours,Very often,1,Rarely,4,50-59%,Better sleep routine
+20-08-2026 14:51,Diploma,Second Year,Science,Less than 1 hour,5-6 hours,50-65%,Only before exams,Weekend study sessions,2-4 hours,Sometimes,3,Usually,5,Below 40%,Better sleep routine
+20-08-2026 13:29,Diploma,Fourth Year,Arts / Humanities,More than 5 hours,7-8 hours,50-65%,Only before exams,Mostly just before exams,2-4 hours,Sometimes,1,Sometimes,2,40-49%,Better time management
+20-08-2026 09:18,Diploma,Third Year,Other Engineering,Less than 1 hour,6-7 hours,50-65%,Only before exams,Regular daily study,4-6 hours,Often,3,Never,1,40-49%,Regular revision
+20-08-2026 08:55,Postgraduate,First Year,Science,More than 5 hours,5-6 hours,Below 50%,Several times a week,No fixed routine,Less than 1 hour,Sometimes,1,Usually,4,60-69%,Better time management
+20-08-2026 08:07,Postgraduate,Fourth Year,Science,2-3 hours,6-7 hours,66-75%,Rarely,Regular daily study,4-6 hours,Often,3,Usually,1,50-59%,Better time management
+20-08-2026 07:27,Postgraduate,Other,Computer Science / IT,2-3 hours,6-7 hours,50-65%,Rarely,Mostly just before exams,Less than 1 hour,Often,4,Usually,4,Below 40%,Improved concentration
+20-08-2026 07:14,Postgraduate,Second Year,Other Engineering,2-3 hours,Less than 5 hours,76-90%,Once a week,Regular daily study,Less than 1 hour,Often,5,Rarely,5,80-89%,Better learning resources
+20-08-2026 06:32,Undergraduate,Fourth Year,Science,2-3 hours,6-7 hours,76-90%,Daily,Weekend study sessions,4-6 hours,Sometimes,4,Rarely,2,80-89%,Better time management
+20-08-2026 05:28,Postgraduate,Fourth Year,Other,Less than 1 hour,6-7 hours,Above 90%,Daily,Mostly just before exams,4-6 hours,Never,5,Always,4,80-89%,Better learning resources
+20-08-2026 03:58,Diploma,Other,Other,Less than 1 hour,More than 8 hours,76-90%,Rarely,Weekly revision,1-2 hours,Never,5,Always,3,Below 40%,Better sleep routine
+20-08-2026 03:30,Postgraduate,Second Year,Other Engineering,3-5 hours,Less than 5 hours,76-90%,Several times a week,Weekly revision,More than 6 hours,Rarely,1,Sometimes,5,70-79%,Better sleep routine
+20-08-2026 02:34,Undergraduate,First Year,Science,3-5 hours,5-6 hours,Above 90%,Daily,Weekend study sessions,4-6 hours,Often,1,Always,2,60-69%,Better sleep routine
+19-08-2026 23:19,Other,Second Year,Arts / Humanities,3-5 hours,7-8 hours,66-75%,Once a week,Mostly just before exams,Less than 1 hour,Often,2,Sometimes,4,60-69%,More study time
+19-08-2026 22:56,Diploma,First Year,Commerce / Management,3-5 hours,7-8 hours,76-90%,Only before exams,Weekend study sessions,1-2 hours,Very often,5,Always,3,80-89%,Better time management
+19-08-2026 21:32,Diploma,Other,Commerce / Management,More than 5 hours,7-8 hours,66-75%,Daily,Weekend study sessions,Less than 1 hour,Very often,2,Always,1,60-69%,Better time management
+19-08-2026 19:02,Diploma,First Year,Other,Less than 1 hour,More than 8 hours,50-65%,Once a week,Regular daily study,More than 6 hours,Very often,1,Always,4,40-49%,Improved concentration
+19-08-2026 19:00,Other,Third Year,Arts / Humanities,3-5 hours,5-6 hours,76-90%,Only before exams,No fixed routine,1-2 hours,Sometimes,1,Always,4,60-69%,Improved concentration
+19-08-2026 18:24,Undergraduate,Other,Commerce / Management,Less than 1 hour,7-8 hours,66-75%,Daily,Mostly just before exams,Less than 1 hour,Often,5,Never,2,50-59%,Better sleep routine
+19-08-2026 17:25,Undergraduate,Other,Commerce / Management,More than 5 hours,6-7 hours,Below 50%,Daily,Weekly revision,Less than 1 hour,Never,4,Rarely,2,80-89%,Better sleep routine
+19-08-2026 16:29,Diploma,Third Year,Computer Science / IT,2-3 hours,More than 8 hours,Above 90%,Once a week,Regular daily study,2-4 hours,Never,5,Sometimes,1,80-89%,More study time
+19-08-2026 16:03,Diploma,Other,Science,1-2 hours,5-6 hours,66-75%,Several times a week,Mostly just before exams,More than 6 hours,Very often,3,Rarely,1,60-69%,More study time
+19-08-2026 15:08,Postgraduate,Second Year,Arts / Humanities,1-2 hours,Less than 5 hours,Above 90%,Several times a week,Weekly revision,More than 6 hours,Rarely,4,Usually,5,70-79%,Better learning resources
+19-08-2026 13:36,Postgraduate,Third Year,Science,1-2 hours,Less than 5 hours,Below 50%,Daily,Weekly revision,More than 6 hours,Sometimes,4,Always,5,60-69%,Reduced social media usage
+19-08-2026 13:31,Undergraduate,Fourth Year,Computer Science / IT,Less than 1 hour,6-7 hours,Above 90%,Once a week,Weekend study sessions,1-2 hours,Rarely,4,Sometimes,1,60-69%,Regular revision
+19-08-2026 13:25,Undergraduate,First Year,Arts / Humanities,2-3 hours,More than 8 hours,Above 90%,Only before exams,Weekly revision,More than 6 hours,Never,2,Sometimes,1,70-79%,Better sleep routine
+19-08-2026 12:47,Undergraduate,Other,Computer Science / IT,2-3 hours,More than 8 hours,76-90%,Only before exams,Weekend study sessions,1-2 hours,Rarely,1,Rarely,3,50-59%,Improved concentration
+19-08-2026 08:56,Other,First Year,Commerce / Management,1-2 hours,More than 8 hours,76-90%,Rarely,Weekly revision,4-6 hours,Rarely,5,Usually,4,40-49%,Regular revision
+19-08-2026 07:23,Undergraduate,Second Year,Other Engineering,More than 5 hours,6-7 hours,76-90%,Once a week,Regular daily study,2-4 hours,Very often,1,Always,5,70-79%,Regular revision
+19-08-2026 06:44,Postgraduate,Second Year,Commerce / Management,2-3 hours,5-6 hours,Above 90%,Rarely,Weekly revision,Less than 1 hour,Rarely,3,Sometimes,4,60-69%,Better sleep routine
+19-08-2026 05:18,Other,Second Year,Other,3-5 hours,More than 8 hours,Above 90%,Once a week,Mostly just before exams,Less than 1 hour,Often,5,Never,5,70-79%,Improved concentration
+19-08-2026 04:37,Diploma,First Year,Commerce / Management,2-3 hours,Less than 5 hours,76-90%,Only before exams,Weekly revision,4-6 hours,Often,4,Always,3,60-69%,Regular revision
+19-08-2026 02:08,Postgraduate,Fourth Year,Other Engineering,2-3 hours,7-8 hours,76-90%,Only before exams,Weekly revision,2-4 hours,Often,5,Always,5,50-59%,Better sleep routine
+19-08-2026 00:52,Diploma,Fourth Year,Arts / Humanities,More than 5 hours,6-7 hours,76-90%,Only before exams,Weekly revision,1-2 hours,Rarely,2,Rarely,5,60-69%,Better time management
+19-08-2026 00:35,Other,Second Year,Other Engineering,More than 5 hours,7-8 hours,76-90%,Once a week,Weekend study sessions,More than 6 hours,Never,1,Never,2,60-69%,Better sleep routine
+18-08-2026 19:07,Postgraduate,Other,Science,More than 5 hours,7-8 hours,66-75%,Rarely,Mostly just before exams,Less than 1 hour,Rarely,1,Sometimes,2,60-69%,Better time management
+18-08-2026 12:23,Diploma,Third Year,Arts / Humanities,Less than 1 hour,5-6 hours,76-90%,Once a week,No fixed routine,1-2 hours,Rarely,5,Sometimes,3,70-79%,Improved concentration
+18-08-2026 09:59,Postgraduate,First Year,Science,Less than 1 hour,More than 8 hours,76-90%,Rarely,Weekly revision,2-4 hours,Very often,1,Always,1,40-49%,More study time
+18-08-2026 08:04,Postgraduate,Other,Other,1-2 hours,6-7 hours,Below 50%,Once a week,Mostly just before exams,Less than 1 hour,Never,4,Always,4,40-49%,Better sleep routine
+18-08-2026 06:41,Postgraduate,Second Year,Computer Science / IT,1-2 hours,7-8 hours,Below 50%,Once a week,Regular daily study,1-2 hours,Sometimes,2,Usually,5,Below 40%,Improved concentration
+18-08-2026 05:47,Postgraduate,Second Year,Other,Less than 1 hour,5-6 hours,66-75%,Only before exams,Weekend study sessions,More than 6 hours,Sometimes,4,Always,3,50-59%,Better time management
+18-08-2026 04:22,Diploma,Fourth Year,Commerce / Management,Less than 1 hour,5-6 hours,50-65%,Rarely,Weekend study sessions,4-6 hours,Never,2,Sometimes,3,Below 40%,More study time
+18-08-2026 02:21,Undergraduate,First Year,Other Engineering,3-5 hours,7-8 hours,Above 90%,Only before exams,Weekly revision,4-6 hours,Never,4,Rarely,4,60-69%,Better sleep routine
